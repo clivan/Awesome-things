@@ -13,5 +13,14 @@
 * [ORB SLA; RGBD Inertial](https://github.com/xiefei2929/ORB_SLAM3-RGBD-Inertial)
 * [fbow](https://github.com/rmsalinas/fbow)
 * [DBoW2](https://github.com/dorian3d/DBoW2)
+* [YOLO-ORB-SLAM3](https://github.com/YWL0720/YOLO_ORB_SLAM3)
+* [YOLO-ORB-SLAM3 with pointcloud map](https://github.com/YWL0720/YOLO_ORB_SLAM3_with_pointcloud_map)
+* [jupyterlab-urdf](https://github.com/jupyter-robotics/jupyterlab-urdf)
+* [DPVO](https://github.com/princeton-vl/DPVO)
+* [jupyter-ros](https://github.com/ihuicatl/jupyter-ros)
 * 
+
+## General
+* [DBoW3](https://github.com/rmsalinas/DBow3)
+* [PGraph-Python](https://github.com/petercorke/pgraph-python)
 * 
