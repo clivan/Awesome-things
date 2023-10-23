@@ -7,6 +7,9 @@
 * [YOLOV4 Custom Object Detection](https://github.com/clivan/YOLOV4-Custom-Object-Detection)
 * 
 
+## Control
+* [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
+
   ## Robotics
 * [Semantic SLAM](https://github.com/floatlazer/semantic_slam)
 * [Autonomous mobile robots](https://github.com/jdgalviss/autonomous_mobile_robot)
