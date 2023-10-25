@@ -21,9 +21,19 @@
 * [jupyterlab-urdf](https://github.com/jupyter-robotics/jupyterlab-urdf)
 * [DPVO](https://github.com/princeton-vl/DPVO)
 * [jupyter-ros](https://github.com/ihuicatl/jupyter-ros)
+* [Robotic Systems Book](https://github.com/krishauser/RoboticSystemsBook)
+* [ORB SLAM3 Docker](https://github.com/IslamAAli/ORB_SLAM3_docker)
 * 
 
+## Data Analysis
+* [Quadratic](https://github.com/quadratichq/quadratic)
+* 
+
+  
 ## General
 * [DBoW3](https://github.com/rmsalinas/DBow3)
 * [PGraph-Python](https://github.com/petercorke/pgraph-python)
+* [Ceres Solver](https://github.com/ceres-solver/ceres-solver)
+* [Sophus](https://github.com/strasdat/Sophus)
+* [Pnagolin](https://github.com/stevenlovegrove/Pangolin)
 * 
