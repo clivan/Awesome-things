@@ -23,10 +23,16 @@
 * [jupyter-ros](https://github.com/ihuicatl/jupyter-ros)
 * [Robotic Systems Book](https://github.com/krishauser/RoboticSystemsBook)
 * [ORB SLAM3 Docker](https://github.com/IslamAAli/ORB_SLAM3_docker)
+* [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)
+* [evo](https://github.com/MichaelGrupp/evo)
 * 
 
 ## Data Analysis
 * [Quadratic](https://github.com/quadratichq/quadratic)
+* [Streamlit](https://github.com/streamlit/streamlit)
+
+## Embedded Systems
+* [AVR-FFT](https://github.com/Klafyvel/AVR-FFT)
 * 
 
   
@@ -35,5 +41,8 @@
 * [PGraph-Python](https://github.com/petercorke/pgraph-python)
 * [Ceres Solver](https://github.com/ceres-solver/ceres-solver)
 * [Sophus](https://github.com/strasdat/Sophus)
-* [Pnagolin](https://github.com/stevenlovegrove/Pangolin)
+* [Pangolin](https://github.com/stevenlovegrove/Pangolin)
+* [GearFactory](https://github.com/Klafyvel/GearFactory)
+* [g2o](https://github.com/RainerKuemmerle/g2o)
+* [librealsense](https://github.com/IntelRealSense/librealsense)
 * 
