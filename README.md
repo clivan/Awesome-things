@@ -5,6 +5,7 @@
 * [Artistic videos](https://github.com/manuelruder/artistic-videos)
 * [Image Caption Generator](https://github.com/dabasajay/Image-Caption-Generator)
 * [YOLOV4 Custom Object Detection](https://github.com/clivan/YOLOV4-Custom-Object-Detection)
+* [Instruct Pix2Pix](https://github.com/timothybrooks/instruct-pix2pix)
 * 
 
 ## Control
