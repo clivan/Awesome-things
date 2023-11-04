@@ -34,7 +34,10 @@
 
 ## Embedded Systems
 * [AVR-FFT](https://github.com/Klafyvel/AVR-FFT)
-* 
+* [SavvyCAN](https://github.com/collin80/SavvyCAN)
+* [ESP32 CAN](https://github.com/collin80/esp32_can)
+* [Open SAE J1939](https://github.com/DanielMartensson/Open-SAE-J1939)
+* [Easy CANOpen](https://github.com/DanielMartensson/Easy-CANopen)
 
   
 ## General
