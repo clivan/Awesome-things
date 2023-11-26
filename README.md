@@ -6,10 +6,12 @@
 * [Image Caption Generator](https://github.com/dabasajay/Image-Caption-Generator)
 * [YOLOV4 Custom Object Detection](https://github.com/clivan/YOLOV4-Custom-Object-Detection)
 * [Instruct Pix2Pix](https://github.com/timothybrooks/instruct-pix2pix)
+* [Segment anything](https://github.com/facebookresearch/segment-anything)
 * 
 
 ## Control
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
+* [BDSim](https://github.com/petercorke/bdsim)
 
   ## Robotics
 * [Semantic SLAM](https://github.com/floatlazer/semantic_slam)
@@ -27,6 +29,8 @@
 * [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)
 * [evo](https://github.com/MichaelGrupp/evo)
 * 
+## Computer Vision
+* [MachineVision Toolbox Python](https://github.com/petercorke/machinevision-toolbox-python)
 
 ## Data Analysis
 * [Quadratic](https://github.com/quadratichq/quadratic)
