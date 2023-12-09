@@ -1,5 +1,5 @@
 # Awesome things
-## Neural Network models
+## AI
 * [iGAN](https://github.com/mnielsen/iGAN)
 * [neural style audio tf](https://github.com/DmitryUlyanov/neural-style-audio-tf)
 * [Artistic videos](https://github.com/manuelruder/artistic-videos)
@@ -7,7 +7,7 @@
 * [YOLOV4 Custom Object Detection](https://github.com/clivan/YOLOV4-Custom-Object-Detection)
 * [Instruct Pix2Pix](https://github.com/timothybrooks/instruct-pix2pix)
 * [Segment anything](https://github.com/facebookresearch/segment-anything)
-* 
+* [gpt4all](https://github.com/nomic-ai/gpt4all)
 
 ## Control
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
@@ -28,6 +28,7 @@
 * [ORB SLAM3 Docker](https://github.com/IslamAAli/ORB_SLAM3_docker)
 * [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)
 * [evo](https://github.com/MichaelGrupp/evo)
+* [spatial math python](https://github.com/bdaiinstitute/spatialmath-python)
 * 
 ## Computer Vision
 * [MachineVision Toolbox Python](https://github.com/petercorke/machinevision-toolbox-python)
@@ -53,4 +54,6 @@
 * [GearFactory](https://github.com/Klafyvel/GearFactory)
 * [g2o](https://github.com/RainerKuemmerle/g2o)
 * [librealsense](https://github.com/IntelRealSense/librealsense)
+* [olive](https://github.com/tsoding/olive.c)
+* [gogs](https://github.com/gogs/gogs)
 * 
