@@ -8,6 +8,7 @@
 * [Instruct Pix2Pix](https://github.com/timothybrooks/instruct-pix2pix)
 * [Segment anything](https://github.com/facebookresearch/segment-anything)
 * [gpt4all](https://github.com/nomic-ai/gpt4all)
+* [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 
 ## Control
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
@@ -36,6 +37,7 @@
 ## Data Analysis
 * [Quadratic](https://github.com/quadratichq/quadratic)
 * [Streamlit](https://github.com/streamlit/streamlit)
+* [Rath](https://github.com/Kanaries/Rath)
 
 ## Embedded Systems
 * [AVR-FFT](https://github.com/Klafyvel/AVR-FFT)
@@ -56,4 +58,5 @@
 * [librealsense](https://github.com/IntelRealSense/librealsense)
 * [olive](https://github.com/tsoding/olive.c)
 * [gogs](https://github.com/gogs/gogs)
+* [RocketChat](https://github.com/RocketChat/Rocket.Chat)
 * 
