@@ -9,6 +9,7 @@
 * [Segment anything](https://github.com/facebookresearch/segment-anything)
 * [gpt4all](https://github.com/nomic-ai/gpt4all)
 * [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+* [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
 
 ## Control
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
