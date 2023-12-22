@@ -10,6 +10,7 @@
 * [gpt4all](https://github.com/nomic-ai/gpt4all)
 * [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 * [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
+* [wikipedia2vec](https://github.com/wikipedia2vec/wikipedia2vec)
 
 ## Control
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
@@ -46,6 +47,7 @@
 * [ESP32 CAN](https://github.com/collin80/esp32_can)
 * [Open SAE J1939](https://github.com/DanielMartensson/Open-SAE-J1939)
 * [Easy CANOpen](https://github.com/DanielMartensson/Easy-CANopen)
+* [Busmaster](https://github.com/rbei-etas/busmaster)
 
   
 ## General
