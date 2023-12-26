@@ -11,6 +11,7 @@
 * [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 * [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
 * [wikipedia2vec](https://github.com/wikipedia2vec/wikipedia2vec)
+* [Vision Transformer](https://github.com/tuvovan/Vision_Transformer_Keras)
 
 ## Control
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
