@@ -12,6 +12,7 @@
 * [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
 * [wikipedia2vec](https://github.com/wikipedia2vec/wikipedia2vec)
 * [Vision Transformer](https://github.com/tuvovan/Vision_Transformer_Keras)
+* [AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3)
 
 ## Control
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
