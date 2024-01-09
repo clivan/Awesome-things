@@ -13,6 +13,7 @@
 * [wikipedia2vec](https://github.com/wikipedia2vec/wikipedia2vec)
 * [Vision Transformer](https://github.com/tuvovan/Vision_Transformer_Keras)
 * [AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3)
+* [whisperX](https://github.com/m-bain/whisperX)
 
 ## Control
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
@@ -42,6 +43,7 @@
 * [Quadratic](https://github.com/quadratichq/quadratic)
 * [Streamlit](https://github.com/streamlit/streamlit)
 * [Rath](https://github.com/Kanaries/Rath)
+* [vizro](https://github.com/mckinsey/vizro)
 
 ## Embedded Systems
 * [AVR-FFT](https://github.com/Klafyvel/AVR-FFT)
@@ -64,4 +66,6 @@
 * [olive](https://github.com/tsoding/olive.c)
 * [gogs](https://github.com/gogs/gogs)
 * [RocketChat](https://github.com/RocketChat/Rocket.Chat)
-* 
+
+## Science
+* [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
