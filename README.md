@@ -35,6 +35,7 @@
 * [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)
 * [evo](https://github.com/MichaelGrupp/evo)
 * [spatial math python](https://github.com/bdaiinstitute/spatialmath-python)
+* [Python Robotics](https://github.com/AtsushiSakai/PythonRobotics)
 * 
 ## Computer Vision
 * [MachineVision Toolbox Python](https://github.com/petercorke/machinevision-toolbox-python)
@@ -53,6 +54,9 @@
 * [Easy CANOpen](https://github.com/DanielMartensson/Easy-CANopen)
 * [Busmaster](https://github.com/rbei-etas/busmaster)
 
+## Electronic Stuff
+* [Adafruit CAD Parts](https://github.com/adafruit/Adafruit_CAD_Parts)
+
   
 ## General
 * [DBoW3](https://github.com/rmsalinas/DBow3)
@@ -66,6 +70,7 @@
 * [olive](https://github.com/tsoding/olive.c)
 * [gogs](https://github.com/gogs/gogs)
 * [RocketChat](https://github.com/RocketChat/Rocket.Chat)
+* [github-archive](https://github.com/Justintime50/github-archive)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
