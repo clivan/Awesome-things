@@ -73,6 +73,8 @@
 * [github-archive](https://github.com/Justintime50/github-archive)
 * [navidrome](https://github.com/navidrome/navidrome)
 * [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+* [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
+* [wavedrom](https://github.com/wavedrom/wavedrom)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
