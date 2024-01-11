@@ -71,6 +71,8 @@
 * [gogs](https://github.com/gogs/gogs)
 * [RocketChat](https://github.com/RocketChat/Rocket.Chat)
 * [github-archive](https://github.com/Justintime50/github-archive)
+* [navidrome](https://github.com/navidrome/navidrome)
+* [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
