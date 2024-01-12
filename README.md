@@ -75,6 +75,10 @@
 * [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 * [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 * [wavedrom](https://github.com/wavedrom/wavedrom)
+* [apollo](https://github.com/not-matthias/apollo)
+* [generativepy](https://github.com/martinmcbride/generativepy)
+* [FreeCAD-Tutotial-Generator](https://github.com/alekssadowski95/FreeCAD-Tutorial-Generator)
+* [storybook](https://github.com/storybookjs/storybook)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
