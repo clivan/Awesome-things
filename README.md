@@ -14,6 +14,7 @@
 * [Vision Transformer](https://github.com/tuvovan/Vision_Transformer_Keras)
 * [AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3)
 * [whisperX](https://github.com/m-bain/whisperX)
+* [magic-animate](https://github.com/magic-research/magic-animate)
 
 ## Control
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
@@ -53,6 +54,9 @@
 * [Open SAE J1939](https://github.com/DanielMartensson/Open-SAE-J1939)
 * [Easy CANOpen](https://github.com/DanielMartensson/Easy-CANopen)
 * [Busmaster](https://github.com/rbei-etas/busmaster)
+* [PipelineC](https://github.com/JulianKemmerer/PipelineC)
+* [Embedded Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+* [FPGA-ASIC-Roadmap](https://github.com/m3y54m/FPGA-ASIC-Roadmap)
 
 ## Electronic Stuff
 * [Adafruit CAD Parts](https://github.com/adafruit/Adafruit_CAD_Parts)
@@ -79,6 +83,7 @@
 * [generativepy](https://github.com/martinmcbride/generativepy)
 * [FreeCAD-Tutotial-Generator](https://github.com/alekssadowski95/FreeCAD-Tutorial-Generator)
 * [storybook](https://github.com/storybookjs/storybook)
+* [screenshotToCode](https://github.com/abi/screenshot-to-code)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
