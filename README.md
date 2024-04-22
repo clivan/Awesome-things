@@ -84,6 +84,7 @@
 * [FreeCAD-Tutotial-Generator](https://github.com/alekssadowski95/FreeCAD-Tutorial-Generator)
 * [storybook](https://github.com/storybookjs/storybook)
 * [screenshotToCode](https://github.com/abi/screenshot-to-code)
+* [mars-lander](https://github.com/Wren6991/Mars-Lander)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
