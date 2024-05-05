@@ -57,6 +57,7 @@
 * [PipelineC](https://github.com/JulianKemmerer/PipelineC)
 * [Embedded Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 * [FPGA-ASIC-Roadmap](https://github.com/m3y54m/FPGA-ASIC-Roadmap)
+* [Hanshow-Auto-Updater](https://github.com/MakersFunDuck/Hanshow-Auto-Updater)
 
 ## Electronic Stuff
 * [Adafruit CAD Parts](https://github.com/adafruit/Adafruit_CAD_Parts)
@@ -85,6 +86,7 @@
 * [storybook](https://github.com/storybookjs/storybook)
 * [screenshotToCode](https://github.com/abi/screenshot-to-code)
 * [mars-lander](https://github.com/Wren6991/Mars-Lander)
+* [css-docs](https://github.com/eludadev/css-docs)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
