@@ -15,6 +15,7 @@
 * [AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3)
 * [whisperX](https://github.com/m-bain/whisperX)
 * [magic-animate](https://github.com/magic-research/magic-animate)
+* [artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python)
 
 ## Control
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
