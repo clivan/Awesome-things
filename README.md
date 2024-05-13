@@ -88,6 +88,9 @@
 * [screenshotToCode](https://github.com/abi/screenshot-to-code)
 * [mars-lander](https://github.com/Wren6991/Mars-Lander)
 * [css-docs](https://github.com/eludadev/css-docs)
+* [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+* [YouTube-Shorts-Generator](https://github.com/nikhilnair31/YouTube-Shorts-Generator)
+* [appideas](https://github.com/florinpop17/app-ideas)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
