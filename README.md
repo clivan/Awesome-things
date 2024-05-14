@@ -38,6 +38,7 @@
 * [evo](https://github.com/MichaelGrupp/evo)
 * [spatial math python](https://github.com/bdaiinstitute/spatialmath-python)
 * [Python Robotics](https://github.com/AtsushiSakai/PythonRobotics)
+* [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
 * 
 ## Computer Vision
 * [MachineVision Toolbox Python](https://github.com/petercorke/machinevision-toolbox-python)
