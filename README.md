@@ -92,6 +92,9 @@
 * [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 * [YouTube-Shorts-Generator](https://github.com/nikhilnair31/YouTube-Shorts-Generator)
 * [appideas](https://github.com/florinpop17/app-ideas)
+* [Free-Certifications](https://github.com/clivan/Free-Certifications)
+* [threestudio](https://github.com/threestudio-project/threestudio)
+* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
