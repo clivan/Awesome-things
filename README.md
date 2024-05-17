@@ -95,6 +95,12 @@
 * [Free-Certifications](https://github.com/clivan/Free-Certifications)
 * [threestudio](https://github.com/threestudio-project/threestudio)
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [awesome-rust](https://github.com/liuchong/awesome-rust)
+* [awesome-serverless](https://github.com/liuchong/awesome-serverless)
+* [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+* [gh-actions-importer](https://github.com/github/gh-actions-importer)
+* [stackql](https://github.com/stackql/stackql)
+* [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
