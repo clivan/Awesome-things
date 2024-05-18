@@ -101,6 +101,13 @@
 * [gh-actions-importer](https://github.com/github/gh-actions-importer)
 * [stackql](https://github.com/stackql/stackql)
 * [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+* [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+* [Ocreeb-mk-2](https://github.com/sb-ocr/ocreeb-mk-2)
+* [ReClass.NET](https://github.com/ReClassNET/ReClass.NET)
+* [PhaserRadar](https://github.com/jonkraft/PhaserRadarLabs)
+* [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
+* [CopilotKit](https://github.com/CopilotKit/CopilotKit)
+* [public-apis](https://github.com/public-apis/public-apis)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
