@@ -108,6 +108,15 @@
 * [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
 * [CopilotKit](https://github.com/CopilotKit/CopilotKit)
 * [public-apis](https://github.com/public-apis/public-apis)
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* [taipy](https://github.com/Avaiga/taipy)
+* [free-for-dev](https://github.com/ripienaar/free-for-dev)
+* [open-saas](https://github.com/wasp-lang/open-saas)
+* [maps-pathfinding](https://github.com/santifiorino/maps-pathfinding)
+* [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+* [linkedin-scrapper-bot](https://github.com/lautidevv/linkedin-scrapper-bot)
+* [excelCPU](https://github.com/InkboxSoftware/excelCPU)
+* [minimalist-portfolio-json](https://github.com/midudev/minimalist-portfolio-json)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
