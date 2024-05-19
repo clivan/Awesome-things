@@ -117,6 +117,7 @@
 * [linkedin-scrapper-bot](https://github.com/lautidevv/linkedin-scrapper-bot)
 * [excelCPU](https://github.com/InkboxSoftware/excelCPU)
 * [minimalist-portfolio-json](https://github.com/midudev/minimalist-portfolio-json)
+* [next-supabase-saas-boilerplate](https://github.com/Chensokheng/next--supabase-saas-boilerplate)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
