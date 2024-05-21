@@ -118,6 +118,14 @@
 * [excelCPU](https://github.com/InkboxSoftware/excelCPU)
 * [minimalist-portfolio-json](https://github.com/midudev/minimalist-portfolio-json)
 * [next-supabase-saas-boilerplate](https://github.com/Chensokheng/next--supabase-saas-boilerplate)
+* [end2end-all-conv](https://github.com/lishen/end2end-all-conv)
+* [InstColorization](https://github.com/ericsujw/InstColorization)
+* [JoJoGAN](https://github.com/mchong6/JoJoGAN)
+* [pyphotoshop](https://github.com/kying18/pyphotoshop)
+* [DAIN](https://github.com/baowenbo/DAIN)
+* [CtyleCLIP](https://github.com/orpatashnik/StyleCLIP)
+* [TecoGAN](https://github.com/thunil/TecoGAN)
+* [DeOldify](https://github.com/jantic/DeOldify)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
