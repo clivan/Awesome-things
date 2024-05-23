@@ -126,6 +126,10 @@
 * [CtyleCLIP](https://github.com/orpatashnik/StyleCLIP)
 * [TecoGAN](https://github.com/thunil/TecoGAN)
 * [DeOldify](https://github.com/jantic/DeOldify)
+* [personal-server](https://github.com/erebe/personal-server)
+* [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
+* [LL-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)
+* [MS-DOS](https://github.com/microsoft/MS-DOS)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
