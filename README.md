@@ -130,6 +130,9 @@
 * [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
 * [LL-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)
 * [MS-DOS](https://github.com/microsoft/MS-DOS)
+* [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [pocketbase](https://github.com/pocketbase/pocketbase)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
