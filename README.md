@@ -133,6 +133,10 @@
 * [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [pocketbase](https://github.com/pocketbase/pocketbase)
+* [Pysics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
+* [ui](https://github.com/atherosai/ui)
+* [phidata](https://github.com/phidatahq/phidata)
+* [path_tracking](https://github.com/MizuhoAOKI/path_tracking_catalog)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
