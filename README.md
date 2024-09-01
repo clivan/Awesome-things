@@ -137,6 +137,9 @@
 * [ui](https://github.com/atherosai/ui)
 * [phidata](https://github.com/phidatahq/phidata)
 * [path_tracking](https://github.com/MizuhoAOKI/path_tracking_catalog)
+* [blender_notebooks](https://github.com/cheng-chi/blender_notebook)
+* [ORB_SLAM3_ROS2](https://github.com/zang09/ORB_SLAM3_ROS2)
+* [PS$-ESP32](https://github.com/aed3/PS4-esp32)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
