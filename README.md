@@ -140,6 +140,8 @@
 * [blender_notebooks](https://github.com/cheng-chi/blender_notebook)
 * [ORB_SLAM3_ROS2](https://github.com/zang09/ORB_SLAM3_ROS2)
 * [PS$-ESP32](https://github.com/aed3/PS4-esp32)
+* [Awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
+* [Awesome-docker](https://github.com/veggiemonk/awesome-docker)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
