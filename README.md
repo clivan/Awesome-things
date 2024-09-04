@@ -142,6 +142,7 @@
 * [PS$-ESP32](https://github.com/aed3/PS4-esp32)
 * [Awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 * [Awesome-docker](https://github.com/veggiemonk/awesome-docker)
+* [awesome-stacks](https://github.com/stackshareio/awesome-stacks)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
