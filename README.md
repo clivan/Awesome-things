@@ -143,6 +143,7 @@
 * [Awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 * [Awesome-docker](https://github.com/veggiemonk/awesome-docker)
 * [awesome-stacks](https://github.com/stackshareio/awesome-stacks)
+* [Momo Translator](https://github.com/alicewish/MomoTranslator)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
