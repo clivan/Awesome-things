@@ -144,6 +144,7 @@
 * [Awesome-docker](https://github.com/veggiemonk/awesome-docker)
 * [awesome-stacks](https://github.com/stackshareio/awesome-stacks)
 * [Momo Translator](https://github.com/alicewish/MomoTranslator)
+* [frontend-dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
