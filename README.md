@@ -145,6 +145,7 @@
 * [awesome-stacks](https://github.com/stackshareio/awesome-stacks)
 * [Momo Translator](https://github.com/alicewish/MomoTranslator)
 * [frontend-dev](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [nmap](https://github.com/nmap/nmap)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
