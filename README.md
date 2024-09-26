@@ -147,6 +147,10 @@
 * [frontend-dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [nmap](https://github.com/nmap/nmap)
 * [awesome-indie](https://github.com/mezod/awesome-indie)
+* [awesome-selffounded](https://github.com/mezod/awesome-self-funded)
+* [awesome-productivity](https://github.com/mezod/awesome-productivity)
+* [awesome-multi-robot-system](https://github.com/Grandzxw/awesome-multi-robot-system)
+* [awesome-nn-slam](https://github.com/Grandzxw/awesome-nn-slam)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
