@@ -151,6 +151,8 @@
 * [awesome-productivity](https://github.com/mezod/awesome-productivity)
 * [awesome-multi-robot-system](https://github.com/Grandzxw/awesome-multi-robot-system)
 * [awesome-nn-slam](https://github.com/Grandzxw/awesome-nn-slam)
+* [awesome-opensource-asic-resources](https://github.com/mattvenn/awesome-opensource-asic-resources)
+* [awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
