@@ -153,6 +153,13 @@
 * [awesome-nn-slam](https://github.com/Grandzxw/awesome-nn-slam)
 * [awesome-opensource-asic-resources](https://github.com/mattvenn/awesome-opensource-asic-resources)
 * [awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware)
+* [mini-riscv-os](https://github.com/cccriscv/mini-riscv-os)
+* [Protofy](https://github.com/Protofy-xyz/Protofy)
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [Quadruped-pyMPC](https://github.com/iit-DLSLab/Quadruped-PyMPC)
+* [DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
+* [gm](https://github.com/flujoo/gm)
+* [Source-Robotics-Toolbox](https://github.com/PCrnjak/Source-Robotics-Toolbox)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
