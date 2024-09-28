@@ -160,6 +160,12 @@
 * [DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
 * [gm](https://github.com/flujoo/gm)
 * [Source-Robotics-Toolbox](https://github.com/PCrnjak/Source-Robotics-Toolbox)
+* [PythonLinearNonlinearContro](https://github.com/Shunichi09/PythonLinearNonlinearControl)
+* [aweome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+* [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+* [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source)
+* [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+* [awesome-microservices](https://github.com/mfornos/awesome-microservices)
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
