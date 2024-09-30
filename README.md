@@ -165,6 +165,7 @@
 * [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 * [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source)
 * [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+* [awesome-jsn-datsets](https://github.com/jdorfman/awesome-json-datasets)
 * [awesome-microservices](https://github.com/mfornos/awesome-microservices)
 
 ## Science
