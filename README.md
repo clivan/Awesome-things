@@ -168,6 +168,11 @@
 * [awesome-jsn-datsets](https://github.com/jdorfman/awesome-json-datasets)
 * [awesome-microservices](https://github.com/mfornos/awesome-microservices)
 * [awesome-db-tools](https://github.com/mgramin/awesome-db-tools)
+* [windows-api-function-cheatsheet](https://github.com/7etsuo/windows-api-function-cheatsheets)
+* [x86](https://github.com/7etsuo/x86)
+* [awesome-c](https://github.com/oz123/awesome-c)
+* [public-apis](https://github.com/marcelscruz/public-apis)
+
 
 ## Science
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
