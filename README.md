@@ -172,6 +172,7 @@
 * [x86](https://github.com/7etsuo/x86)
 * [awesome-c](https://github.com/oz123/awesome-c)
 * [public-apis](https://github.com/marcelscruz/public-apis)
+* [skfolio](https://github.com/skfolio/skfolio)
 
 
 ## Science
