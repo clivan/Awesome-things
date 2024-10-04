@@ -173,6 +173,7 @@
 * [awesome-c](https://github.com/oz123/awesome-c)
 * [public-apis](https://github.com/marcelscruz/public-apis)
 * [skfolio](https://github.com/skfolio/skfolio)
+* [GeoCalib](https://github.com/cvg/GeoCalib)
 
 
 ## Science
