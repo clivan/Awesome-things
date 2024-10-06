@@ -181,6 +181,8 @@
 * [coolify](https://github.com/coollabsio/coolify)
 * [appwrite](https://github.com/appwrite/appwrite)
 * [supabase](https://github.com/supabase/supabase)
+* [clad](https://github.com/vgvassilev/clad)
+* [InvenTree](https://github.com/inventree/InvenTree)
 
 
 ## Science
