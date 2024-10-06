@@ -174,6 +174,13 @@
 * [public-apis](https://github.com/marcelscruz/public-apis)
 * [skfolio](https://github.com/skfolio/skfolio)
 * [GeoCalib](https://github.com/cvg/GeoCalib)
+* [dokkui](https://github.com/dokku/dokku)
+* [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+* [zola](https://github.com/getzola/zola)
+* [mattermost](https://github.com/mattermost/mattermost)
+* [coolify](https://github.com/coollabsio/coolify)
+* [appwrite](https://github.com/appwrite/appwrite)
+* [supabase](https://github.com/supabase/supabase)
 
 
 ## Science
