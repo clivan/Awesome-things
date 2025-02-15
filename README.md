@@ -183,6 +183,8 @@
 * [supabase](https://github.com/supabase/supabase)
 * [clad](https://github.com/vgvassilev/clad)
 * [InvenTree](https://github.com/inventree/InvenTree)
+* [awesome-android](https://github.com/zserge/awesome-android)
+* [awesome-stock-resources](https://github.com/zserge/awesome-stock-resources)
 
 
 ## Science
