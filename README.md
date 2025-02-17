@@ -185,6 +185,12 @@
 * [InvenTree](https://github.com/inventree/InvenTree)
 * [awesome-android](https://github.com/zserge/awesome-android)
 * [awesome-stock-resources](https://github.com/zserge/awesome-stock-resources)
+* [docker-images](https://github.com/ahcorde/docker_images)
+* [awesome-gazebo](https://github.com/ahcorde/awesome-gazebo)
+* [awesome-embedded-linux](https://github.com/fkromer/awesome-embedded-linux)
+* [awesome-yocto](https://github.com/fkromer/awesome-yocto-project)
+* [exploratory-data-analysis-of-sensor-data-with-pandas](https://github.com/fkromer/exploratory-data-analysis-of-sensor-data-with-pandas)
+* [ros_canopen](https://github.com/ahcorde/ros_canopen)
 
 
 ## Science
