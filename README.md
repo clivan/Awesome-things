@@ -191,6 +191,14 @@
 * [awesome-yocto](https://github.com/fkromer/awesome-yocto-project)
 * [exploratory-data-analysis-of-sensor-data-with-pandas](https://github.com/fkromer/exploratory-data-analysis-of-sensor-data-with-pandas)
 * [ros_canopen](https://github.com/ahcorde/ros_canopen)
+* [ardupilot](https://github.com/ahcorde/ardupilot)
+* [ros2_raspbian_tools](https://github.com/esteve/ros2_raspbian_tools)
+* [ros_control](https://github.com/ahcorde/ros_control)
+* [ros_intelrealsense](https://github.com/AndrejOrsula/ros2_intel_realsense)
+* [flight_review](https://github.com/sfuhrer/flight_reviewhttps://github.com/sfuhrer/flight_review)
+* [emoji-translate](https://github.com/notwaldorf/emoji-translate)
+* [Linux from scratch](https://github.com/arjuncr/Linux-from-scratch)
+* 
 
 
 ## Science
