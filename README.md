@@ -198,7 +198,9 @@
 * [flight_review](https://github.com/sfuhrer/flight_reviewhttps://github.com/sfuhrer/flight_review)
 * [emoji-translate](https://github.com/notwaldorf/emoji-translate)
 * [Linux from scratch](https://github.com/arjuncr/Linux-from-scratch)
-* 
+* [openvpn](https://github.com/flaviostutz/openvpn-server)
+* [gitea](https://github.com/vitalif/gitea)
+* [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers)
 
 
 ## Science
