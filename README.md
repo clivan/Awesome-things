@@ -201,6 +201,11 @@
 * [openvpn](https://github.com/flaviostutz/openvpn-server)
 * [gitea](https://github.com/vitalif/gitea)
 * [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers)
+* [nishang](https://github.com/samratashok/nishang)
+* [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
+* [taiga-docker](https://github.com/taigaio/taiga-docker)
+* [digitalhippo](https://github.com/joschan21/digitalhippo)
+* [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX)
 
 
 ## Science
