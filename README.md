@@ -206,6 +206,15 @@
 * [taiga-docker](https://github.com/taigaio/taiga-docker)
 * [digitalhippo](https://github.com/joschan21/digitalhippo)
 * [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX)
+* [pi3d](https://github.com/Ebiroll/pi3d)
+* [watchtower](https://github.com/containrrr/watchtower)
+* [firecamp](https://github.com/firecamp-dev/firecamp)
+* [meshanything](https://github.com/buaacyw/MeshAnything)
+* [animatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
+* [awesome-python](https://github.com/vinta/awesome-python)
+* [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
+* [roop](https://github.com/s0md3v/roop)
+* 
 
 
 ## Science
