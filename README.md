@@ -214,6 +214,12 @@
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
 * [roop](https://github.com/s0md3v/roop)
+* [software-architecture-premier](https://github.com/sivaprasadreddy/software-architecture-premier)
+* [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+* [aura-voice](https://github.com/ntegrals/aura-voice)
+* [latexdiff](https://github.com/ftilmann/latexdiff)
+* [ToonCrafter](https://github.com/Doubiiu/ToonCrafter)
+* [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)
 * 
 
 
