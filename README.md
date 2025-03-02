@@ -220,6 +220,10 @@
 * [latexdiff](https://github.com/ftilmann/latexdiff)
 * [ToonCrafter](https://github.com/Doubiiu/ToonCrafter)
 * [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)
+* [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+* [space_robotics_bench](https://github.com/AndrejOrsula/space_robotics_bench)
+* [joss-papers](https://github.com/openjournals/joss-papers)
+* [tau](https://github.com/taubyte/tau)
 * 
 
 
