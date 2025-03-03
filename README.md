@@ -224,6 +224,12 @@
 * [space_robotics_bench](https://github.com/AndrejOrsula/space_robotics_bench)
 * [joss-papers](https://github.com/openjournals/joss-papers)
 * [tau](https://github.com/taubyte/tau)
+* [mermaid](https://github.com/mermaid-js/mermaid)
+* [budibase](https://github.com/Budibase/budibase)
+* [signoz](https://github.com/SigNoz/signoz)
+* [hanko](https://github.com/teamhanko/hanko)
+* [ImHex](https://github.com/WerWolv/ImHex)
+* [BookStack](https://github.com/BookStackApp/BookStack)
 * 
 
 
