@@ -230,7 +230,15 @@
 * [hanko](https://github.com/teamhanko/hanko)
 * [ImHex](https://github.com/WerWolv/ImHex)
 * [BookStack](https://github.com/BookStackApp/BookStack)
-* 
+* [kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions)
+* [awesome-compose](https://github.com/docker/awesome-compose)
+* [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [faceswap](https://github.com/deepfakes/faceswap)
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+* [WebVM](https://github.com/leaningtech/webvm)
+* [DevHub](https://github.com/jaywcjlove/DevHub)
+* [ZathuraDbg](https://github.com/ZathuraDbg/ZathuraDbg)
+* [lgocreator](https://github.com/Nutlope/logocreator)
 
 
 ## Science
