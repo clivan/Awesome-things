@@ -239,6 +239,19 @@
 * [DevHub](https://github.com/jaywcjlove/DevHub)
 * [ZathuraDbg](https://github.com/ZathuraDbg/ZathuraDbg)
 * [lgocreator](https://github.com/Nutlope/logocreator)
+* [lazydocker](https://github.com/jesseduffield/lazydocker)
+* [lazygit](https://github.com/jesseduffield/lazygit)
+* [tqdm](https://github.com/tqdm/tqdm)
+* [c-web-modules](https://github.com/joexbayer/c-web-modules)
+* [yami](https://github.com/DevER-M/yami)
+* [model2vec](https://github.com/MinishLab/model2vec)
+* [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
+* [azure-cheat-sheet](https://github.com/milanm/azure-cheat-sheet)
+* [DevOps-roadmap](https://github.com/milanm/DevOps-Roadmap)
+* [docker-k8s-training](https://github.com/milanm/docker-k8s-training)
+* [umbrel](https://github.com/getumbrel/umbrel)
+* [boltz](https://github.com/jwohlwend/boltz)
+* [Documind](https://github.com/DocumindHQ/documind)
 
 
 ## Science
