@@ -252,6 +252,20 @@
 * [umbrel](https://github.com/getumbrel/umbrel)
 * [boltz](https://github.com/jwohlwend/boltz)
 * [Documind](https://github.com/DocumindHQ/documind)
+* [thingsboard](https://github.com/thingsboard/thingsboard)
+* [superfile](https://github.com/yorukot/superfile)
+* [automatisch](https://github.com/automatisch/automatisch)
+* [photoprism](https://github.com/photoprism/photoprism)
+* [blinko](https://github.com/blinko-space/blinko)
+* [podman](https://github.com/containers/podman)
+* [terrateam](https://github.com/terrateamio/terrateam)
+* [alphafold3](https://github.com/google-deepmind/alphafold3)
+* [facefusion](https://github.com/facefusion/facefusion)
+* [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+* [wasmer](https://github.com/wasmerio/wasmer)
+* [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
+* [rl-tools](https://github.com/rl-tools/rl-tools)
+* 
 
 
 ## Science
