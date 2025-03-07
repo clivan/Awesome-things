@@ -265,7 +265,14 @@
 * [wasmer](https://github.com/wasmerio/wasmer)
 * [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
 * [rl-tools](https://github.com/rl-tools/rl-tools)
-* 
+* [macos](https://github.com/dockur/macos)
+* [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
+* [rocketnotes](https://github.com/fynnfluegge/rocketnotes)
+* [Bruce](https://github.com/pr3y/Bruce)
+* [nestool](https://github.com/zeim839/nes-tools)
+* [containerd](https://github.com/containerd/containerd)
+* [98.css](https://github.com/jdan/98.css)
+* [gpustack](https://github.com/gpustack/gpustack)
 
 
 ## Science
