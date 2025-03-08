@@ -282,6 +282,17 @@
 * [nodezator](https://github.com/IndieSmiths/nodezator)
 * [OliveTin](https://github.com/OliveTin/OliveTin)
 * [FlowWise](https://github.com/FlowiseAI/Flowise)
+* [Appwrite](https://github.com/appwrite/appwrite)
+* [vhs](https://github.com/charmbracelet/vhs)
+* [fastmusicremover](https://github.com/omeryusufyagci/fast-music-remover)
+* [3d_printing](https://github.com/tom-doerr/3d_printing)
+* [bananas](https://github.com/mistweaverco/bananas)
+* [Diffsensei](https://github.com/jianzongwu/DiffSensei)
+* [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
+* [rag-knowledge-graph](https://github.com/cristianleoo/rag-knowledge-graph)
+* [revideo](https://github.com/redotvideo/revideo)
+* 
+* 
 
 
 ## Science
