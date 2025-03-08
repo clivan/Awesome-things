@@ -273,6 +273,15 @@
 * [containerd](https://github.com/containerd/containerd)
 * [98.css](https://github.com/jdan/98.css)
 * [gpustack](https://github.com/gpustack/gpustack)
+* [isaiah](https://github.com/will-moss/isaiah)
+* [n8n](https://github.com/n8n-io/n8n)
+* [amneia-vpn](https://github.com/amnezia-vpn/amnezia-client)
+* [twenty](https://github.com/twentyhq/twenty)
+* [OneDiffusion](https://github.com/lehduong/OneDiffusion)
+* [node-red](https://github.com/node-red/node-red)
+* [nodezator](https://github.com/IndieSmiths/nodezator)
+* [OliveTin](https://github.com/OliveTin/OliveTin)
+* [FlowWise](https://github.com/FlowiseAI/Flowise)
 
 
 ## Science
