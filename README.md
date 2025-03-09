@@ -291,6 +291,10 @@
 * [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 * [rag-knowledge-graph](https://github.com/cristianleoo/rag-knowledge-graph)
 * [revideo](https://github.com/redotvideo/revideo)
+* [aws-lambda-adapter](https://github.com/awslabs/aws-lambda-web-adapter)
+* [lite-xl](https://github.com/lite-xl/lite-xl)
+* [himalaya](https://github.com/pimalaya/himalaya)
+* [plane](https://github.com/makeplane/plane)
 * 
 * 
 
