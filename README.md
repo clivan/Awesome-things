@@ -295,6 +295,15 @@
 * [lite-xl](https://github.com/lite-xl/lite-xl)
 * [himalaya](https://github.com/pimalaya/himalaya)
 * [plane](https://github.com/makeplane/plane)
+* [awesome-aws](https://github.com/donnemartin/awesome-aws)
+* [picotron](https://github.com/huggingface/picotron)
+* [Olares](https://github.com/beclab/Olares)
+* [Genesis-Emodied-AI](https://github.com/Genesis-Embodied-AI/Genesis)
+* [markitdown](https://github.com/microsoft/markitdown)
+* [semaphoreui](https://github.com/semaphoreui/semaphore)
+* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+* [pyodide](https://github.com/pyodide/pyodide)
 * 
 * 
 
