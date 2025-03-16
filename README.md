@@ -304,6 +304,16 @@
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 * [pyodide](https://github.com/pyodide/pyodide)
+* [SerenityOS](https://github.com/SerenityOS/serenity)
+* [TheAlgorithms](https://github.com/TheAlgorithms/Python)
+* [homepage](https://github.com/gethomepage/homepage)
+* [LinkAce](https://github.com/Kovah/LinkAce)
+* [SurferProtocol](https://github.com/Surfer-Org/Protocol)
+* [latex-css](https://github.com/vincentdoerig/latex-css)
+* [Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)
+* [pi-hole](https://github.com/pi-hole/pi-hole)
+* [penpot](https://github.com/penpot/penpot)
+* [jellyfin](https://github.com/jellyfin/jellyfin)
 * 
 * 
 
