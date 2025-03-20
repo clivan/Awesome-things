@@ -314,6 +314,10 @@
 * [pi-hole](https://github.com/pi-hole/pi-hole)
 * [penpot](https://github.com/penpot/penpot)
 * [jellyfin](https://github.com/jellyfin/jellyfin)
+* [openalternative](https://github.com/piotrkulpinski/openalternative)
+* [presenterm](https://github.com/mfontanini/presenterm)
+* [kubewall](https://github.com/kubewall/kubewall)
+* [TRELLIS](https://github.com/microsoft/TRELLIS)
 * 
 * 
 
