@@ -318,6 +318,16 @@
 * [presenterm](https://github.com/mfontanini/presenterm)
 * [kubewall](https://github.com/kubewall/kubewall)
 * [TRELLIS](https://github.com/microsoft/TRELLIS)
+* [Awesome engineering ladders](https://github.com/posquit0/awesome-engineering-ladders)
+* [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+* [textbee](https://github.com/vernu/textbee)
+* [AI reads books page by page](https://github.com/echohive42/AI-reads-books-page-by-page)
+* [github-trends](https://github.com/avgupta456/github-trends)
+* [apitable](https://github.com/apitable/apitable)
+* [Selenium](https://github.com/seleniumbase/SeleniumBase)
+* [1Panel](https://github.com/1Panel-dev/1Panel)
+* [PangolinMQTT](https://github.com/philbowles/PangolinMQTT)
+* [Awesome Engineering onboarding](https://github.com/posquit0/awesome-engineer-onboarding)
 * 
 * 
 
