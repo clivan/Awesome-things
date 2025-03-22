@@ -328,6 +328,22 @@
 * [1Panel](https://github.com/1Panel-dev/1Panel)
 * [PangolinMQTT](https://github.com/philbowles/PangolinMQTT)
 * [Awesome Engineering onboarding](https://github.com/posquit0/awesome-engineer-onboarding)
+* [your-script](https://github.com/av/your-script)
+* [flame](https://github.com/av/flame)
+* [open-canvas](https://github.com/langchain-ai/open-canvas)
+* [software-papers](https://github.com/facundoolano/software-papers)
+* [dockerc](https://github.com/NilsIrl/dockerc)
+* [flow-matching](https://github.com/facebookresearch/flow_matching)
+* [gitleaks](https://github.com/gitleaks/gitleaks)
+* [quiver](https://github.com/varkor/quiver)
+* [ppt2desc](https://github.com/ALucek/ppt2desc)
+* [world arcadae]( https://github.com/dweam-team/world-arcade)
+* [implot3d](https://github.com/brenocq/implot3d)
+* [atta](https://github.com/brenocq/atta)
+* [awesome-readme](https://github.com/brenocq/awesome-readme)
+* [montecarlo-slam](https://github.com/brenocq/monte-carlo-slam)
+* [swarms](https://github.com/kyegomez/swarms)
+* 
 * 
 * 
 
