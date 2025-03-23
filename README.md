@@ -343,6 +343,13 @@
 * [awesome-readme](https://github.com/brenocq/awesome-readme)
 * [montecarlo-slam](https://github.com/brenocq/monte-carlo-slam)
 * [swarms](https://github.com/kyegomez/swarms)
+* [bg-remover](https://github.com/addyosmani/bg-remove)
+* [mailroom](https://github.com/seatgeek/mailroom)
+* [lima](https://github.com/lima-vm/lima)
+* [openpilot](https://github.com/commaai/openpilot)
+* [jj](https://github.com/jj-vcs/jj)
+* [RIOT](https://github.com/RIOT-OS/RIOT)
+* [myspeed](https://github.com/gnmyt/MySpeed)
 * 
 * 
 * 
