@@ -350,8 +350,17 @@
 * [jj](https://github.com/jj-vcs/jj)
 * [RIOT](https://github.com/RIOT-OS/RIOT)
 * [myspeed](https://github.com/gnmyt/MySpeed)
-* 
-* 
+* [CV-analyzer-Job-Recommender](https://github.com/umairalipathan1980/CV-Analyzer-Job-Recommender)
+* [coder](https://github.com/coder/coder)
+* [ferrishare](https://github.com/TobiasMarschner/ferrishare)
+* [AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World)
+* [Astroluma](https://github.com/Sanjeet990/Astroluma)
+* [eclipse-theia](https://github.com/eclipse-theia/theia)
+* [crm](https://github.com/frappe/crm)
+* [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+* [slink](https://github.com/andrii-kryvoviaz/slink)
+* [video2x](https://github.com/k4yt3x/video2x)
+* [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
 * 
 
 
