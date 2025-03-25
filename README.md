@@ -361,6 +361,9 @@
 * [slink](https://github.com/andrii-kryvoviaz/slink)
 * [video2x](https://github.com/k4yt3x/video2x)
 * [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* [tsuru](https://github.com/tsuru/tsuru)
+* [math-physics-problem-generator](https://github.com/echohive42/math-physics-problem-generator)
 * 
 
 
