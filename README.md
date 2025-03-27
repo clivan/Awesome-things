@@ -364,6 +364,15 @@
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [tsuru](https://github.com/tsuru/tsuru)
 * [math-physics-problem-generator](https://github.com/echohive42/math-physics-problem-generator)
+* [mujoco](https://github.com/google-deepmind/mujoco_playground)
+* [developer-portfolios](https://github.com/milanm/developer-portfolios)
+* [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+* [RAGs](https://github.com/rasbt/RAGs)
+* [Amphion](https://github.com/open-mmlab/Amphion)
+* [dawarich](https://github.com/Freika/dawarich)
+* [Checlmate](https://github.com/clivan?tab=repositories)
+* [ShadPS4](https://github.com/shadps4-emu/shadPS4)
+* 
 * 
 
 
