@@ -372,6 +372,12 @@
 * [dawarich](https://github.com/Freika/dawarich)
 * [Checlmate](https://github.com/clivan?tab=repositories)
 * [ShadPS4](https://github.com/shadps4-emu/shadPS4)
+* [llm-course](https://github.com/mlabonne/llm-course)
+* [open-saas](https://github.com/wasp-lang/open-saas)
+* [outlines](https://github.com/dottxt-ai/outlines)
+* [Cap](https://github.com/CapSoftware/Cap)
+* [koreader](https://github.com/koreader/koreader)
+* [qrframe](https://github.com/zhengkyl/qrframe)
 * 
 * 
 
