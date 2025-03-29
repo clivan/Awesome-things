@@ -378,6 +378,15 @@
 * [Cap](https://github.com/CapSoftware/Cap)
 * [koreader](https://github.com/koreader/koreader)
 * [qrframe](https://github.com/zhengkyl/qrframe)
+* [Malimite](https://github.com/LaurieWired/Malimite)
+* [GitButler](https://github.com/gitbutlerapp/gitbutler)
+* [Solidtime](https://github.com/solidtime-io/solidtime)
+* [FilmAgent](https://github.com/HITsz-TMG/FilmAgent)
+* [overleaf](https://github.com/overleaf/overleaf)
+* [puter](https://github.com/HeyPuter/puter)
+* [GDevelop](https://github.com/4ian/GDevelop)
+* [meshery](https://github.com/meshery/meshery)
+* [linuxPDF](https://github.com/ading2210/linuxpdf)
 * 
 * 
 
