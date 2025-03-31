@@ -387,6 +387,17 @@
 * [GDevelop](https://github.com/4ian/GDevelop)
 * [meshery](https://github.com/meshery/meshery)
 * [linuxPDF](https://github.com/ading2210/linuxpdf)
+* [Meelo](https://github.com/Arthi-chaud/Meelo)
+* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+* [astroterm](https://github.com/da-luce/astroterm)
+* [homebox](https://github.com/sysadminsmedia/homebox)
+* [Tasmota](https://github.com/arendst/Tasmota)
+* [Tasmota-firmware](https://github.com/arendst/Tasmota-firmware)
+* [wikitok](https://github.com/IsaacGemal/wikitok)
+* [cupy](https://github.com/cupy/cupy)
+* [icestorm](https://github.com/YosysHQ/icestorm)
+* [nicegui](https://github.com/zauberzeug/nicegui)
+* 
 * 
 * 
 
