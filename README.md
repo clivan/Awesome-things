@@ -397,6 +397,16 @@
 * [cupy](https://github.com/cupy/cupy)
 * [icestorm](https://github.com/YosysHQ/icestorm)
 * [nicegui](https://github.com/zauberzeug/nicegui)
+* [xournalpp](https://github.com/xournalpp/xournalpp)
+* [thedeck](https://github.com/xajik/thedeck)
+* [marreta](https://github.com/manualdousuario/marreta)
+* [ImageToolbox](https://github.com/T8RIN/ImageToolbox)
+* [self-host-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)
+* [awesome-minimal-sites](https://github.com/kamranahmedse/awesome-minimal-sites)
+* [scottokeebs](https://github.com/joe-scotto/scottokeebs)
+* [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+* [amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader)
+* [blueOS](https://github.com/bluerobotics/BlueOS)
 * 
 * 
 * 
