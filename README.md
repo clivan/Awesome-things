@@ -407,6 +407,12 @@
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 * [amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader)
 * [blueOS](https://github.com/bluerobotics/BlueOS)
+* [CinePi](https://github.com/joe-scotto/CinePI)
+* [Pake](https://github.com/tw93/Pake)
+* [XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
+* [free-resume-maker](https://github.com/HOTHEAD01TH/free-resume-maker)
+* [awesome-robot-description](https://github.com/robot-descriptions/awesome-robot-descriptions)
+* [hhuOS](https://github.com/hhuOS/hhuOS)
 * 
 * 
 * 
