@@ -538,6 +538,7 @@
 * [NumpPy image processing](https://analyticsindiamag.com/a-beginners-guide-to-image-processing-using-numpy/)
 * [Autonomous flight](https://github.com/KumarRobotics/kr_autonomous_flight)
 * [LaTeX Template](https://github.com/mihdicaballero/LaTeX-Projects?fbclid=IwAR22uYWXsTBvG3DQH0eYhnf__Z4mhXiPEOwatNwRB9_-t9RPsHf4A6POET0)
+* [awesome-algorithms](https://github.com/sirupsen/awesome-algorithms)
 * 
 * 
 * 
