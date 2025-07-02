@@ -539,6 +539,21 @@
 * [Autonomous flight](https://github.com/KumarRobotics/kr_autonomous_flight)
 * [LaTeX Template](https://github.com/mihdicaballero/LaTeX-Projects?fbclid=IwAR22uYWXsTBvG3DQH0eYhnf__Z4mhXiPEOwatNwRB9_-t9RPsHf4A6POET0)
 * [awesome-algorithms](https://github.com/sirupsen/awesome-algorithms)
+* [OpenCL-Guide](https://github.com/mikeroyal/OpenCL-Guide)
+* [R-Guide](https://github.com/mikeroyal/R-Guide)
+* [VHDL-Guide](https://github.com/mikeroyal/VHDL-Guide)
+* [Dcker-Guide](https://github.com/mikeroyal/Docker-Guide)
+* [CPP-guide](https://github.com/mikeroyal/CPP-Guide)
+* [Bayesian-Statistics-Guide](https://github.com/mikeroyal/Bayesian-Statistics-Guide)
+* [Computer-Vision-Guide](https://github.com/mikeroyal/Computer-Vision-Guide)
+* [Autonomous-Systems-Guide](https://github.com/mikeroyal/Autonomous-Systems-Guide)
+* [Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide)
+* [CPLD-Guide](https://github.com/mikeroyal/CPLD-Guide)
+* [Differential-Equations-Guide](https://github.com/mikeroyal/Differential-Equations-Guide)
+* [Linear-Algebra-Guide](https://github.com/mikeroyal/Linear-Algebra-Guide)
+* [Godot-Engine-Guide](https://github.com/mikeroyal/Godot-Engine-Guide)
+* [Jupyter-Guide](https://github.com/mikeroyal/Jupyter-Guide)
+* [Firmware-Guide](https://github.com/mikeroyal/Firmware-Guide)
 * 
 * 
 * 
