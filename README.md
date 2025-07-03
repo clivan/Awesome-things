@@ -554,6 +554,19 @@
 * [Godot-Engine-Guide](https://github.com/mikeroyal/Godot-Engine-Guide)
 * [Jupyter-Guide](https://github.com/mikeroyal/Jupyter-Guide)
 * [Firmware-Guide](https://github.com/mikeroyal/Firmware-Guide)
+* [GPU-Guide](https://github.com/mikeroyal/GPU-Guide)
+* [IoT-Guide](https://github.com/mikeroyal/IoT-Guide)
+* [Keras-Guide](https://github.com/mikeroyal/Keras-Guide)
+* [Deep-Learning-Guide](https://github.com/mikeroyal/Deep-Learning-Guide)
+* [Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide)
+* [DSP-Guide](https://github.com/mikeroyal/DSP-Guide)
+* [Blender-Guide](https://github.com/mikeroyal/Blender-Guide)
+* [Matlab-Guide](https://github.com/mikeroyal/MATLAB-Guide)
+* [dockerfile](https://github.com/ann-felix/dockerfiles)
+* [Windows-95](https://github.com/B00merang-Project/Windows-95)
+* [Windows-Vista](https://github.com/B00merang-Project/Windows-Vista)
+* [ARM-Guide](https://github.com/mikeroyal/ARM-Guide)
+* 
 * 
 * 
 * 
