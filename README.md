@@ -566,6 +566,22 @@
 * [Windows-95](https://github.com/B00merang-Project/Windows-95)
 * [Windows-Vista](https://github.com/B00merang-Project/Windows-Vista)
 * [ARM-Guide](https://github.com/mikeroyal/ARM-Guide)
+* [Robotics-Guide](https://github.com/mikeroyal/Robotics-guide)
+* [Flutter-Guide](https://github.com/mikeroyal/Flutter-Guide)
+* [CUDA-Guide](https://github.com/mikeroyal/CUDA-Guide)
+* [LiDAR-Guide](https://github.com/mikeroyal/LiDAR-Guide)
+* [Arch-Linux-Guide](https://github.com/mikeroyal/Arch-Linux-Guide)
+* [SQL-NoSQL-Guide](https://github.com/mikeroyal/SQL-NoSQL-Guide)
+* [Debian-Guide](https://github.com/mikeroyal/Debian-Guide)
+* [Raspberry-Pi-guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)
+* [Risc-V](https://github.com/mikeroyal/RISC-V-Guide)
+* [Kubernets-Guide]([https://github.com/mikeroyal/Kubernetes-Guide)
+* [macOs](https://github.com/B00merang-Project/macOS)
+* [Windows-7](https://github.com/B00merang-Project/Windows-7)
+* [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
+* [Apollo-11](https://github.com/chrislgarry/Apollo-11)
+* [dockge](https://github.com/louislam/dockge)
+* 
 * 
 * 
 * 
