@@ -594,6 +594,22 @@
 * [docker-utils](https://github.com/dictcp/docker-utils)
 * [best-of-robot-simulators](https://github.com/knmcguire/best-of-robot-simulators)
 * [awesome-devops](https://github.com/wmariuss/awesome-devops)
+* [pypi-docker](https://github.com/wmariuss/pypi-docker)
+* [gitea-py](https://github.com/wmariuss/gitea-py)
+* [py-project-template](https://github.com/wmariuss/py-project-template)
+* [shortlink-py](https://github.com/wmariuss/shortlink-py)
+* [ROS_Projects_Udacity](https://github.com/felipenmartins/ROS_projects_Udacity)
+* [Robotics-Semester-4](https://github.com/Silverlined/Robotics-Semester-4)
+* [elements-of-robotics](https://github.com/motib/elements-of-robotics)
+* [ESPAsyncWebServer](https://github.com/i-am-shodan/ESPAsyncWebServer)
+* [tinyusb](https://github.com/hathach/tinyusb)
+* [SimRobSim](https://github.com/felipenmartins/SimRobSim)
+* [Hardware-in-the-loo-simulation](https://github.com/Simonf8/Hardware-in-the-Loop-Simulation)
+* [autonomous-line-follower-robot](https://github.com/Simonf8/autonomous-linefollower-robot)
+* [icestudio](https://github.com/FPGAwars/icestudio)
+* [Windows-8.1](https://github.com/B00merang-Project/Windows-8.1)
+* [llgym](https://github.com/tensorzero/llmgym)
+* [ZeroToHero-Azure-GitOps](https://github.com/praduman8435/ZeroToHero-Azure-GitOps)
 * 
 * 
 * 
