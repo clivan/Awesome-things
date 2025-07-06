@@ -581,6 +581,19 @@
 * [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
 * [Apollo-11](https://github.com/chrislgarry/Apollo-11)
 * [dockge](https://github.com/louislam/dockge)
+* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+* [no-as-a-service](https://github.com/hotheadhacker/no-as-a-service)
+* [awesome-compose](https://github.com/docker/awesome-compose)
+* [Git-friend](https://github.com/krishn404/Git-Friend)
+* [self.so](https://github.com/Nutlope/self.so)
+* [Robotics-simulation-labs](https://github.com/felipenmartins/Robotics-Simulation-Labs)
+* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster)
+* [Sisyphus](https://github.com/salmiyounes/Sisyphus)
+* [foliate](https://github.com/johnfactotum/foliate)
+* [USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife)
+* [docker-utils](https://github.com/dictcp/docker-utils)
+* [best-of-robot-simulators](https://github.com/knmcguire/best-of-robot-simulators)
+* [awesome-devops](https://github.com/wmariuss/awesome-devops)
 * 
 * 
 * 
