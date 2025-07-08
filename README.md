@@ -610,6 +610,13 @@
 * [Windows-8.1](https://github.com/B00merang-Project/Windows-8.1)
 * [llgym](https://github.com/tensorzero/llmgym)
 * [ZeroToHero-Azure-GitOps](https://github.com/praduman8435/ZeroToHero-Azure-GitOps)
+* [awesome-control-theory](https://github.com/A-make/awesome-control-theory)
+* [awesome-github-readme-profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+* [ROSWorkshop](https://github.com/Marwan-Refaat/ROSWorkshop)
+* [WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
+* [stablediffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+* 
+* 
 * 
 * 
 * 
