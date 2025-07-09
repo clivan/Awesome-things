@@ -615,6 +615,20 @@
 * [ROSWorkshop](https://github.com/Marwan-Refaat/ROSWorkshop)
 * [WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
 * [stablediffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+* [synccthing](https://github.com/syncthing/syncthing)
+* [ros2-ci](https://github.com/knmcguire/ci)
+* [neko](https://github.com/m1k1o/neko)
+* [quickemu](https://github.com/quickemu-project/quickemu)
+* [webvm](https://github.com/leaningtech/webvm)
+* [obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
+* [asm](https://github.com/0xAX/asm)
+* [How-to-make-a-computer-operating-system](https://github.com/0xAX/How-to-Make-a-Computer-Operating-System)
+* [tulipcc](https://github.com/shorepine/tulipcc)
+* [launchma](https://github.com/Kodo-Robotics/launchmap)
+* [koodo-reader](https://github.com/koodo-reader/koodo-reader)
+* [GDevelop](https://github.com/4ian/GDevelop)
+* [IageToolbox](https://github.com/T8RIN/ImageToolbox)
+* [Chili3d](https://github.com/xiangechen/chili3d)
 * 
 * 
 * 
