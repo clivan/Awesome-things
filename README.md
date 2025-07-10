@@ -629,6 +629,23 @@
 * [GDevelop](https://github.com/4ian/GDevelop)
 * [IageToolbox](https://github.com/T8RIN/ImageToolbox)
 * [Chili3d](https://github.com/xiangechen/chili3d)
+* [Dioxus](https://github.com/DioxusLabs/dioxus)
+* [elrocket](https://github.com/broskicodes/elrocket)
+* [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
+* [timful-app](https://github.com/schej-it/timeful.app)
+* [Serial-studio](https://github.com/Serial-Studio/Serial-Studio)
+* [Windows-10](https://github.com/B00merang-Project/Windows-10)
+* [scotto-keebs](https://github.com/joe-scotto/scottokeebs)
+* [Robotics-Simulation-Labs](https://github.com/felipenmartins/Robotics-Simulation-Labs)
+* [Mobile-robot-Control](https://github.com/felipenmartins/Mobile-Robot-Control)
+* [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+* [2D-LiDAR-Base-Object-Recogniti](https://github.com/minaghaderi/2D-LiDAR-Based-Object-Recognition)
+* [manim](https://github.com/ManimCommunity/manim)
+* [dotfiles](https://github.com/wmariuss/dotfiles)
+* [ros2-dust](https://github.com/ros2-rust/ros2_rust)
+* [2d-lidar-idetification](https://github.com/soheilbh/2d-lidar-identification)
+* 
+* 
 * 
 * 
 * 
