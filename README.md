@@ -644,6 +644,20 @@
 * [dotfiles](https://github.com/wmariuss/dotfiles)
 * [ros2-dust](https://github.com/ros2-rust/ros2_rust)
 * [2d-lidar-idetification](https://github.com/soheilbh/2d-lidar-identification)
+* [astrophysics](https://github.com/FujiwaraChoki/astrophysics)
+* [noise-cancelation-with-LMS-Algorithms](https://github.com/minaghaderi/Noise-Cancelation-With-LMS-Algorithm)
+* [aAdaptive-Filtering](https://github.com/soheilbh/Adaptive-Filtering)
+* [Path-finding-Irbobot](https://github.com/soheilbh/Path_Finding_Irobot)
+* [inverted-pendulum-igital-twin](https://github.com/soheilbh/inverted-pendelum-digital-twin)
+* [fpga-vs-cpu-realtime-vision](https://github.com/soheilbh/fpga-vs-cpu-realtime-vision)
+* [XenevaOs](https://github.com/manaskamal/XenevaOS)
+* [LACT](https://github.com/ilya-zlobintsev/LACT)
+* [memos](https://github.com/usememos/memos)
+* [domain-locker](https://github.com/Lissy93/domain-locker)
+* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [cpp-httplib](https://github.com/yhirose/cpp-httplib)
+* [fizzbuzzlang](https://github.com/yhirose/fizzbuzzlang)
+* 
 * 
 * 
 * 
