@@ -1,5 +1,6 @@
 # Awesome things
-## AI
+
+## AI Models
 * [iGAN](https://github.com/mnielsen/iGAN)
 * [neural style audio tf](https://github.com/DmitryUlyanov/neural-style-audio-tf)
 * [Artistic videos](https://github.com/manuelruder/artistic-videos)
@@ -15,13 +16,12 @@
 * [AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3)
 * [whisperX](https://github.com/m-bain/whisperX)
 * [magic-animate](https://github.com/magic-research/magic-animate)
-* [artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python)
 
-## Control
+## Control Theory
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
 * [BDSim](https://github.com/petercorke/bdsim)
-
-  ## Robotics
+* 
+## Robotics
 * [Semantic SLAM](https://github.com/floatlazer/semantic_slam)
 * [Autonomous mobile robots](https://github.com/jdgalviss/autonomous_mobile_robot)
 * [ORB SLA; RGBD Inertial](https://github.com/xiefei2929/ORB_SLAM3-RGBD-Inertial)
@@ -38,18 +38,17 @@
 * [evo](https://github.com/MichaelGrupp/evo)
 * [spatial math python](https://github.com/bdaiinstitute/spatialmath-python)
 * [Python Robotics](https://github.com/AtsushiSakai/PythonRobotics)
-* [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
 * 
 ## Computer Vision
 * [MachineVision Toolbox Python](https://github.com/petercorke/machinevision-toolbox-python)
-
+* 
 ## Data Analysis
 * [Quadratic](https://github.com/quadratichq/quadratic)
 * [Streamlit](https://github.com/streamlit/streamlit)
 * [Rath](https://github.com/Kanaries/Rath)
 * [vizro](https://github.com/mckinsey/vizro)
-
-## Embedded Systems
+* 
+## Emedded Systems
 * [AVR-FFT](https://github.com/Klafyvel/AVR-FFT)
 * [SavvyCAN](https://github.com/collin80/SavvyCAN)
 * [ESP32 CAN](https://github.com/collin80/esp32_can)
@@ -60,12 +59,23 @@
 * [Embedded Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 * [FPGA-ASIC-Roadmap](https://github.com/m3y54m/FPGA-ASIC-Roadmap)
 * [Hanshow-Auto-Updater](https://github.com/MakersFunDuck/Hanshow-Auto-Updater)
-
 ## Electronic Stuff
 * [Adafruit CAD Parts](https://github.com/adafruit/Adafruit_CAD_Parts)
+## Science
+## Tutorials
+## Projects To-Do
+## Tools
 
-  
-## General
+
+
+
+
+
+* [artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python)
+
+* [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
+* 
+
 * [DBoW3](https://github.com/rmsalinas/DBow3)
 * [PGraph-Python](https://github.com/petercorke/pgraph-python)
 * [Ceres Solver](https://github.com/ceres-solver/ceres-solver)
@@ -657,17 +667,5 @@
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib)
 * [fizzbuzzlang](https://github.com/yhirose/fizzbuzzlang)
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-
-
-## Science
+* [myDrive](https://github.com/subnub/myDrive)
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
