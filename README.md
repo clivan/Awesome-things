@@ -16,6 +16,9 @@
 * [AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3)
 * [whisperX](https://github.com/m-bain/whisperX)
 * [magic-animate](https://github.com/magic-research/magic-animate)
+* [artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python)
+* [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
+* 
 
 ## Control Theory
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
@@ -41,6 +44,10 @@
 * 
 ## Computer Vision
 * [MachineVision Toolbox Python](https://github.com/petercorke/machinevision-toolbox-python)
+* [DBoW3](https://github.com/rmsalinas/DBow3)
+* [Pangolin](https://github.com/stevenlovegrove/Pangolin)
+* [librealsense](https://github.com/IntelRealSense/librealsense)
+* 
 * 
 ## Data Analysis
 * [Quadratic](https://github.com/quadratichq/quadratic)
@@ -62,33 +69,33 @@
 ## Electronic Stuff
 * [Adafruit CAD Parts](https://github.com/adafruit/Adafruit_CAD_Parts)
 ## Science
+
+## Math
+* [PGraph-Python](https://github.com/petercorke/pgraph-python)
+* [Ceres Solver](https://github.com/ceres-solver/ceres-solver)
+* [Sophus](https://github.com/strasdat/Sophus)
+* [g2o](https://github.com/RainerKuemmerle/g2o)
+
+## Mechanics/CAD Stuff
+* [GearFactory](https://github.com/Klafyvel/GearFactory)
+
+## Graphics
+* [olive](https://github.com/tsoding/olive.c)
+
+## Homelab
+* [gogs](https://github.com/gogs/gogs)
+* [navidrome](https://github.com/navidrome/navidrome)
+
 ## Tutorials
 ## Projects To-Do
 ## Tools
 
 
-
-
-
-
-* [artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python)
-
-* [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
+* 
+* 
 * 
 
-* [DBoW3](https://github.com/rmsalinas/DBow3)
-* [PGraph-Python](https://github.com/petercorke/pgraph-python)
-* [Ceres Solver](https://github.com/ceres-solver/ceres-solver)
-* [Sophus](https://github.com/strasdat/Sophus)
-* [Pangolin](https://github.com/stevenlovegrove/Pangolin)
-* [GearFactory](https://github.com/Klafyvel/GearFactory)
-* [g2o](https://github.com/RainerKuemmerle/g2o)
-* [librealsense](https://github.com/IntelRealSense/librealsense)
-* [olive](https://github.com/tsoding/olive.c)
-* [gogs](https://github.com/gogs/gogs)
-* [RocketChat](https://github.com/RocketChat/Rocket.Chat)
-* [github-archive](https://github.com/Justintime50/github-archive)
-* [navidrome](https://github.com/navidrome/navidrome)
+* 
 * [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 * [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 * [wavedrom](https://github.com/wavedrom/wavedrom)
