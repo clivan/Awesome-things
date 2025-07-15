@@ -18,6 +18,7 @@
 * [magic-animate](https://github.com/magic-research/magic-animate)
 * [artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python)
 * [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
+* [generativepy](https://github.com/martinmcbride/generativepy)
 * 
 
 ## Control Theory
@@ -68,6 +69,9 @@
 * [Hanshow-Auto-Updater](https://github.com/MakersFunDuck/Hanshow-Auto-Updater)
 ## Electronic Stuff
 * [Adafruit CAD Parts](https://github.com/adafruit/Adafruit_CAD_Parts)
+
+## FPGA
+* [wavedrom](https://github.com/wavedrom/wavedrom)
 ## Science
 
 ## Math
@@ -78,9 +82,12 @@
 
 ## Mechanics/CAD Stuff
 * [GearFactory](https://github.com/Klafyvel/GearFactory)
+* [FreeCAD-Tutotial-Generator](https://github.com/alekssadowski95/FreeCAD-Tutorial-Generator)
+* 
 
 ## Graphics
 * [olive](https://github.com/tsoding/olive.c)
+
 
 ## Homelab
 * [gogs](https://github.com/gogs/gogs)
@@ -88,29 +95,24 @@
 
 ## Tutorials
 ## Projects To-Do
-## Tools
-
-
-* 
-* 
-* 
-
-* 
-* [FreeTube](https://github.com/FreeTubeApp/FreeTube)
-* [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
-* [wavedrom](https://github.com/wavedrom/wavedrom)
-* [apollo](https://github.com/not-matthias/apollo)
-* [generativepy](https://github.com/martinmcbride/generativepy)
-* [FreeCAD-Tutotial-Generator](https://github.com/alekssadowski95/FreeCAD-Tutorial-Generator)
-* [storybook](https://github.com/storybookjs/storybook)
-* [screenshotToCode](https://github.com/abi/screenshot-to-code)
-* [mars-lander](https://github.com/Wren6991/Mars-Lander)
-* [css-docs](https://github.com/eludadev/css-docs)
 * [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-* [YouTube-Shorts-Generator](https://github.com/nikhilnair31/YouTube-Shorts-Generator)
 * [appideas](https://github.com/florinpop17/app-ideas)
-* [Free-Certifications](https://github.com/clivan/Free-Certifications)
+## Tools
+## Apps
+* [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+* [screenshotToCode](https://github.com/abi/screenshot-to-code)
+* [YouTube-Shorts-Generator](https://github.com/nikhilnair31/YouTube-Shorts-Generator)
+* 
+## Design
+* [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
+* [css-docs](https://github.com/eludadev/css-docs)
 * [threestudio](https://github.com/threestudio-project/threestudio)
+* 
+
+
+
+
+
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [awesome-rust](https://github.com/liuchong/awesome-rust)
 * [awesome-serverless](https://github.com/liuchong/awesome-serverless)
