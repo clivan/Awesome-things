@@ -92,16 +92,26 @@
 ## Homelab
 * [gogs](https://github.com/gogs/gogs)
 * [navidrome](https://github.com/navidrome/navidrome)
+* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [awesome-serverless](https://github.com/liuchong/awesome-serverless)
+* [gh-actions-importer](https://github.com/github/gh-actions-importer)
+* 
 
-## Tutorials
+## Learning
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 ## Projects To-Do
 * [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 * [appideas](https://github.com/florinpop17/app-ideas)
+* [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+* [Ocreeb-mk-2](https://github.com/sb-ocr/ocreeb-mk-2)
+* [public-apis](https://github.com/public-apis/public-apis)
+* 
 ## Tools
 ## Apps
 * [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 * [screenshotToCode](https://github.com/abi/screenshot-to-code)
 * [YouTube-Shorts-Generator](https://github.com/nikhilnair31/YouTube-Shorts-Generator)
+* [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 * 
 ## Design
 * [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
@@ -109,25 +119,27 @@
 * [threestudio](https://github.com/threestudio-project/threestudio)
 * 
 
-
-
-
-
-* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+## Rust
 * [awesome-rust](https://github.com/liuchong/awesome-rust)
-* [awesome-serverless](https://github.com/liuchong/awesome-serverless)
-* [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-* [gh-actions-importer](https://github.com/github/gh-actions-importer)
+* 
+
+## SQL
 * [stackql](https://github.com/stackql/stackql)
+* 
+
+## Portfolio
 * [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-* [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
-* [Ocreeb-mk-2](https://github.com/sb-ocr/ocreeb-mk-2)
-* [ReClass.NET](https://github.com/ReClassNET/ReClass.NET)
-* [PhaserRadar](https://github.com/jonkraft/PhaserRadarLabs)
-* [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
-* [CopilotKit](https://github.com/CopilotKit/CopilotKit)
-* [public-apis](https://github.com/public-apis/public-apis)
-* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
+
+
+
+
+
+
+
+
+
+
 * [taipy](https://github.com/Avaiga/taipy)
 * [free-for-dev](https://github.com/ripienaar/free-for-dev)
 * [open-saas](https://github.com/wasp-lang/open-saas)
