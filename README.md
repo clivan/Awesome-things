@@ -19,7 +19,11 @@
 * [artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python)
 * [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
 * [generativepy](https://github.com/martinmcbride/generativepy)
-* 
+* [end2end-all-conv](https://github.com/lishen/end2end-all-conv)
+* [InstColorization](https://github.com/ericsujw/InstColorization)
+* [JoJoGAN](https://github.com/mchong6/JoJoGAN)
+* [DAIN](https://github.com/baowenbo/DAIN)
+* [CtyleCLIP](https://github.com/orpatashnik/StyleCLIP)
 
 ## Control Theory
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
@@ -99,12 +103,18 @@
 
 ## Learning
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* [free-for-dev](https://github.com/ripienaar/free-for-dev)
+* [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 ## Projects To-Do
 * [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 * [appideas](https://github.com/florinpop17/app-ideas)
 * [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 * [Ocreeb-mk-2](https://github.com/sb-ocr/ocreeb-mk-2)
 * [public-apis](https://github.com/public-apis/public-apis)
+* [open-saas](https://github.com/wasp-lang/open-saas)
+* [excelCPU](https://github.com/InkboxSoftware/excelCPU)
+* [next-supabase-saas-boilerplate](https://github.com/Chensokheng/next--supabase-saas-boilerplate)
+* [pyphotoshop](https://github.com/kying18/pyphotoshop)
 * 
 ## Tools
 ## Apps
@@ -129,32 +139,27 @@
 
 ## Portfolio
 * [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-
-
-
-
-
-
-
-
-
-
-
-* [taipy](https://github.com/Avaiga/taipy)
-* [free-for-dev](https://github.com/ripienaar/free-for-dev)
-* [open-saas](https://github.com/wasp-lang/open-saas)
-* [maps-pathfinding](https://github.com/santifiorino/maps-pathfinding)
-* [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
-* [linkedin-scrapper-bot](https://github.com/lautidevv/linkedin-scrapper-bot)
-* [excelCPU](https://github.com/InkboxSoftware/excelCPU)
 * [minimalist-portfolio-json](https://github.com/midudev/minimalist-portfolio-json)
-* [next-supabase-saas-boilerplate](https://github.com/Chensokheng/next--supabase-saas-boilerplate)
-* [end2end-all-conv](https://github.com/lishen/end2end-all-conv)
-* [InstColorization](https://github.com/ericsujw/InstColorization)
-* [JoJoGAN](https://github.com/mchong6/JoJoGAN)
-* [pyphotoshop](https://github.com/kying18/pyphotoshop)
-* [DAIN](https://github.com/baowenbo/DAIN)
-* [CtyleCLIP](https://github.com/orpatashnik/StyleCLIP)
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
 * [TecoGAN](https://github.com/thunil/TecoGAN)
 * [DeOldify](https://github.com/jantic/DeOldify)
 * [personal-server](https://github.com/erebe/personal-server)
