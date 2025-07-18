@@ -24,6 +24,16 @@
 * [JoJoGAN](https://github.com/mchong6/JoJoGAN)
 * [DAIN](https://github.com/baowenbo/DAIN)
 * [CtyleCLIP](https://github.com/orpatashnik/StyleCLIP)
+* [TecoGAN](https://github.com/thunil/TecoGAN)
+* [DeOldify](https://github.com/jantic/DeOldify)
+* [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
+* [LL-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)
+* [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [Pysics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
+
+
+
 
 ## Control Theory
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
@@ -46,7 +56,10 @@
 * [evo](https://github.com/MichaelGrupp/evo)
 * [spatial math python](https://github.com/bdaiinstitute/spatialmath-python)
 * [Python Robotics](https://github.com/AtsushiSakai/PythonRobotics)
-* 
+* [path_tracking](https://github.com/MizuhoAOKI/path_tracking_catalog)
+* [ORB_SLAM3_ROS2](https://github.com/zang09/ORB_SLAM3_ROS2)
+
+
 ## Computer Vision
 * [MachineVision Toolbox Python](https://github.com/petercorke/machinevision-toolbox-python)
 * [DBoW3](https://github.com/rmsalinas/DBow3)
@@ -87,7 +100,7 @@
 ## Mechanics/CAD Stuff
 * [GearFactory](https://github.com/Klafyvel/GearFactory)
 * [FreeCAD-Tutotial-Generator](https://github.com/alekssadowski95/FreeCAD-Tutorial-Generator)
-* 
+* [blender_notebooks](https://github.com/cheng-chi/blender_notebook)
 
 ## Graphics
 * [olive](https://github.com/tsoding/olive.c)
@@ -99,7 +112,9 @@
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [awesome-serverless](https://github.com/liuchong/awesome-serverless)
 * [gh-actions-importer](https://github.com/github/gh-actions-importer)
-* 
+* [personal-server](https://github.com/erebe/personal-server)
+
+
 
 ## Learning
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
@@ -123,11 +138,11 @@
 * [YouTube-Shorts-Generator](https://github.com/nikhilnair31/YouTube-Shorts-Generator)
 * [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 * 
-## Design
+## Web Design
 * [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 * [css-docs](https://github.com/eludadev/css-docs)
 * [threestudio](https://github.com/threestudio-project/threestudio)
-* 
+* [ui](https://github.com/atherosai/ui)
 
 ## Rust
 * [awesome-rust](https://github.com/liuchong/awesome-rust)
@@ -142,6 +157,10 @@
 * [minimalist-portfolio-json](https://github.com/midudev/minimalist-portfolio-json)
 
 
+## Nice things
+* [MS-DOS](https://github.com/microsoft/MS-DOS)
+
+
 
 
 
@@ -154,27 +173,6 @@
 
 
 
-
-
-
-
-
-
-* [TecoGAN](https://github.com/thunil/TecoGAN)
-* [DeOldify](https://github.com/jantic/DeOldify)
-* [personal-server](https://github.com/erebe/personal-server)
-* [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
-* [LL-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)
-* [MS-DOS](https://github.com/microsoft/MS-DOS)
-* [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
-* [pocketbase](https://github.com/pocketbase/pocketbase)
-* [Pysics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
-* [ui](https://github.com/atherosai/ui)
-* [phidata](https://github.com/phidatahq/phidata)
-* [path_tracking](https://github.com/MizuhoAOKI/path_tracking_catalog)
-* [blender_notebooks](https://github.com/cheng-chi/blender_notebook)
-* [ORB_SLAM3_ROS2](https://github.com/zang09/ORB_SLAM3_ROS2)
 * [PS$-ESP32](https://github.com/aed3/PS4-esp32)
 * [Awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 * [Awesome-docker](https://github.com/veggiemonk/awesome-docker)
