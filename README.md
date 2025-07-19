@@ -58,6 +58,9 @@
 * [Python Robotics](https://github.com/AtsushiSakai/PythonRobotics)
 * [path_tracking](https://github.com/MizuhoAOKI/path_tracking_catalog)
 * [ORB_SLAM3_ROS2](https://github.com/zang09/ORB_SLAM3_ROS2)
+* [awesome-multi-robot-system](https://github.com/Grandzxw/awesome-multi-robot-system)
+* [awesome-nn-slam](https://github.com/Grandzxw/awesome-nn-slam)
+
 
 
 ## Computer Vision
@@ -73,7 +76,7 @@
 * [Rath](https://github.com/Kanaries/Rath)
 * [vizro](https://github.com/mckinsey/vizro)
 * 
-## Emedded Systems
+## Embedded Systems
 * [AVR-FFT](https://github.com/Klafyvel/AVR-FFT)
 * [SavvyCAN](https://github.com/collin80/SavvyCAN)
 * [ESP32 CAN](https://github.com/collin80/esp32_can)
@@ -82,13 +85,21 @@
 * [Busmaster](https://github.com/rbei-etas/busmaster)
 * [PipelineC](https://github.com/JulianKemmerer/PipelineC)
 * [Embedded Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
-* [FPGA-ASIC-Roadmap](https://github.com/m3y54m/FPGA-ASIC-Roadmap)
 * [Hanshow-Auto-Updater](https://github.com/MakersFunDuck/Hanshow-Auto-Updater)
+* [mini-riscv-os](https://github.com/cccriscv/mini-riscv-os)
+
 ## Electronic Stuff
 * [Adafruit CAD Parts](https://github.com/adafruit/Adafruit_CAD_Parts)
+* [PS$-ESP32](https://github.com/aed3/PS4-esp32)
+* [awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware)
+
+
 
 ## FPGA
 * [wavedrom](https://github.com/wavedrom/wavedrom)
+* [FPGA-ASIC-Roadmap](https://github.com/m3y54m/FPGA-ASIC-Roadmap)
+* [awesome-opensource-asic-resources](https://github.com/mattvenn/awesome-opensource-asic-resources)
+
 ## Science
 
 ## Math
@@ -120,6 +131,8 @@
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [free-for-dev](https://github.com/ripienaar/free-for-dev)
 * [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+* [awesome-productivity](https://github.com/mezod/awesome-productivity)
+
 ## Projects To-Do
 * [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 * [appideas](https://github.com/florinpop17/app-ideas)
@@ -143,6 +156,8 @@
 * [css-docs](https://github.com/eludadev/css-docs)
 * [threestudio](https://github.com/threestudio-project/threestudio)
 * [ui](https://github.com/atherosai/ui)
+* [frontend-dev](https://github.com/dypsilon/frontend-dev-bookmarks)
+
 
 ## Rust
 * [awesome-rust](https://github.com/liuchong/awesome-rust)
@@ -161,6 +176,13 @@
 * [MS-DOS](https://github.com/microsoft/MS-DOS)
 
 
+## Cyber Security
+* [Awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
+* 
+
+## Docker
+* [Awesome-docker](https://github.com/veggiemonk/awesome-docker)
+
 
 
 
@@ -173,21 +195,15 @@
 
 
 
-* [PS$-ESP32](https://github.com/aed3/PS4-esp32)
-* [Awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
-* [Awesome-docker](https://github.com/veggiemonk/awesome-docker)
-* [awesome-stacks](https://github.com/stackshareio/awesome-stacks)
-* [Momo Translator](https://github.com/alicewish/MomoTranslator)
-* [frontend-dev](https://github.com/dypsilon/frontend-dev-bookmarks)
-* [nmap](https://github.com/nmap/nmap)
-* [awesome-indie](https://github.com/mezod/awesome-indie)
-* [awesome-selffounded](https://github.com/mezod/awesome-self-funded)
-* [awesome-productivity](https://github.com/mezod/awesome-productivity)
-* [awesome-multi-robot-system](https://github.com/Grandzxw/awesome-multi-robot-system)
-* [awesome-nn-slam](https://github.com/Grandzxw/awesome-nn-slam)
-* [awesome-opensource-asic-resources](https://github.com/mattvenn/awesome-opensource-asic-resources)
-* [awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware)
-* [mini-riscv-os](https://github.com/cccriscv/mini-riscv-os)
+
+
+
+
+
+
+
+
+
 * [Protofy](https://github.com/Protofy-xyz/Protofy)
 * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [Quadruped-pyMPC](https://github.com/iit-DLSLab/Quadruped-PyMPC)
