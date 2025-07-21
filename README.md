@@ -31,13 +31,19 @@
 * [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Pysics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
-
+* [Protofy](https://github.com/Protofy-xyz/Protofy)
 
 
 
 ## Control Theory
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
 * [BDSim](https://github.com/petercorke/bdsim)
+* [PythonLinearNonlinearContro](https://github.com/Shunichi09/PythonLinearNonlinearControl)
+
+
+
+
+
 * 
 ## Robotics
 * [Semantic SLAM](https://github.com/floatlazer/semantic_slam)
@@ -60,6 +66,13 @@
 * [ORB_SLAM3_ROS2](https://github.com/zang09/ORB_SLAM3_ROS2)
 * [awesome-multi-robot-system](https://github.com/Grandzxw/awesome-multi-robot-system)
 * [awesome-nn-slam](https://github.com/Grandzxw/awesome-nn-slam)
+* [Quadruped-pyMPC](https://github.com/iit-DLSLab/Quadruped-PyMPC)
+* [Source-Robotics-Toolbox](https://github.com/PCrnjak/Source-Robotics-Toolbox)
+
+
+
+
+
 
 
 
@@ -75,7 +88,13 @@
 * [Streamlit](https://github.com/streamlit/streamlit)
 * [Rath](https://github.com/Kanaries/Rath)
 * [vizro](https://github.com/mckinsey/vizro)
-* 
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [awesome-jsn-datsets](https://github.com/jdorfman/awesome-json-datasets)
+
+
+
+
+ 
 ## Embedded Systems
 * [AVR-FFT](https://github.com/Klafyvel/AVR-FFT)
 * [SavvyCAN](https://github.com/collin80/SavvyCAN)
@@ -143,6 +162,14 @@
 * [excelCPU](https://github.com/InkboxSoftware/excelCPU)
 * [next-supabase-saas-boilerplate](https://github.com/Chensokheng/next--supabase-saas-boilerplate)
 * [pyphotoshop](https://github.com/kying18/pyphotoshop)
+* [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source)
+
+
+
+
+
+
+
 * 
 ## Tools
 ## Apps
@@ -174,6 +201,9 @@
 
 ## Nice things
 * [MS-DOS](https://github.com/microsoft/MS-DOS)
+* [gm](https://github.com/flujoo/gm)
+* [windows-api-function-cheatsheet](https://github.com/7etsuo/windows-api-function-cheatsheets)
+
 
 
 ## Cyber Security
@@ -182,6 +212,29 @@
 
 ## Docker
 * [Awesome-docker](https://github.com/veggiemonk/awesome-docker)
+
+
+
+
+
+
+## Kubernetes
+* [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+
+
+
+
+
+
+
+## DevOps
+* [DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
+* [awesome-microservices](https://github.com/mfornos/awesome-microservices)
+
+
+## Data Bases
+* [awesome-db-tools](https://github.com/mgramin/awesome-db-tools)
+
 
 
 
@@ -202,23 +255,6 @@
 
 
 
-
-
-* [Protofy](https://github.com/Protofy-xyz/Protofy)
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
-* [Quadruped-pyMPC](https://github.com/iit-DLSLab/Quadruped-PyMPC)
-* [DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
-* [gm](https://github.com/flujoo/gm)
-* [Source-Robotics-Toolbox](https://github.com/PCrnjak/Source-Robotics-Toolbox)
-* [PythonLinearNonlinearContro](https://github.com/Shunichi09/PythonLinearNonlinearControl)
-* [aweome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-* [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-* [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source)
-* [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
-* [awesome-jsn-datsets](https://github.com/jdorfman/awesome-json-datasets)
-* [awesome-microservices](https://github.com/mfornos/awesome-microservices)
-* [awesome-db-tools](https://github.com/mgramin/awesome-db-tools)
-* [windows-api-function-cheatsheet](https://github.com/7etsuo/windows-api-function-cheatsheets)
 * [x86](https://github.com/7etsuo/x86)
 * [awesome-c](https://github.com/oz123/awesome-c)
 * [public-apis](https://github.com/marcelscruz/public-apis)
