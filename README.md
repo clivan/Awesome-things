@@ -68,9 +68,13 @@
 * [awesome-nn-slam](https://github.com/Grandzxw/awesome-nn-slam)
 * [Quadruped-pyMPC](https://github.com/iit-DLSLab/Quadruped-PyMPC)
 * [Source-Robotics-Toolbox](https://github.com/PCrnjak/Source-Robotics-Toolbox)
-
-
-
+* [awesome-gazebo](https://github.com/ahcorde/awesome-gazebo)
+* [ros_canopen](https://github.com/ahcorde/ros_canopen)
+* [ardupilot](https://github.com/ahcorde/ardupilot)
+* [ros2_raspbian_tools](https://github.com/esteve/ros2_raspbian_tools)
+* [ros_control](https://github.com/ahcorde/ros_control)
+* [ros_intelrealsense](https://github.com/AndrejOrsula/ros2_intel_realsense)
+* [flight_review](https://github.com/sfuhrer/flight_review)
 
 
 
@@ -92,6 +96,10 @@
 * [vizro](https://github.com/mckinsey/vizro)
 * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [awesome-jsn-datsets](https://github.com/jdorfman/awesome-json-datasets)
+* [exploratory-data-analysis-of-sensor-data-with-pandas](https://github.com/fkromer/exploratory-data-analysis-of-sensor-data-with-pandas)
+
+
+
 
 
 
@@ -108,6 +116,17 @@
 * [Embedded Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 * [Hanshow-Auto-Updater](https://github.com/MakersFunDuck/Hanshow-Auto-Updater)
 * [mini-riscv-os](https://github.com/cccriscv/mini-riscv-os)
+* [awesome-embedded-linux](https://github.com/fkromer/awesome-embedded-linux)
+* [awesome-yocto](https://github.com/fkromer/awesome-yocto-project)
+
+
+
+
+
+
+
+
+
 
 ## Electronic Stuff
 * [Adafruit CAD Parts](https://github.com/adafruit/Adafruit_CAD_Parts)
@@ -148,7 +167,7 @@
 * [dokkui](https://github.com/dokku/dokku)
 * [coolify](https://github.com/coollabsio/coolify)
 * [InvenTree](https://github.com/inventree/InvenTree)
-
+* [openvpn](https://github.com/flaviostutz/openvpn-server)
 
 
 
@@ -172,7 +191,7 @@
 * [next-supabase-saas-boilerplate](https://github.com/Chensokheng/next--supabase-saas-boilerplate)
 * [pyphotoshop](https://github.com/kying18/pyphotoshop)
 * [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source)
-
+* [Linux from scratch](https://github.com/arjuncr/Linux-from-scratch)
 
 
 
@@ -199,6 +218,7 @@
 * [threestudio](https://github.com/threestudio-project/threestudio)
 * [ui](https://github.com/atherosai/ui)
 * [frontend-dev](https://github.com/dypsilon/frontend-dev-bookmarks)
+
 
 
 ## Rust
@@ -284,23 +304,6 @@
 ---
 
 
-
-
-* [awesome-stock-resources](https://github.com/zserge/awesome-stock-resources)
-* [docker-images](https://github.com/ahcorde/docker_images)
-* [awesome-gazebo](https://github.com/ahcorde/awesome-gazebo)
-* [awesome-embedded-linux](https://github.com/fkromer/awesome-embedded-linux)
-* [awesome-yocto](https://github.com/fkromer/awesome-yocto-project)
-* [exploratory-data-analysis-of-sensor-data-with-pandas](https://github.com/fkromer/exploratory-data-analysis-of-sensor-data-with-pandas)
-* [ros_canopen](https://github.com/ahcorde/ros_canopen)
-* [ardupilot](https://github.com/ahcorde/ardupilot)
-* [ros2_raspbian_tools](https://github.com/esteve/ros2_raspbian_tools)
-* [ros_control](https://github.com/ahcorde/ros_control)
-* [ros_intelrealsense](https://github.com/AndrejOrsula/ros2_intel_realsense)
-* [flight_review](https://github.com/sfuhrer/flight_reviewhttps://github.com/sfuhrer/flight_review)
-* [emoji-translate](https://github.com/notwaldorf/emoji-translate)
-* [Linux from scratch](https://github.com/arjuncr/Linux-from-scratch)
-* [openvpn](https://github.com/flaviostutz/openvpn-server)
 * [gitea](https://github.com/vitalif/gitea)
 * [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers)
 * [nishang](https://github.com/samratashok/nishang)
