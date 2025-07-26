@@ -32,7 +32,7 @@
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Pysics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
 * [Protofy](https://github.com/Protofy-xyz/Protofy)
-
+* [roop](https://github.com/s0md3v/roop)
 
 
 ## Control Theory
@@ -152,9 +152,14 @@
 * [GearFactory](https://github.com/Klafyvel/GearFactory)
 * [FreeCAD-Tutotial-Generator](https://github.com/alekssadowski95/FreeCAD-Tutorial-Generator)
 * [blender_notebooks](https://github.com/cheng-chi/blender_notebook)
+* [meshanything](https://github.com/buaacyw/MeshAnything)
+
 
 ## Graphics
 * [olive](https://github.com/tsoding/olive.c)
+* [pi3d](https://github.com/Ebiroll/pi3d)
+* [animatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
+ 
 
 
 ## Homelab
@@ -168,7 +173,9 @@
 * [coolify](https://github.com/coollabsio/coolify)
 * [InvenTree](https://github.com/inventree/InvenTree)
 * [openvpn](https://github.com/flaviostutz/openvpn-server)
+* [gitea](https://github.com/go-gitea/gitea)
 
+* 
 
 
 
@@ -241,6 +248,7 @@
 * [MS-DOS](https://github.com/microsoft/MS-DOS)
 * [gm](https://github.com/flujoo/gm)
 * [windows-api-function-cheatsheet](https://github.com/7etsuo/windows-api-function-cheatsheets)
+* [awesome-python](https://github.com/vinta/awesome-python)
 
 
 
@@ -250,6 +258,9 @@
 
 ## Docker
 * [Awesome-docker](https://github.com/veggiemonk/awesome-docker)
+* [watchtower](https://github.com/containrrr/watchtower)
+
+
 
 
 
@@ -304,21 +315,6 @@
 ---
 
 
-* [gitea](https://github.com/vitalif/gitea)
-* [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers)
-* [nishang](https://github.com/samratashok/nishang)
-* [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
-* [taiga-docker](https://github.com/taigaio/taiga-docker)
-* [digitalhippo](https://github.com/joschan21/digitalhippo)
-* [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX)
-* [pi3d](https://github.com/Ebiroll/pi3d)
-* [watchtower](https://github.com/containrrr/watchtower)
-* [firecamp](https://github.com/firecamp-dev/firecamp)
-* [meshanything](https://github.com/buaacyw/MeshAnything)
-* [animatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
-* [awesome-python](https://github.com/vinta/awesome-python)
-* [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
-* [roop](https://github.com/s0md3v/roop)
 * [software-architecture-premier](https://github.com/sivaprasadreddy/software-architecture-premier)
 * [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
 * [aura-voice](https://github.com/ntegrals/aura-voice)
