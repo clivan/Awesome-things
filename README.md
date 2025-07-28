@@ -33,6 +33,8 @@
 * [Pysics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
 * [Protofy](https://github.com/Protofy-xyz/Protofy)
 * [roop](https://github.com/s0md3v/roop)
+* [ToonCrafter](https://github.com/Doubiiu/ToonCrafter)
+
 
 
 ## Control Theory
@@ -75,6 +77,8 @@
 * [ros_control](https://github.com/ahcorde/ros_control)
 * [ros_intelrealsense](https://github.com/AndrejOrsula/ros2_intel_realsense)
 * [flight_review](https://github.com/sfuhrer/flight_review)
+* [space_robotics_bench](https://github.com/AndrejOrsula/space_robotics_bench)
+
 
 
 
@@ -174,8 +178,13 @@
 * [InvenTree](https://github.com/inventree/InvenTree)
 * [openvpn](https://github.com/flaviostutz/openvpn-server)
 * [gitea](https://github.com/go-gitea/gitea)
+* [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+* [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+* [tau](https://github.com/taubyte/tau)
 
-* 
+
+  
+ 
 
 
 
@@ -249,6 +258,15 @@
 * [gm](https://github.com/flujoo/gm)
 * [windows-api-function-cheatsheet](https://github.com/7etsuo/windows-api-function-cheatsheets)
 * [awesome-python](https://github.com/vinta/awesome-python)
+* [software-architecture-premier](https://github.com/sivaprasadreddy/software-architecture-premier)
+* [latexdiff](https://github.com/ftilmann/latexdiff)
+* [joss-papers](https://github.com/openjournals/joss-papers)
+* [mermaid](https://github.com/mermaid-js/mermaid)
+* [budibase](https://github.com/Budibase/budibase)
+
+
+
+
 
 
 
@@ -313,20 +331,6 @@
 
 
 ---
-
-
-* [software-architecture-premier](https://github.com/sivaprasadreddy/software-architecture-premier)
-* [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
-* [aura-voice](https://github.com/ntegrals/aura-voice)
-* [latexdiff](https://github.com/ftilmann/latexdiff)
-* [ToonCrafter](https://github.com/Doubiiu/ToonCrafter)
-* [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)
-* [CasaOS](https://github.com/IceWhaleTech/CasaOS)
-* [space_robotics_bench](https://github.com/AndrejOrsula/space_robotics_bench)
-* [joss-papers](https://github.com/openjournals/joss-papers)
-* [tau](https://github.com/taubyte/tau)
-* [mermaid](https://github.com/mermaid-js/mermaid)
-* [budibase](https://github.com/Budibase/budibase)
 * [signoz](https://github.com/SigNoz/signoz)
 * [hanko](https://github.com/teamhanko/hanko)
 * [ImHex](https://github.com/WerWolv/ImHex)
