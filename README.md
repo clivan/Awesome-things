@@ -34,6 +34,10 @@
 * [Protofy](https://github.com/Protofy-xyz/Protofy)
 * [roop](https://github.com/s0md3v/roop)
 * [ToonCrafter](https://github.com/Doubiiu/ToonCrafter)
+* [faceswap](https://github.com/deepfakes/faceswap)
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+
+
 
 
 
@@ -101,6 +105,8 @@
 * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [awesome-jsn-datsets](https://github.com/jdorfman/awesome-json-datasets)
 * [exploratory-data-analysis-of-sensor-data-with-pandas](https://github.com/fkromer/exploratory-data-analysis-of-sensor-data-with-pandas)
+* [kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions)
+
 
 
 
@@ -263,6 +269,10 @@
 * [joss-papers](https://github.com/openjournals/joss-papers)
 * [mermaid](https://github.com/mermaid-js/mermaid)
 * [budibase](https://github.com/Budibase/budibase)
+* [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [WebVM](https://github.com/leaningtech/webvm)
+
+
 
 
 
@@ -277,6 +287,10 @@
 ## Docker
 * [Awesome-docker](https://github.com/veggiemonk/awesome-docker)
 * [watchtower](https://github.com/containrrr/watchtower)
+* [awesome-compose](https://github.com/docker/awesome-compose)
+* [lazydocker](https://github.com/jesseduffield/lazydocker)
+
+
 
 
 
@@ -331,19 +345,7 @@
 
 
 ---
-* [signoz](https://github.com/SigNoz/signoz)
-* [hanko](https://github.com/teamhanko/hanko)
-* [ImHex](https://github.com/WerWolv/ImHex)
-* [BookStack](https://github.com/BookStackApp/BookStack)
-* [kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions)
-* [awesome-compose](https://github.com/docker/awesome-compose)
-* [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-* [faceswap](https://github.com/deepfakes/faceswap)
-* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
-* [WebVM](https://github.com/leaningtech/webvm)
-* [DevHub](https://github.com/jaywcjlove/DevHub)
-* [ZathuraDbg](https://github.com/ZathuraDbg/ZathuraDbg)
-* [lgocreator](https://github.com/Nutlope/logocreator)
+
 * [lazydocker](https://github.com/jesseduffield/lazydocker)
 * [lazygit](https://github.com/jesseduffield/lazygit)
 * [tqdm](https://github.com/tqdm/tqdm)
