@@ -187,8 +187,8 @@
 * [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
 * [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 * [tau](https://github.com/taubyte/tau)
-
-
+* [yami](https://github.com/DevER-M/yami)
+* [umbrel](https://github.com/getumbrel/umbrel)
   
  
 
@@ -271,7 +271,8 @@
 * [budibase](https://github.com/Budibase/budibase)
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [WebVM](https://github.com/leaningtech/webvm)
-
+* [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
+* 
 
 
 
@@ -289,6 +290,8 @@
 * [watchtower](https://github.com/containrrr/watchtower)
 * [awesome-compose](https://github.com/docker/awesome-compose)
 * [lazydocker](https://github.com/jesseduffield/lazydocker)
+* [docker-k8s-training](https://github.com/milanm/docker-k8s-training)
+
 
 
 
@@ -311,6 +314,10 @@
 ## DevOps
 * [DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
 * [awesome-microservices](https://github.com/mfornos/awesome-microservices)
+* [azure-cheat-sheet](https://github.com/milanm/azure-cheat-sheet)
+* [DevOps-roadmap](https://github.com/milanm/DevOps-Roadmap)
+
+
 
 
 ## Data Bases
@@ -339,6 +346,18 @@
 
 
 
+## Git
+* [lazygit](https://github.com/jesseduffield/lazygit)
+
+
+
+
+## Python
+* [tqdm](https://github.com/tqdm/tqdm)
+* 
+
+## IoT
+* [boltz](https://github.com/jwohlwend/boltz)
 
 
 
@@ -346,18 +365,12 @@
 
 ---
 
-* [lazydocker](https://github.com/jesseduffield/lazydocker)
-* [lazygit](https://github.com/jesseduffield/lazygit)
-* [tqdm](https://github.com/tqdm/tqdm)
-* [c-web-modules](https://github.com/joexbayer/c-web-modules)
-* [yami](https://github.com/DevER-M/yami)
-* [model2vec](https://github.com/MinishLab/model2vec)
-* [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
-* [azure-cheat-sheet](https://github.com/milanm/azure-cheat-sheet)
-* [DevOps-roadmap](https://github.com/milanm/DevOps-Roadmap)
-* [docker-k8s-training](https://github.com/milanm/docker-k8s-training)
-* [umbrel](https://github.com/getumbrel/umbrel)
-* [boltz](https://github.com/jwohlwend/boltz)
+
+
+
+
+
+
 * [Documind](https://github.com/DocumindHQ/documind)
 * [thingsboard](https://github.com/thingsboard/thingsboard)
 * [superfile](https://github.com/yorukot/superfile)
