@@ -82,7 +82,7 @@
 * [ros_intelrealsense](https://github.com/AndrejOrsula/ros2_intel_realsense)
 * [flight_review](https://github.com/sfuhrer/flight_review)
 * [space_robotics_bench](https://github.com/AndrejOrsula/space_robotics_bench)
-
+* [rl-tools](https://github.com/rl-tools/rl-tools)
 
 
 
@@ -223,7 +223,7 @@
 * 
 ## Tools
 * [clad](https://github.com/vgvassilev/clad)
-
+* [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
 
 
 
@@ -272,7 +272,8 @@
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [WebVM](https://github.com/leaningtech/webvm)
 * [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
-* 
+* [photoprism](https://github.com/photoprism/photoprism)
+* [alphafold3](https://github.com/google-deepmind/alphafold3)
 
 
 
@@ -291,7 +292,7 @@
 * [awesome-compose](https://github.com/docker/awesome-compose)
 * [lazydocker](https://github.com/jesseduffield/lazydocker)
 * [docker-k8s-training](https://github.com/milanm/docker-k8s-training)
-
+* [macos](https://github.com/dockur/macos)
 
 
 
@@ -357,7 +358,7 @@
 * 
 
 ## IoT
-* [boltz](https://github.com/jwohlwend/boltz)
+* [thingsboard](https://github.com/thingsboard/thingsboard)
 
 
 
@@ -368,24 +369,6 @@
 
 
 
-
-
-
-* [Documind](https://github.com/DocumindHQ/documind)
-* [thingsboard](https://github.com/thingsboard/thingsboard)
-* [superfile](https://github.com/yorukot/superfile)
-* [automatisch](https://github.com/automatisch/automatisch)
-* [photoprism](https://github.com/photoprism/photoprism)
-* [blinko](https://github.com/blinko-space/blinko)
-* [podman](https://github.com/containers/podman)
-* [terrateam](https://github.com/terrateamio/terrateam)
-* [alphafold3](https://github.com/google-deepmind/alphafold3)
-* [facefusion](https://github.com/facefusion/facefusion)
-* [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
-* [wasmer](https://github.com/wasmerio/wasmer)
-* [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
-* [rl-tools](https://github.com/rl-tools/rl-tools)
-* [macos](https://github.com/dockur/macos)
 * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
 * [rocketnotes](https://github.com/fynnfluegge/rocketnotes)
 * [Bruce](https://github.com/pr3y/Bruce)
