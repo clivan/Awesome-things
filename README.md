@@ -1,6 +1,6 @@
 # Awesome things
 
-## AI Models
+## AI
 * [iGAN](https://github.com/mnielsen/iGAN)
 * [neural style audio tf](https://github.com/DmitryUlyanov/neural-style-audio-tf)
 * [Artistic videos](https://github.com/manuelruder/artistic-videos)
@@ -36,6 +36,8 @@
 * [ToonCrafter](https://github.com/Doubiiu/ToonCrafter)
 * [faceswap](https://github.com/deepfakes/faceswap)
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+* [OneDiffusion](https://github.com/lehduong/OneDiffusion)
+
 
 
 
@@ -189,7 +191,9 @@
 * [tau](https://github.com/taubyte/tau)
 * [yami](https://github.com/DevER-M/yami)
 * [umbrel](https://github.com/getumbrel/umbrel)
-  
+* [gpustack](https://github.com/gpustack/gpustack)
+* [amneia-vpn](https://github.com/amnezia-vpn/amnezia-client)
+
  
 
 
@@ -274,6 +278,14 @@
 * [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
 * [photoprism](https://github.com/photoprism/photoprism)
 * [alphafold3](https://github.com/google-deepmind/alphafold3)
+* [nestool](https://github.com/zeim839/nes-tools)
+* [98.css](https://github.com/jdan/98.css)
+* [n8n](https://github.com/n8n-io/n8n)
+* [nodezator](https://github.com/IndieSmiths/nodezator)
+* [OliveTin](https://github.com/OliveTin/OliveTin)
+
+
+
 
 
 
@@ -284,6 +296,10 @@
 
 ## Cyber Security
 * [Awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
+* [Bruce](https://github.com/pr3y/Bruce)
+
+
+
 * 
 
 ## Docker
@@ -317,6 +333,10 @@
 * [awesome-microservices](https://github.com/mfornos/awesome-microservices)
 * [azure-cheat-sheet](https://github.com/milanm/azure-cheat-sheet)
 * [DevOps-roadmap](https://github.com/milanm/DevOps-Roadmap)
+* [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
+* [containerd](https://github.com/containerd/containerd)
+
+
 
 
 
@@ -359,7 +379,7 @@
 
 ## IoT
 * [thingsboard](https://github.com/thingsboard/thingsboard)
-
+* [node-red](https://github.com/node-red/node-red)
 
 
 
@@ -369,21 +389,10 @@
 
 
 
-* [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
-* [rocketnotes](https://github.com/fynnfluegge/rocketnotes)
-* [Bruce](https://github.com/pr3y/Bruce)
-* [nestool](https://github.com/zeim839/nes-tools)
-* [containerd](https://github.com/containerd/containerd)
-* [98.css](https://github.com/jdan/98.css)
-* [gpustack](https://github.com/gpustack/gpustack)
-* [isaiah](https://github.com/will-moss/isaiah)
-* [n8n](https://github.com/n8n-io/n8n)
-* [amneia-vpn](https://github.com/amnezia-vpn/amnezia-client)
-* [twenty](https://github.com/twentyhq/twenty)
-* [OneDiffusion](https://github.com/lehduong/OneDiffusion)
-* [node-red](https://github.com/node-red/node-red)
-* [nodezator](https://github.com/IndieSmiths/nodezator)
-* [OliveTin](https://github.com/OliveTin/OliveTin)
+
+
+
+
 * [FlowWise](https://github.com/FlowiseAI/Flowise)
 * [Appwrite](https://github.com/appwrite/appwrite)
 * [vhs](https://github.com/charmbracelet/vhs)
