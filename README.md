@@ -37,6 +37,12 @@
 * [faceswap](https://github.com/deepfakes/faceswap)
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 * [OneDiffusion](https://github.com/lehduong/OneDiffusion)
+* [fastmusicremover](https://github.com/omeryusufyagci/fast-music-remover)
+* [Diffsensei](https://github.com/jianzongwu/DiffSensei)
+* [rag-knowledge-graph](https://github.com/cristianleoo/rag-knowledge-graph)
+
+
+
 
 
 
@@ -165,6 +171,8 @@
 * [FreeCAD-Tutotial-Generator](https://github.com/alekssadowski95/FreeCAD-Tutorial-Generator)
 * [blender_notebooks](https://github.com/cheng-chi/blender_notebook)
 * [meshanything](https://github.com/buaacyw/MeshAnything)
+* [3d_printing](https://github.com/tom-doerr/3d_printing)
+
 
 
 ## Graphics
@@ -244,6 +252,8 @@
 * [threestudio](https://github.com/threestudio-project/threestudio)
 * [ui](https://github.com/atherosai/ui)
 * [frontend-dev](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
+
 
 
 
@@ -283,6 +293,12 @@
 * [n8n](https://github.com/n8n-io/n8n)
 * [nodezator](https://github.com/IndieSmiths/nodezator)
 * [OliveTin](https://github.com/OliveTin/OliveTin)
+* [FlowWise](https://github.com/FlowiseAI/Flowise)
+* [vhs](https://github.com/charmbracelet/vhs)
+* [bananas](https://github.com/mistweaverco/bananas)
+* [revideo](https://github.com/redotvideo/revideo)
+
+
 
 
 
@@ -335,6 +351,8 @@
 * [DevOps-roadmap](https://github.com/milanm/DevOps-Roadmap)
 * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
 * [containerd](https://github.com/containerd/containerd)
+* [awesome-aws](https://github.com/donnemartin/awesome-aws)
+
 
 
 
@@ -387,27 +405,6 @@
 ---
 
 
-
-
-
-
-
-
-* [FlowWise](https://github.com/FlowiseAI/Flowise)
-* [Appwrite](https://github.com/appwrite/appwrite)
-* [vhs](https://github.com/charmbracelet/vhs)
-* [fastmusicremover](https://github.com/omeryusufyagci/fast-music-remover)
-* [3d_printing](https://github.com/tom-doerr/3d_printing)
-* [bananas](https://github.com/mistweaverco/bananas)
-* [Diffsensei](https://github.com/jianzongwu/DiffSensei)
-* [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
-* [rag-knowledge-graph](https://github.com/cristianleoo/rag-knowledge-graph)
-* [revideo](https://github.com/redotvideo/revideo)
-* [aws-lambda-adapter](https://github.com/awslabs/aws-lambda-web-adapter)
-* [lite-xl](https://github.com/lite-xl/lite-xl)
-* [himalaya](https://github.com/pimalaya/himalaya)
-* [plane](https://github.com/makeplane/plane)
-* [awesome-aws](https://github.com/donnemartin/awesome-aws)
 * [picotron](https://github.com/huggingface/picotron)
 * [Olares](https://github.com/beclab/Olares)
 * [Genesis-Emodied-AI](https://github.com/Genesis-Embodied-AI/Genesis)
