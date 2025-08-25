@@ -40,6 +40,12 @@
 * [fastmusicremover](https://github.com/omeryusufyagci/fast-music-remover)
 * [Diffsensei](https://github.com/jianzongwu/DiffSensei)
 * [rag-knowledge-graph](https://github.com/cristianleoo/rag-knowledge-graph)
+* [picotron](https://github.com/huggingface/picotron)
+* [Genesis-Emodied-AI](https://github.com/Genesis-Embodied-AI/Genesis)
+* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
+
+
 
 
 
@@ -201,6 +207,8 @@
 * [umbrel](https://github.com/getumbrel/umbrel)
 * [gpustack](https://github.com/gpustack/gpustack)
 * [amneia-vpn](https://github.com/amnezia-vpn/amnezia-client)
+* [Olares](https://github.com/beclab/Olares)
+
 
  
 
@@ -213,6 +221,8 @@
 * [free-for-dev](https://github.com/ripienaar/free-for-dev)
 * [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 * [awesome-productivity](https://github.com/mezod/awesome-productivity)
+* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
 
 ## Projects To-Do
 * [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
@@ -253,6 +263,8 @@
 * [ui](https://github.com/atherosai/ui)
 * [frontend-dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
+* [SerenityOS](https://github.com/SerenityOS/serenity)
+
 
 
 
@@ -297,6 +309,10 @@
 * [vhs](https://github.com/charmbracelet/vhs)
 * [bananas](https://github.com/mistweaverco/bananas)
 * [revideo](https://github.com/redotvideo/revideo)
+* [LinkAce](https://github.com/Kovah/LinkAce)
+* [latex-css](https://github.com/vincentdoerig/latex-css)
+
+
 
 
 
@@ -352,6 +368,8 @@
 * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
 * [containerd](https://github.com/containerd/containerd)
 * [awesome-aws](https://github.com/donnemartin/awesome-aws)
+* [semaphoreui](https://github.com/semaphoreui/semaphore)
+
 
 
 
@@ -393,7 +411,11 @@
 
 ## Python
 * [tqdm](https://github.com/tqdm/tqdm)
-* 
+* [pyodide](https://github.com/pyodide/pyodide)
+* [TheAlgorithms](https://github.com/TheAlgorithms/Python)
+
+
+  
 
 ## IoT
 * [thingsboard](https://github.com/thingsboard/thingsboard)
@@ -404,22 +426,6 @@
 
 ---
 
-
-* [picotron](https://github.com/huggingface/picotron)
-* [Olares](https://github.com/beclab/Olares)
-* [Genesis-Emodied-AI](https://github.com/Genesis-Embodied-AI/Genesis)
-* [markitdown](https://github.com/microsoft/markitdown)
-* [semaphoreui](https://github.com/semaphoreui/semaphore)
-* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-* [pyodide](https://github.com/pyodide/pyodide)
-* [SerenityOS](https://github.com/SerenityOS/serenity)
-* [TheAlgorithms](https://github.com/TheAlgorithms/Python)
-* [homepage](https://github.com/gethomepage/homepage)
-* [LinkAce](https://github.com/Kovah/LinkAce)
-* [SurferProtocol](https://github.com/Surfer-Org/Protocol)
-* [latex-css](https://github.com/vincentdoerig/latex-css)
-* [Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)
 * [pi-hole](https://github.com/pi-hole/pi-hole)
 * [penpot](https://github.com/penpot/penpot)
 * [jellyfin](https://github.com/jellyfin/jellyfin)
