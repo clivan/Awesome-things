@@ -43,6 +43,10 @@
 * [picotron](https://github.com/huggingface/picotron)
 * [Genesis-Emodied-AI](https://github.com/Genesis-Embodied-AI/Genesis)
 * [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+* [TRELLIS](https://github.com/microsoft/TRELLIS)
+* [AI reads books page by page](https://github.com/echohive42/AI-reads-books-page-by-page)
+
+
 
 
 
@@ -208,7 +212,8 @@
 * [gpustack](https://github.com/gpustack/gpustack)
 * [amneia-vpn](https://github.com/amnezia-vpn/amnezia-client)
 * [Olares](https://github.com/beclab/Olares)
-
+* [pi-hole](https://github.com/pi-hole/pi-hole)
+* 
 
  
 
@@ -311,6 +316,13 @@
 * [revideo](https://github.com/redotvideo/revideo)
 * [LinkAce](https://github.com/Kovah/LinkAce)
 * [latex-css](https://github.com/vincentdoerig/latex-css)
+* [penpot](https://github.com/penpot/penpot)
+* [openalternative](https://github.com/piotrkulpinski/openalternative)
+* [presenterm](https://github.com/mfontanini/presenterm)
+* [Awesome engineering ladders](https://github.com/posquit0/awesome-engineering-ladders)
+* [1Panel](https://github.com/1Panel-dev/1Panel)
+
+
 
 
 
@@ -353,6 +365,8 @@
 
 ## Kubernetes
 * [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+* [kubewall](https://github.com/kubewall/kubewall)
+
 
 
 
@@ -426,21 +440,7 @@
 
 ---
 
-* [pi-hole](https://github.com/pi-hole/pi-hole)
-* [penpot](https://github.com/penpot/penpot)
-* [jellyfin](https://github.com/jellyfin/jellyfin)
-* [openalternative](https://github.com/piotrkulpinski/openalternative)
-* [presenterm](https://github.com/mfontanini/presenterm)
-* [kubewall](https://github.com/kubewall/kubewall)
-* [TRELLIS](https://github.com/microsoft/TRELLIS)
-* [Awesome engineering ladders](https://github.com/posquit0/awesome-engineering-ladders)
-* [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
-* [textbee](https://github.com/vernu/textbee)
-* [AI reads books page by page](https://github.com/echohive42/AI-reads-books-page-by-page)
-* [github-trends](https://github.com/avgupta456/github-trends)
-* [apitable](https://github.com/apitable/apitable)
-* [Selenium](https://github.com/seleniumbase/SeleniumBase)
-* [1Panel](https://github.com/1Panel-dev/1Panel)
+
 * [PangolinMQTT](https://github.com/philbowles/PangolinMQTT)
 * [Awesome Engineering onboarding](https://github.com/posquit0/awesome-engineer-onboarding)
 * [your-script](https://github.com/av/your-script)
