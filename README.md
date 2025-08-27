@@ -101,6 +101,8 @@
 * [flight_review](https://github.com/sfuhrer/flight_review)
 * [space_robotics_bench](https://github.com/AndrejOrsula/space_robotics_bench)
 * [rl-tools](https://github.com/rl-tools/rl-tools)
+* [atta](https://github.com/brenocq/atta)
+
 
 
 
@@ -321,6 +323,20 @@
 * [presenterm](https://github.com/mfontanini/presenterm)
 * [Awesome engineering ladders](https://github.com/posquit0/awesome-engineering-ladders)
 * [1Panel](https://github.com/1Panel-dev/1Panel)
+* [Awesome Engineering onboarding](https://github.com/posquit0/awesome-engineer-onboarding)
+* [your-script](https://github.com/av/your-script)
+* [flame](https://github.com/av/flame)
+* [software-papers](https://github.com/facundoolano/software-papers)
+* [quiver](https://github.com/varkor/quiver)
+* [world arcadae]( https://github.com/dweam-team/world-arcade)
+* [awesome-readme](https://github.com/brenocq/awesome-readme)
+
+
+
+
+
+
+
 
 
 
@@ -409,7 +425,12 @@
 
 ## C
 * [awesome-c](https://github.com/oz123/awesome-c)
-* 
+
+
+## C++
+* [implot3d](https://github.com/brenocq/implot3d)
+
+
 
 
 ## Android
@@ -434,6 +455,8 @@
 ## IoT
 * [thingsboard](https://github.com/thingsboard/thingsboard)
 * [node-red](https://github.com/node-red/node-red)
+* [PangolinMQTT](https://github.com/philbowles/PangolinMQTT)
+
 
 
 
@@ -441,21 +464,9 @@
 ---
 
 
-* [PangolinMQTT](https://github.com/philbowles/PangolinMQTT)
-* [Awesome Engineering onboarding](https://github.com/posquit0/awesome-engineer-onboarding)
-* [your-script](https://github.com/av/your-script)
-* [flame](https://github.com/av/flame)
-* [open-canvas](https://github.com/langchain-ai/open-canvas)
-* [software-papers](https://github.com/facundoolano/software-papers)
-* [dockerc](https://github.com/NilsIrl/dockerc)
-* [flow-matching](https://github.com/facebookresearch/flow_matching)
-* [gitleaks](https://github.com/gitleaks/gitleaks)
-* [quiver](https://github.com/varkor/quiver)
-* [ppt2desc](https://github.com/ALucek/ppt2desc)
-* [world arcadae]( https://github.com/dweam-team/world-arcade)
-* [implot3d](https://github.com/brenocq/implot3d)
-* [atta](https://github.com/brenocq/atta)
-* [awesome-readme](https://github.com/brenocq/awesome-readme)
+
+
+
 * [montecarlo-slam](https://github.com/brenocq/monte-carlo-slam)
 * [swarms](https://github.com/kyegomez/swarms)
 * [bg-remover](https://github.com/addyosmani/bg-remove)
