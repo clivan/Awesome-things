@@ -102,6 +102,12 @@
 * [space_robotics_bench](https://github.com/AndrejOrsula/space_robotics_bench)
 * [rl-tools](https://github.com/rl-tools/rl-tools)
 * [atta](https://github.com/brenocq/atta)
+* [montecarlo-slam](https://github.com/brenocq/monte-carlo-slam)
+* [openpilot](https://github.com/commaai/openpilot)
+* [AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World)
+
+
+
 
 
 
@@ -330,6 +336,12 @@
 * [quiver](https://github.com/varkor/quiver)
 * [world arcadae]( https://github.com/dweam-team/world-arcade)
 * [awesome-readme](https://github.com/brenocq/awesome-readme)
+* [lima](https://github.com/lima-vm/lima)
+* [CV-analyzer-Job-Recommender](https://github.com/umairalipathan1980/CV-Analyzer-Job-Recommender)
+* [eclipse-theia](https://github.com/eclipse-theia/theia)
+
+
+
 
 
 
@@ -399,6 +411,10 @@
 * [containerd](https://github.com/containerd/containerd)
 * [awesome-aws](https://github.com/donnemartin/awesome-aws)
 * [semaphoreui](https://github.com/semaphoreui/semaphore)
+* [coder](https://github.com/coder/coder)
+* [Astroluma](https://github.com/Sanjeet990/Astroluma)
+
+
 
 
 
@@ -456,6 +472,8 @@
 * [thingsboard](https://github.com/thingsboard/thingsboard)
 * [node-red](https://github.com/node-red/node-red)
 * [PangolinMQTT](https://github.com/philbowles/PangolinMQTT)
+* [RIOT](https://github.com/RIOT-OS/RIOT)
+
 
 
 
@@ -466,22 +484,6 @@
 
 
 
-
-* [montecarlo-slam](https://github.com/brenocq/monte-carlo-slam)
-* [swarms](https://github.com/kyegomez/swarms)
-* [bg-remover](https://github.com/addyosmani/bg-remove)
-* [mailroom](https://github.com/seatgeek/mailroom)
-* [lima](https://github.com/lima-vm/lima)
-* [openpilot](https://github.com/commaai/openpilot)
-* [jj](https://github.com/jj-vcs/jj)
-* [RIOT](https://github.com/RIOT-OS/RIOT)
-* [myspeed](https://github.com/gnmyt/MySpeed)
-* [CV-analyzer-Job-Recommender](https://github.com/umairalipathan1980/CV-Analyzer-Job-Recommender)
-* [coder](https://github.com/coder/coder)
-* [ferrishare](https://github.com/TobiasMarschner/ferrishare)
-* [AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World)
-* [Astroluma](https://github.com/Sanjeet990/Astroluma)
-* [eclipse-theia](https://github.com/eclipse-theia/theia)
 * [crm](https://github.com/frappe/crm)
 * [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 * [slink](https://github.com/andrii-kryvoviaz/slink)
