@@ -105,6 +105,8 @@
 * [montecarlo-slam](https://github.com/brenocq/monte-carlo-slam)
 * [openpilot](https://github.com/commaai/openpilot)
 * [AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World)
+* [mujoco](https://github.com/google-deepmind/mujoco_playground)
+
 
 
 
@@ -221,7 +223,8 @@
 * [amneia-vpn](https://github.com/amnezia-vpn/amnezia-client)
 * [Olares](https://github.com/beclab/Olares)
 * [pi-hole](https://github.com/pi-hole/pi-hole)
-* 
+* [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+* [dawarich](https://github.com/Freika/dawarich)
 
  
 
@@ -235,6 +238,8 @@
 * [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 * [awesome-productivity](https://github.com/mezod/awesome-productivity)
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
 
 
 ## Projects To-Do
@@ -339,6 +344,14 @@
 * [lima](https://github.com/lima-vm/lima)
 * [CV-analyzer-Job-Recommender](https://github.com/umairalipathan1980/CV-Analyzer-Job-Recommender)
 * [eclipse-theia](https://github.com/eclipse-theia/theia)
+* [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+* [math-physics-problem-generator](https://github.com/echohive42/math-physics-problem-generator)
+* [developer-portfolios](https://github.com/milanm/developer-portfolios)
+* [ShadPS4](https://github.com/shadps4-emu/shadPS4)
+
+
+
+
 
 
 
@@ -481,25 +494,6 @@
 
 ---
 
-
-
-
-* [crm](https://github.com/frappe/crm)
-* [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
-* [slink](https://github.com/andrii-kryvoviaz/slink)
-* [video2x](https://github.com/k4yt3x/video2x)
-* [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
-* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-* [tsuru](https://github.com/tsuru/tsuru)
-* [math-physics-problem-generator](https://github.com/echohive42/math-physics-problem-generator)
-* [mujoco](https://github.com/google-deepmind/mujoco_playground)
-* [developer-portfolios](https://github.com/milanm/developer-portfolios)
-* [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
-* [RAGs](https://github.com/rasbt/RAGs)
-* [Amphion](https://github.com/open-mmlab/Amphion)
-* [dawarich](https://github.com/Freika/dawarich)
-* [Checlmate](https://github.com/clivan?tab=repositories)
-* [ShadPS4](https://github.com/shadps4-emu/shadPS4)
 * [llm-course](https://github.com/mlabonne/llm-course)
 * [open-saas](https://github.com/wasp-lang/open-saas)
 * [outlines](https://github.com/dottxt-ai/outlines)
