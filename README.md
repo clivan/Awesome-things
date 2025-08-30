@@ -45,6 +45,8 @@
 * [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 * [TRELLIS](https://github.com/microsoft/TRELLIS)
 * [AI reads books page by page](https://github.com/echohive42/AI-reads-books-page-by-page)
+* [llm-course](https://github.com/mlabonne/llm-course)
+* [FilmAgent](https://github.com/HITsz-TMG/FilmAgent)
 
 
 
@@ -225,6 +227,10 @@
 * [pi-hole](https://github.com/pi-hole/pi-hole)
 * [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
 * [dawarich](https://github.com/Freika/dawarich)
+* [overleaf](https://github.com/overleaf/overleaf)
+* [puter](https://github.com/HeyPuter/puter)
+
+
 
  
 
@@ -348,6 +354,23 @@
 * [math-physics-problem-generator](https://github.com/echohive42/math-physics-problem-generator)
 * [developer-portfolios](https://github.com/milanm/developer-portfolios)
 * [ShadPS4](https://github.com/shadps4-emu/shadPS4)
+* [Cap](https://github.com/CapSoftware/Cap)
+* [koreader](https://github.com/koreader/koreader)
+* [qrframe](https://github.com/zhengkyl/qrframe)
+* [Malimite](https://github.com/LaurieWired/Malimite)
+* [GitButler](https://github.com/gitbutlerapp/gitbutler)
+* [Solidtime](https://github.com/solidtime-io/solidtime)
+* [GDevelop](https://github.com/4ian/GDevelop)
+* [linuxPDF](https://github.com/ading2210/linuxpdf)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -426,6 +449,9 @@
 * [semaphoreui](https://github.com/semaphoreui/semaphore)
 * [coder](https://github.com/coder/coder)
 * [Astroluma](https://github.com/Sanjeet990/Astroluma)
+* [meshery](https://github.com/meshery/meshery)
+
+
 
 
 
@@ -494,21 +520,18 @@
 
 ---
 
-* [llm-course](https://github.com/mlabonne/llm-course)
-* [open-saas](https://github.com/wasp-lang/open-saas)
-* [outlines](https://github.com/dottxt-ai/outlines)
-* [Cap](https://github.com/CapSoftware/Cap)
-* [koreader](https://github.com/koreader/koreader)
-* [qrframe](https://github.com/zhengkyl/qrframe)
-* [Malimite](https://github.com/LaurieWired/Malimite)
-* [GitButler](https://github.com/gitbutlerapp/gitbutler)
-* [Solidtime](https://github.com/solidtime-io/solidtime)
-* [FilmAgent](https://github.com/HITsz-TMG/FilmAgent)
-* [overleaf](https://github.com/overleaf/overleaf)
-* [puter](https://github.com/HeyPuter/puter)
-* [GDevelop](https://github.com/4ian/GDevelop)
-* [meshery](https://github.com/meshery/meshery)
-* [linuxPDF](https://github.com/ading2210/linuxpdf)
+
+
+
+
+
+
+
+
+
+
+
+
 * [Meelo](https://github.com/Arthi-chaud/Meelo)
 * [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 * [astroterm](https://github.com/da-luce/astroterm)
