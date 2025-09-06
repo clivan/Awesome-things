@@ -158,6 +158,10 @@
 * [mini-riscv-os](https://github.com/cccriscv/mini-riscv-os)
 * [awesome-embedded-linux](https://github.com/fkromer/awesome-embedded-linux)
 * [awesome-yocto](https://github.com/fkromer/awesome-yocto-project)
+* [Tasmota](https://github.com/arendst/Tasmota)
+* [Tasmota-firmware](https://github.com/arendst/Tasmota-firmware)
+
+
 
 
 
@@ -179,6 +183,10 @@
 * [wavedrom](https://github.com/wavedrom/wavedrom)
 * [FPGA-ASIC-Roadmap](https://github.com/m3y54m/FPGA-ASIC-Roadmap)
 * [awesome-opensource-asic-resources](https://github.com/mattvenn/awesome-opensource-asic-resources)
+* [icestorm](https://github.com/YosysHQ/icestorm)
+
+
+
 
 ## Science
 
@@ -229,6 +237,8 @@
 * [dawarich](https://github.com/Freika/dawarich)
 * [overleaf](https://github.com/overleaf/overleaf)
 * [puter](https://github.com/HeyPuter/puter)
+* [Meelo](https://github.com/Arthi-chaud/Meelo)
+
 
 
 
@@ -362,6 +372,12 @@
 * [Solidtime](https://github.com/solidtime-io/solidtime)
 * [GDevelop](https://github.com/4ian/GDevelop)
 * [linuxPDF](https://github.com/ading2210/linuxpdf)
+* [astroterm](https://github.com/da-luce/astroterm)
+* [wikitok](https://github.com/IsaacGemal/wikitok)
+* [xournalpp](https://github.com/xournalpp/xournalpp)
+
+
+
 
 
 
@@ -417,6 +433,8 @@
 * [lazydocker](https://github.com/jesseduffield/lazydocker)
 * [docker-k8s-training](https://github.com/milanm/docker-k8s-training)
 * [macos](https://github.com/dockur/macos)
+* [self-host-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)
+
 
 
 
@@ -503,6 +521,10 @@
 * [tqdm](https://github.com/tqdm/tqdm)
 * [pyodide](https://github.com/pyodide/pyodide)
 * [TheAlgorithms](https://github.com/TheAlgorithms/Python)
+* [cupy](https://github.com/cupy/cupy)
+* [nicegui](https://github.com/zauberzeug/nicegui)
+
+
 
 
   
@@ -521,32 +543,6 @@
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-* [Meelo](https://github.com/Arthi-chaud/Meelo)
-* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
-* [astroterm](https://github.com/da-luce/astroterm)
-* [homebox](https://github.com/sysadminsmedia/homebox)
-* [Tasmota](https://github.com/arendst/Tasmota)
-* [Tasmota-firmware](https://github.com/arendst/Tasmota-firmware)
-* [wikitok](https://github.com/IsaacGemal/wikitok)
-* [cupy](https://github.com/cupy/cupy)
-* [icestorm](https://github.com/YosysHQ/icestorm)
-* [nicegui](https://github.com/zauberzeug/nicegui)
-* [xournalpp](https://github.com/xournalpp/xournalpp)
-* [thedeck](https://github.com/xajik/thedeck)
-* [marreta](https://github.com/manualdousuario/marreta)
-* [ImageToolbox](https://github.com/T8RIN/ImageToolbox)
-* [self-host-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)
 * [awesome-minimal-sites](https://github.com/kamranahmedse/awesome-minimal-sites)
 * [scottokeebs](https://github.com/joe-scotto/scottokeebs)
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love)
