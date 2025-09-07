@@ -108,6 +108,12 @@
 * [openpilot](https://github.com/commaai/openpilot)
 * [AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World)
 * [mujoco](https://github.com/google-deepmind/mujoco_playground)
+* [blueOS](https://github.com/bluerobotics/BlueOS)
+* [awesome-robot-description](https://github.com/robot-descriptions/awesome-robot-descriptions)
+* [ros2_nanollm](https://github.com/NVIDIA-AI-IOT/ros2_nanollm)
+
+
+
 
 
 
@@ -202,6 +208,8 @@
 * [blender_notebooks](https://github.com/cheng-chi/blender_notebook)
 * [meshanything](https://github.com/buaacyw/MeshAnything)
 * [3d_printing](https://github.com/tom-doerr/3d_printing)
+* [scottokeebs](https://github.com/joe-scotto/scottokeebs)
+
 
 
 
@@ -238,7 +246,7 @@
 * [overleaf](https://github.com/overleaf/overleaf)
 * [puter](https://github.com/HeyPuter/puter)
 * [Meelo](https://github.com/Arthi-chaud/Meelo)
-
+* [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
 
 
 
@@ -255,6 +263,12 @@
 * [awesome-productivity](https://github.com/mezod/awesome-productivity)
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+* [Project-Based-Learning](https://github.com/practical-tutorials/project-based-learning)
+
+
+
+
 
 
 
@@ -375,6 +389,16 @@
 * [astroterm](https://github.com/da-luce/astroterm)
 * [wikitok](https://github.com/IsaacGemal/wikitok)
 * [xournalpp](https://github.com/xournalpp/xournalpp)
+* [awesome-minimal-sites](https://github.com/kamranahmedse/awesome-minimal-sites)
+* [amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader)
+* [CinePi](https://github.com/joe-scotto/CinePI)
+* [XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
+* [hhuOS](https://github.com/hhuOS/hhuOS)
+
+
+
+
+
 
 
 
@@ -468,6 +492,8 @@
 * [coder](https://github.com/coder/coder)
 * [Astroluma](https://github.com/Sanjeet990/Astroluma)
 * [meshery](https://github.com/meshery/meshery)
+* [DevOps-World](https://github.com/ann-felix/DEVOPS-WORLD)
+
 
 
 
@@ -543,21 +569,10 @@
 ---
 
 
-* [awesome-minimal-sites](https://github.com/kamranahmedse/awesome-minimal-sites)
-* [scottokeebs](https://github.com/joe-scotto/scottokeebs)
-* [papers-we-love](https://github.com/papers-we-love/papers-we-love)
-* [amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader)
-* [blueOS](https://github.com/bluerobotics/BlueOS)
-* [CinePi](https://github.com/joe-scotto/CinePI)
-* [Pake](https://github.com/tw93/Pake)
-* [XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
-* [free-resume-maker](https://github.com/HOTHEAD01TH/free-resume-maker)
-* [awesome-robot-description](https://github.com/robot-descriptions/awesome-robot-descriptions)
-* [hhuOS](https://github.com/hhuOS/hhuOS)
-* [DevOps-World](https://github.com/ann-felix/DEVOPS-WORLD)
-* [Project-Based-Learning](https://github.com/practical-tutorials/project-based-learning)
-* [ros2_nanollm](https://github.com/NVIDIA-AI-IOT/ros2_nanollm)
-* [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+
+
+
+
 * [napkin-math](https://github.com/sirupsen/napkin-math)
 * [Windows-XP](https://github.com/B00merang-Project/Windows-XP)
 * [awesome-git](https://github.com/dictcp/awesome-git)
