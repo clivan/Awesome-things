@@ -47,6 +47,12 @@
 * [AI reads books page by page](https://github.com/echohive42/AI-reads-books-page-by-page)
 * [llm-course](https://github.com/mlabonne/llm-course)
 * [FilmAgent](https://github.com/HITsz-TMG/FilmAgent)
+* [VisoMaster](https://github.com/visomaster/VisoMaster)
+* [VOCANO](https://github.com/B05901022/VOCANO)
+* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp)
+
+
+
 
 
 
@@ -111,6 +117,10 @@
 * [blueOS](https://github.com/bluerobotics/BlueOS)
 * [awesome-robot-description](https://github.com/robot-descriptions/awesome-robot-descriptions)
 * [ros2_nanollm](https://github.com/NVIDIA-AI-IOT/ros2_nanollm)
+* [robotics_essentials_ros2](https://github.com/henki-robotics/robotics_essentials_ros2)
+* [TriFinger Robot](https://github.com/open-dynamic-robot-initiative/trifinger_simulation)
+
+
 
 
 
@@ -265,6 +275,8 @@
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 * [Project-Based-Learning](https://github.com/practical-tutorials/project-based-learning)
+* [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
 
 
 
@@ -394,6 +406,16 @@
 * [CinePi](https://github.com/joe-scotto/CinePI)
 * [XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
 * [hhuOS](https://github.com/hhuOS/hhuOS)
+* [Windows-XP](https://github.com/B00merang-Project/Windows-XP)
+* [awesome-git](https://github.com/dictcp/awesome-git)
+* [PlotJuggler](https://github.com/facontidavide/PlotJuggler)
+* [Awesome](https://github.com/sindresorhus/awesome)
+* [city-roads](https://github.com/anvaka/city-roads)
+* [slidev](https://github.com/slidevjs/slidev)
+
+
+
+
 
 
 
@@ -549,7 +571,7 @@
 * [TheAlgorithms](https://github.com/TheAlgorithms/Python)
 * [cupy](https://github.com/cupy/cupy)
 * [nicegui](https://github.com/zauberzeug/nicegui)
-
+* [Amazing-Python-scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
 
 
 
@@ -562,6 +584,8 @@
 * [RIOT](https://github.com/RIOT-OS/RIOT)
 
 
+## Javascript
+* [ploty.js](https://github.com/plotly/plotly.js)
 
 
 
@@ -573,21 +597,10 @@
 
 
 
-* [napkin-math](https://github.com/sirupsen/napkin-math)
-* [Windows-XP](https://github.com/B00merang-Project/Windows-XP)
-* [awesome-git](https://github.com/dictcp/awesome-git)
-* [VisoMaster](https://github.com/visomaster/VisoMaster)
-* [robotics_essentials_ros2](https://github.com/henki-robotics/robotics_essentials_ros2)
-* * [TriFinger Robot](https://github.com/open-dynamic-robot-initiative/trifinger_simulation)
-* [ploty.js](https://github.com/plotly/plotly.js)
-* [PlotJuggler](https://github.com/facontidavide/PlotJuggler)
-* [coding-interview-university](https://github.com/jwasham/coding-interview-university)
-* [VOCANO](https://github.com/B05901022/VOCANO)
-* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp)
-* [Awesome](https://github.com/sindresorhus/awesome)
-* [city-roads](https://github.com/anvaka/city-roads)
-* [slidev](https://github.com/slidevjs/slidev)
-* [Amazing-Python-scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
+
+
+
+
 * [computer-science](https://github.com/ossu/computer-science)
 * [boot-selection](https://github.com/stecman/hw-boot-selection)
 * [BEGANSing](https://github.com/SoonbeomChoi/BEGANSing)
