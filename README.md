@@ -50,6 +50,14 @@
 * [VisoMaster](https://github.com/visomaster/VisoMaster)
 * [VOCANO](https://github.com/B05901022/VOCANO)
 * [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp)
+* [BEGANSing](https://github.com/SoonbeomChoi/BEGANSing)
+* [AI-Espert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+* [Make It Talk](https://github.com/adobe-research/MakeItTalk)
+* [ML-from-scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+
+
+
+
 
 
 
@@ -119,6 +127,8 @@
 * [ros2_nanollm](https://github.com/NVIDIA-AI-IOT/ros2_nanollm)
 * [robotics_essentials_ros2](https://github.com/henki-robotics/robotics_essentials_ros2)
 * [TriFinger Robot](https://github.com/open-dynamic-robot-initiative/trifinger_simulation)
+* [awesome-ros2](https://github.com/fkromer/awesome-ros2)
+
 
 
 
@@ -140,6 +150,10 @@
 * [Pangolin](https://github.com/stevenlovegrove/Pangolin)
 * [librealsense](https://github.com/IntelRealSense/librealsense)
 * [GeoCalib](https://github.com/cvg/GeoCalib)
+* [OpenCV-Projects](https://github.com/rchavezj/OpenCV_Projects)
+* [Mosaic](https://github.com/codebox/mosaic)
+
+
 
 * 
 * 
@@ -276,6 +290,8 @@
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 * [Project-Based-Learning](https://github.com/practical-tutorials/project-based-learning)
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+* [computer-science](https://github.com/ossu/computer-science)
+
 
 
 
@@ -324,6 +340,8 @@
 * [frontend-dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 * [SerenityOS](https://github.com/SerenityOS/serenity)
+* [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+
 
 
 
@@ -412,7 +430,7 @@
 * [Awesome](https://github.com/sindresorhus/awesome)
 * [city-roads](https://github.com/anvaka/city-roads)
 * [slidev](https://github.com/slidevjs/slidev)
-
+* [atm-cli](https://github.com/allthemusicllc/atm-cli)
 
 
 
@@ -572,6 +590,8 @@
 * [cupy](https://github.com/cupy/cupy)
 * [nicegui](https://github.com/zauberzeug/nicegui)
 * [Amazing-Python-scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
+* [awesome-python](https://github.com/vinta/awesome-python)
+
 
 
 
@@ -587,35 +607,15 @@
 ## Javascript
 * [ploty.js](https://github.com/plotly/plotly.js)
 
+### Matlab-Octave
+* [MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)
+
+
+
 
 
 
 ---
-
-
-
-
-
-
-
-
-
-
-* [computer-science](https://github.com/ossu/computer-science)
-* [boot-selection](https://github.com/stecman/hw-boot-selection)
-* [BEGANSing](https://github.com/SoonbeomChoi/BEGANSing)
-* [AI-Espert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-* [OpenCV-Projects](https://github.com/rchavezj/OpenCV_Projects)
-* [Mosaic](https://github.com/codebox/mosaic)
-* [Make It Talk](https://github.com/adobe-research/MakeItTalk)
-* [ML-from-scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-* [awesome-python](https://github.com/vinta/awesome-python)
-* [MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)
-* [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU)
-* [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp)
-* [atm-cli](https://github.com/allthemusicllc/atm-cli)
-* [awesome-ros2](https://github.com/fkromer/awesome-ros2)
-* [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 * [VirtualAssistant](https://github.com/joeVenner/VirtuelAssistant)
 * [100DaysDS](https://github.com/kindersham/100DaysDS)
 * [awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)
