@@ -60,6 +60,12 @@
 * [fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
 * [neural-style-painting](https://github.com/log0/neural-style-painting)
 * [QuickDraw](https://github.com/uvipen/QuickDraw)
+* [Chess-AI](https://github.com/lamesjim/Chess-AI)
+* [ML web](https://github.com/codePerfectPlus/machine-learning-web-applications?fbclid=IwAR1ps-ijY7WSLwkKw-LHwwmvqPoZJwCHv7jwxkiJEKH6JAdH_m0czP8AJ2I)
+* [FARNN](https://github.com/robotsorcerer/FARNN?utm_source=catalyzex.com)
+
+
+
 
 
 
@@ -140,6 +146,8 @@
 * [TriFinger Robot](https://github.com/open-dynamic-robot-initiative/trifinger_simulation)
 * [awesome-ros2](https://github.com/fkromer/awesome-ros2)
 * [awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)
+* [Thor](https://github.com/AngelLM/Thor)
+
 
 
 * 
@@ -206,6 +214,12 @@
 * [Tasmota-firmware](https://github.com/arendst/Tasmota-firmware)
 * [avr-i2c-adc](https://github.com/ptrks/avr-i2c-adc)
 * [AVR-Programming](https://github.com/Obijuan/AVR-Programming)
+* [MSP430](https://github.com/msp430club/msp430-linux-guide)
+* [MSP430](https://github.com/msp430club/msp430-linux-guide)
+* [AndroidArduino](https://github.com/claudiababescu/arduino-android-bluetooth)
+
+
+
 
 
 
@@ -448,6 +462,10 @@
 * [city-roads](https://github.com/anvaka/city-roads)
 * [slidev](https://github.com/slidevjs/slidev)
 * [atm-cli](https://github.com/allthemusicllc/atm-cli)
+* [Bender](https://github.com/sindar/pRodriguezAssistant)
+* [MiniRadioTelescope](https://github.com/UPennEoR/MiniRadioTelescope)
+
+
 
 
 
@@ -633,18 +651,8 @@
 
 
 ---
-* [MSP430](https://github.com/msp430club/msp430-linux-guide)
-* [ArduinoPlot](https://github.com/diodedb/ArduinoPlot)
-* [Pong](https://github.com/CynicalApe/BASYS3-PONG)
-* [AndroidArduino](https://github.com/claudiababescu/arduino-android-bluetooth)
-* [Chess-AI](https://github.com/lamesjim/Chess-AI)
-* [Thor](https://github.com/AngelLM/Thor)
-* [Bender](https://github.com/sindar/pRodriguezAssistant)
-* [ML web](https://github.com/codePerfectPlus/machine-learning-web-applications?fbclid=IwAR1ps-ijY7WSLwkKw-LHwwmvqPoZJwCHv7jwxkiJEKH6JAdH_m0czP8AJ2I)
-* [FARNN](https://github.com/robotsorcerer/FARNN?utm_source=catalyzex.com)
-* [TileDB](https://github.com/TileDB-Inc/TileDB)
-* [Infinite-Z-Beam](https://github.com/RepRapLtd/Infinite-Z-Beam)
-* [MiniRadioTelescope](https://github.com/UPennEoR/MiniRadioTelescope)
+
+
 * [200+ Machine Learning projects](https://medium.com/coders-camp/200-machine-learning-projects-solved-and-explained-56f1cc1c9ff3)
 * [Hidden images in spectrograms](https://scipython.com/blog/hidden-images-in-spectrograms/)
 * [DIY Image Sensor and Digital Camera](https://www.instructables.com/DIY-Image-Sensor-and-Digital-Camera/)
