@@ -54,6 +54,17 @@
 * [AI-Espert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 * [Make It Talk](https://github.com/adobe-research/MakeItTalk)
 * [ML-from-scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+* [vrn](https://github.com/AaronJackson/vrn)
+* [colorization](https://github.com/richzhang/colorization)
+* [crnn](https://github.com/bgshih/crnn)
+* [fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
+* [neural-style-painting](https://github.com/log0/neural-style-painting)
+* [QuickDraw](https://github.com/uvipen/QuickDraw)
+
+
+
+
+
 
 
 
@@ -128,7 +139,10 @@
 * [robotics_essentials_ros2](https://github.com/henki-robotics/robotics_essentials_ros2)
 * [TriFinger Robot](https://github.com/open-dynamic-robot-initiative/trifinger_simulation)
 * [awesome-ros2](https://github.com/fkromer/awesome-ros2)
+* [awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)
 
+
+* 
 
 
 
@@ -190,6 +204,9 @@
 * [awesome-yocto](https://github.com/fkromer/awesome-yocto-project)
 * [Tasmota](https://github.com/arendst/Tasmota)
 * [Tasmota-firmware](https://github.com/arendst/Tasmota-firmware)
+* [avr-i2c-adc](https://github.com/ptrks/avr-i2c-adc)
+* [AVR-Programming](https://github.com/Obijuan/AVR-Programming)
+
 
 
 
@@ -616,18 +633,6 @@
 
 
 ---
-* [VirtualAssistant](https://github.com/joeVenner/VirtuelAssistant)
-* [100DaysDS](https://github.com/kindersham/100DaysDS)
-* [awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)
-* [PythonRobotics](https://github.com/jslee02/awesome-robotics-libraries)
-* [vrn](https://github.com/AaronJackson/vrn)
-* [colorization](https://github.com/richzhang/colorization)
-* [crnn](https://github.com/bgshih/crnn)
-* [fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
-* [neural-style-painting](https://github.com/log0/neural-style-painting)
-* [QuickDraw](https://github.com/uvipen/QuickDraw)
-* [avr-i2c-adc](https://github.com/ptrks/avr-i2c-adc)
-* [AVR-Programming](https://github.com/Obijuan/AVR-Programming)
 * [MSP430](https://github.com/msp430club/msp430-linux-guide)
 * [ArduinoPlot](https://github.com/diodedb/ArduinoPlot)
 * [Pong](https://github.com/CynicalApe/BASYS3-PONG)
