@@ -96,6 +96,9 @@
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
 * [BDSim](https://github.com/petercorke/bdsim)
 * [PythonLinearNonlinearContro](https://github.com/Shunichi09/PythonLinearNonlinearControl)
+* [PyAdvancedControl](https://github.com/AtsushiSakai/PyAdvancedControl)
+* [nonlinear-control](https://github.com/AtsushiSakai/nonlinear_control)
+
 
 
 
@@ -147,6 +150,10 @@
 * [awesome-ros2](https://github.com/fkromer/awesome-ros2)
 * [awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)
 * [Thor](https://github.com/AngelLM/Thor)
+* [Dummy Robot](https://github.com/peng-zhihui/Dummy-Robot)
+* [path_planner](https://github.com/AtsushiSakai/path_planner)
+
+
 
 
 
@@ -217,6 +224,8 @@
 * [MSP430](https://github.com/msp430club/msp430-linux-guide)
 * [MSP430](https://github.com/msp430club/msp430-linux-guide)
 * [AndroidArduino](https://github.com/claudiababescu/arduino-android-bluetooth)
+* [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum)
+
 
 
 
@@ -464,6 +473,10 @@
 * [atm-cli](https://github.com/allthemusicllc/atm-cli)
 * [Bender](https://github.com/sindar/pRodriguezAssistant)
 * [MiniRadioTelescope](https://github.com/UPennEoR/MiniRadioTelescope)
+* [Sensor Watch](https://github.com/joeycastillo/Sensor-Watch)
+* [googleearthplot](https://github.com/AtsushiSakai/googleearthplot)
+
+
 
 
 
@@ -603,6 +616,16 @@
 
 ## C++
 * [implot3d](https://github.com/brenocq/implot3d)
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp)
+* [Boost](https://github.com/boostorg)
+* [AudioFile](https://github.com/adamstark/AudioFile)
+* [Tabulate](https://github.com/p-ranav/tabulate)
+* [CSV2](https://github.com/p-ranav/csv2)
+* [MongoDB C++ Driver](https://github.com/mongodb/mongo-cxx-driver)
+
+
+
+
 
 
 
@@ -626,6 +649,8 @@
 * [nicegui](https://github.com/zauberzeug/nicegui)
 * [Amazing-Python-scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
 * [awesome-python](https://github.com/vinta/awesome-python)
+* [Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
+* [awesomeScripts](https://github.com/AtsushiSakai/awesomeScripts)
 
 
 
@@ -653,25 +678,14 @@
 ---
 
 
-* [200+ Machine Learning projects](https://medium.com/coders-camp/200-machine-learning-projects-solved-and-explained-56f1cc1c9ff3)
-* [Hidden images in spectrograms](https://scipython.com/blog/hidden-images-in-spectrograms/)
-* [DIY Image Sensor and Digital Camera](https://www.instructables.com/DIY-Image-Sensor-and-Digital-Camera/)
-* [Dummy Robot](https://github.com/peng-zhihui/Dummy-Robot) 
-* [Sensor Watch](https://github.com/joeycastillo/Sensor-Watch)
-* [Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
-* [PyAdvancedControl](https://github.com/AtsushiSakai/PyAdvancedControl)
-* [nonlinear-control](https://github.com/AtsushiSakai/nonlinear_control)
-* [path_planner](https://github.com/AtsushiSakai/path_planner)
-* [Stanford Self driving car code](https://github.com/emmjaykay/stanford_self_driving_car_code)
-* [googleearthplot](https://github.com/AtsushiSakai/googleearthplot)
-* [awesomeScripts](https://github.com/AtsushiSakai/awesomeScripts)
-* [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum)
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp)
-* [Boost](https://github.com/boostorg)
-* [AudioFile](https://github.com/adamstark/AudioFile)
-* [Tabulate](https://github.com/p-ranav/tabulate)
-* [CSV2](https://github.com/p-ranav/csv2)
-* [MongoDB C++ Driver](https://github.com/mongodb/mongo-cxx-driver)
+
+
+
+
+
+
+
+
 * [SQLite C++](https://github.com/SRombauts/SQLiteCpp)
 * [Matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
 * [Json C++](https://github.com/open-source-parsers/jsoncpp)
