@@ -152,6 +152,8 @@
 * [Thor](https://github.com/AngelLM/Thor)
 * [Dummy Robot](https://github.com/peng-zhihui/Dummy-Robot)
 * [path_planner](https://github.com/AtsushiSakai/path_planner)
+* [Box2d](https://github.com/erincatto/Box2D)
+
 
 
 
@@ -475,6 +477,18 @@
 * [MiniRadioTelescope](https://github.com/UPennEoR/MiniRadioTelescope)
 * [Sensor Watch](https://github.com/joeycastillo/Sensor-Watch)
 * [googleearthplot](https://github.com/AtsushiSakai/googleearthplot)
+* [PDF](https://github.com/libharu/libharu)
+* [Bullet 3](https://github.com/bulletphysics/bullet3)
+* [Chipmunk2D](https://github.com/slembcke/Chipmunk2D)
+* [Simbody](https://github.com/simbody/simbody)
+* [TinyRender](https://github.com/ssloy/tinyrenderer/wiki)
+* [A 3D modeller](http://aosabook.org/en/500L/a-3d-modeller.html)
+* [My own blockchain](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+
+
+
+
+
 
 
 
@@ -622,6 +636,18 @@
 * [Tabulate](https://github.com/p-ranav/tabulate)
 * [CSV2](https://github.com/p-ranav/csv2)
 * [MongoDB C++ Driver](https://github.com/mongodb/mongo-cxx-driver)
+* [SQLite C++](https://github.com/SRombauts/SQLiteCpp)
+* [Matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+* [Json C++](https://github.com/open-source-parsers/jsoncpp)
+* [NumC++](https://github.com/dpilger26/NumCpp)
+* [SymEngine](https://github.com/symengine/symengine)
+* [C++ HTTPlib](https://github.com/yhirose/cpp-httplib)
+
+
+
+
+
+
 
 
 
@@ -676,31 +702,6 @@
 
 
 ---
-
-
-
-
-
-
-
-
-
-
-* [SQLite C++](https://github.com/SRombauts/SQLiteCpp)
-* [Matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
-* [Json C++](https://github.com/open-source-parsers/jsoncpp)
-* [NumC++](https://github.com/dpilger26/NumCpp)
-* [PDF](https://github.com/libharu/libharu)
-* [Box2d](https://github.com/erincatto/Box2D)
-* [Bullet 3](https://github.com/bulletphysics/bullet3)
-* [Chipmunk2D](https://github.com/slembcke/Chipmunk2D)
-* [SymEngine](https://github.com/symengine/symengine)
-* [C++ HTTPlib](https://github.com/yhirose/cpp-httplib)
-* [Simbody](https://github.com/simbody/simbody)
-* [GSL](http://www.gnu.org/software/gsl/)
-* [TinyRender](https://github.com/ssloy/tinyrenderer/wiki)
-* [A 3D modeller](http://aosabook.org/en/500L/a-3d-modeller.html)
-* [My own blockchain](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 * [Key Value Store](https://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 * [My own server](https://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
 * [Rubber docker](https://github.com/Fewbytes/rubber-docker)
