@@ -484,6 +484,10 @@
 * [TinyRender](https://github.com/ssloy/tinyrenderer/wiki)
 * [A 3D modeller](http://aosabook.org/en/500L/a-3d-modeller.html)
 * [My own blockchain](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+* [OS](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
+* [Shell](https://github.com/tokenrove/build-your-own-shell)
+
+
 
 
 
@@ -560,6 +564,10 @@
 * [docker-k8s-training](https://github.com/milanm/docker-k8s-training)
 * [macos](https://github.com/dockur/macos)
 * [self-host-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)
+* [Rubber docker](https://github.com/Fewbytes/rubber-docker)
+* [Mocker clone](https://github.com/tonybaloney/mocker)
+
+
 
 
 
@@ -677,6 +685,8 @@
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
 * [awesomeScripts](https://github.com/AtsushiSakai/awesomeScripts)
+* [Python Data Science](https://github.com/jakevdp/PythonDataScienceHandbook)
+
 
 
 
@@ -697,26 +707,15 @@
 * [MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)
 
 
+## Databases
+* [Key Value Store](https://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
+
 
 
 
 
 ---
-* [Key Value Store](https://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
-* [My own server](https://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
-* [Rubber docker](https://github.com/Fewbytes/rubber-docker)
-* [Mocker clone](https://github.com/tonybaloney/mocker)
-* [Emulator](http://omokute.blogspot.com/2012/06/emulation-basics-write-your-own-chip-8.html)
-* [OS](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
-* [OS](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
-* [Compiler](https://www.youtube.com/watch?v=eF9qWbuQLuw)
-* [Interpreter](https://ruslanspivak.com/lsbasi-part1/)
-* [Shell](https://github.com/tokenrove/build-your-own-shell)
-* [A simple web server](http://aosabook.org/en/500L/a-simple-web-server.html)
-* [WebApp](https://defn.io/2018/02/25/web-app-from-scratch-01/)
-* [HTTP](https://joaoventura.net/blog/2017/python-webserver/)
-* [PyMongo](https://realpython.com/introduction-to-mongodb-and-python/)
-* [Python Data Science](https://github.com/jakevdp/PythonDataScienceHandbook)
+
 * [PCB](https://github.com/risejohan/2Bit?fbclid=IwAR2G2EfXMAqJaMUq6j9GQ19YbiLI3Om7TCIwyk_dbtfd7swmfJQ02HuLe7Q)
 * [Open SmartWatch](https://github.com/Open-Smartwatch/open-smartwatch-gps)
 * [A64-OLinuxXino](https://github.com/OLIMEX/OLINUXINO/tree/master/HARDWARE/A64-OLinuXino)
