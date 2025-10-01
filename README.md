@@ -63,6 +63,8 @@
 * [Chess-AI](https://github.com/lamesjim/Chess-AI)
 * [ML web](https://github.com/codePerfectPlus/machine-learning-web-applications?fbclid=IwAR1ps-ijY7WSLwkKw-LHwwmvqPoZJwCHv7jwxkiJEKH6JAdH_m0czP8AJ2I)
 * [FARNN](https://github.com/robotsorcerer/FARNN?utm_source=catalyzex.com)
+* [MLPP](https://github.com/novak-99/MLPP)
+
 
 
 
@@ -486,6 +488,12 @@
 * [My own blockchain](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 * [OS](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
 * [Shell](https://github.com/tokenrove/build-your-own-shell)
+* [Open SmartWatch](https://github.com/Open-Smartwatch/open-smartwatch-gps)
+* [LaTeX CSS](https://github.com/vincentdoerig/latex-css)
+* [Build your own](https://github.com/danistefanovic/build-your-own-x)
+
+
+
 
 
 
@@ -666,6 +674,8 @@
 
 ## Android
 * [awesome-android](https://github.com/zserge/awesome-android)
+* [Flutter App](https://github.com/sangvaleap/app-flutter-travel-app?fbclid=IwAR2GYgN5L2M2UEyQD4wjDfr7NcOsBA0pIEucQdhPCHVBSqyL4T4_8XDVIMk)
+
 
 
 
@@ -686,6 +696,12 @@
 * [Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
 * [awesomeScripts](https://github.com/AtsushiSakai/awesomeScripts)
 * [Python Data Science](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Science Plots](https://github.com/garrettj403/SciencePlots)
+* [Python bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
+* [streamlit](https://github.com/streamlit/streamlit)
+
+
+
 
 
 
@@ -716,20 +732,8 @@
 
 ---
 
-* [PCB](https://github.com/risejohan/2Bit?fbclid=IwAR2G2EfXMAqJaMUq6j9GQ19YbiLI3Om7TCIwyk_dbtfd7swmfJQ02HuLe7Q)
-* [Open SmartWatch](https://github.com/Open-Smartwatch/open-smartwatch-gps)
-* [A64-OLinuxXino](https://github.com/OLIMEX/OLINUXINO/tree/master/HARDWARE/A64-OLinuXino)
-* [Science Plots](https://github.com/garrettj403/SciencePlots)
-* [LaTeX CSS](https://github.com/vincentdoerig/latex-css)
-* [Arduino Robot Arm](https://www.dropbox.com/s/g0cioi4o65ne0gq/Arduino%20robot%20arm%20files.zip?dl=0&file_subpath=%2FArduino+robot+arm+files)
-* [AR-3](anninrobotics.com/downloads)
-* [Flutter App](https://github.com/sangvaleap/app-flutter-travel-app?fbclid=IwAR2GYgN5L2M2UEyQD4wjDfr7NcOsBA0pIEucQdhPCHVBSqyL4T4_8XDVIMk)
-* [Python bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
-* [streamlit](https://github.com/streamlit/streamlit)
-* [Build your own](https://github.com/danistefanovic/build-your-own-x)
-* [Keyboard](https://there.oughta.be/a/macro-keyboard)
-* [Mercury](https://github.com/mljar/mercury)
-* [MLPP](https://github.com/novak-99/MLPP)
+
+
 * [Stock preditcion](https://blog.devgenius.io/predicting-tesla-stocks-tsla-using-python-pycaret-45af9ed47de9)
 * [NumpPy image processing](https://analyticsindiamag.com/a-beginners-guide-to-image-processing-using-numpy/)
 * [Autonomous flight](https://github.com/KumarRobotics/kr_autonomous_flight)
