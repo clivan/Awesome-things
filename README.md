@@ -155,6 +155,10 @@
 * [Dummy Robot](https://github.com/peng-zhihui/Dummy-Robot)
 * [path_planner](https://github.com/AtsushiSakai/path_planner)
 * [Box2d](https://github.com/erincatto/Box2D)
+* [Autonomous flight](https://github.com/KumarRobotics/kr_autonomous_flight)
+* [Autonomous-Systems-Guide](https://github.com/mikeroyal/Autonomous-Systems-Guide)
+
+
 
 
 
@@ -185,6 +189,8 @@
 * [GeoCalib](https://github.com/cvg/GeoCalib)
 * [OpenCV-Projects](https://github.com/rchavezj/OpenCV_Projects)
 * [Mosaic](https://github.com/codebox/mosaic)
+* [Computer-Vision-Guide](https://github.com/mikeroyal/Computer-Vision-Guide)
+
 
 
 
@@ -199,6 +205,8 @@
 * [awesome-jsn-datsets](https://github.com/jdorfman/awesome-json-datasets)
 * [exploratory-data-analysis-of-sensor-data-with-pandas](https://github.com/fkromer/exploratory-data-analysis-of-sensor-data-with-pandas)
 * [kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions)
+* [R-Guide](https://github.com/mikeroyal/R-Guide)
+
 
 
 
@@ -258,6 +266,10 @@
 * [FPGA-ASIC-Roadmap](https://github.com/m3y54m/FPGA-ASIC-Roadmap)
 * [awesome-opensource-asic-resources](https://github.com/mattvenn/awesome-opensource-asic-resources)
 * [icestorm](https://github.com/YosysHQ/icestorm)
+* [VHDL-Guide](https://github.com/mikeroyal/VHDL-Guide)
+* [CPLD-Guide](https://github.com/mikeroyal/CPLD-Guide)
+
+
 
 
 
@@ -491,6 +503,14 @@
 * [Open SmartWatch](https://github.com/Open-Smartwatch/open-smartwatch-gps)
 * [LaTeX CSS](https://github.com/vincentdoerig/latex-css)
 * [Build your own](https://github.com/danistefanovic/build-your-own-x)
+* [LaTeX Template](https://github.com/mihdicaballero/LaTeX-Projects?fbclid=IwAR22uYWXsTBvG3DQH0eYhnf__Z4mhXiPEOwatNwRB9_-t9RPsHf4A6POET0)
+* [awesome-algorithms](https://github.com/sirupsen/awesome-algorithms)
+* [OpenCL-Guide](https://github.com/mikeroyal/OpenCL-Guide)
+* [Bayesian-Statistics-Guide](https://github.com/mikeroyal/Bayesian-Statistics-Guide)
+
+
+
+
 
 
 
@@ -574,6 +594,8 @@
 * [self-host-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)
 * [Rubber docker](https://github.com/Fewbytes/rubber-docker)
 * [Mocker clone](https://github.com/tonybaloney/mocker)
+* [Dcker-Guide](https://github.com/mikeroyal/Docker-Guide)
+
 
 
 
@@ -611,6 +633,8 @@
 * [Astroluma](https://github.com/Sanjeet990/Astroluma)
 * [meshery](https://github.com/meshery/meshery)
 * [DevOps-World](https://github.com/ann-felix/DEVOPS-WORLD)
+* [Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide)
+
 
 
 
@@ -658,7 +682,7 @@
 * [NumC++](https://github.com/dpilger26/NumCpp)
 * [SymEngine](https://github.com/symengine/symengine)
 * [C++ HTTPlib](https://github.com/yhirose/cpp-httplib)
-
+* [CPP-guide](https://github.com/mikeroyal/CPP-Guide)
 
 
 
@@ -734,21 +758,17 @@
 
 
 
-* [Stock preditcion](https://blog.devgenius.io/predicting-tesla-stocks-tsla-using-python-pycaret-45af9ed47de9)
-* [NumpPy image processing](https://analyticsindiamag.com/a-beginners-guide-to-image-processing-using-numpy/)
-* [Autonomous flight](https://github.com/KumarRobotics/kr_autonomous_flight)
-* [LaTeX Template](https://github.com/mihdicaballero/LaTeX-Projects?fbclid=IwAR22uYWXsTBvG3DQH0eYhnf__Z4mhXiPEOwatNwRB9_-t9RPsHf4A6POET0)
-* [awesome-algorithms](https://github.com/sirupsen/awesome-algorithms)
-* [OpenCL-Guide](https://github.com/mikeroyal/OpenCL-Guide)
-* [R-Guide](https://github.com/mikeroyal/R-Guide)
-* [VHDL-Guide](https://github.com/mikeroyal/VHDL-Guide)
-* [Dcker-Guide](https://github.com/mikeroyal/Docker-Guide)
-* [CPP-guide](https://github.com/mikeroyal/CPP-Guide)
-* [Bayesian-Statistics-Guide](https://github.com/mikeroyal/Bayesian-Statistics-Guide)
-* [Computer-Vision-Guide](https://github.com/mikeroyal/Computer-Vision-Guide)
-* [Autonomous-Systems-Guide](https://github.com/mikeroyal/Autonomous-Systems-Guide)
-* [Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide)
-* [CPLD-Guide](https://github.com/mikeroyal/CPLD-Guide)
+
+
+
+
+
+
+
+
+
+
+
 * [Differential-Equations-Guide](https://github.com/mikeroyal/Differential-Equations-Guide)
 * [Linear-Algebra-Guide](https://github.com/mikeroyal/Linear-Algebra-Guide)
 * [Godot-Engine-Guide](https://github.com/mikeroyal/Godot-Engine-Guide)
