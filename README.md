@@ -64,6 +64,10 @@
 * [ML web](https://github.com/codePerfectPlus/machine-learning-web-applications?fbclid=IwAR1ps-ijY7WSLwkKw-LHwwmvqPoZJwCHv7jwxkiJEKH6JAdH_m0czP8AJ2I)
 * [FARNN](https://github.com/robotsorcerer/FARNN?utm_source=catalyzex.com)
 * [MLPP](https://github.com/novak-99/MLPP)
+* [Keras-Guide](https://github.com/mikeroyal/Keras-Guide)
+* [Deep-Learning-Guide](https://github.com/mikeroyal/Deep-Learning-Guide)
+
+
 
 
 
@@ -237,6 +241,9 @@
 * [MSP430](https://github.com/msp430club/msp430-linux-guide)
 * [AndroidArduino](https://github.com/claudiababescu/arduino-android-bluetooth)
 * [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum)
+* [Firmware-Guide](https://github.com/mikeroyal/Firmware-Guide)
+* [DSP-Guide](https://github.com/mikeroyal/DSP-Guide)
+* 
 
 
 
@@ -507,6 +514,22 @@
 * [awesome-algorithms](https://github.com/sirupsen/awesome-algorithms)
 * [OpenCL-Guide](https://github.com/mikeroyal/OpenCL-Guide)
 * [Bayesian-Statistics-Guide](https://github.com/mikeroyal/Bayesian-Statistics-Guide)
+* [Differential-Equations-Guide](https://github.com/mikeroyal/Differential-Equations-Guide)
+* [Linear-Algebra-Guide](https://github.com/mikeroyal/Linear-Algebra-Guide)
+* [Godot-Engine-Guide](https://github.com/mikeroyal/Godot-Engine-Guide)
+* [Jupyter-Guide](https://github.com/mikeroyal/Jupyter-Guide)
+* [GPU-Guide](https://github.com/mikeroyal/GPU-Guide)
+* [Blender-Guide](https://github.com/mikeroyal/Blender-Guide)
+* [Matlab-Guide](https://github.com/mikeroyal/MATLAB-Guide)
+* [Windows-95](https://github.com/B00merang-Project/Windows-95)
+
+
+
+
+
+
+
+
 
 
 
@@ -595,6 +618,8 @@
 * [Rubber docker](https://github.com/Fewbytes/rubber-docker)
 * [Mocker clone](https://github.com/tonybaloney/mocker)
 * [Dcker-Guide](https://github.com/mikeroyal/Docker-Guide)
+* [dockerfile](https://github.com/ann-felix/dockerfiles)
+
 
 
 
@@ -634,6 +659,8 @@
 * [meshery](https://github.com/meshery/meshery)
 * [DevOps-World](https://github.com/ann-felix/DEVOPS-WORLD)
 * [Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide)
+* [Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide)
+
 
 
 
@@ -738,6 +765,8 @@
 * [node-red](https://github.com/node-red/node-red)
 * [PangolinMQTT](https://github.com/philbowles/PangolinMQTT)
 * [RIOT](https://github.com/RIOT-OS/RIOT)
+* [IoT-Guide](https://github.com/mikeroyal/IoT-Guide)
+
 
 
 ## Javascript
@@ -755,35 +784,6 @@
 
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* [Differential-Equations-Guide](https://github.com/mikeroyal/Differential-Equations-Guide)
-* [Linear-Algebra-Guide](https://github.com/mikeroyal/Linear-Algebra-Guide)
-* [Godot-Engine-Guide](https://github.com/mikeroyal/Godot-Engine-Guide)
-* [Jupyter-Guide](https://github.com/mikeroyal/Jupyter-Guide)
-* [Firmware-Guide](https://github.com/mikeroyal/Firmware-Guide)
-* [GPU-Guide](https://github.com/mikeroyal/GPU-Guide)
-* [IoT-Guide](https://github.com/mikeroyal/IoT-Guide)
-* [Keras-Guide](https://github.com/mikeroyal/Keras-Guide)
-* [Deep-Learning-Guide](https://github.com/mikeroyal/Deep-Learning-Guide)
-* [Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide)
-* [DSP-Guide](https://github.com/mikeroyal/DSP-Guide)
-* [Blender-Guide](https://github.com/mikeroyal/Blender-Guide)
-* [Matlab-Guide](https://github.com/mikeroyal/MATLAB-Guide)
-* [dockerfile](https://github.com/ann-felix/dockerfiles)
-* [Windows-95](https://github.com/B00merang-Project/Windows-95)
 * [Windows-Vista](https://github.com/B00merang-Project/Windows-Vista)
 * [ARM-Guide](https://github.com/mikeroyal/ARM-Guide)
 * [Robotics-Guide](https://github.com/mikeroyal/Robotics-guide)
