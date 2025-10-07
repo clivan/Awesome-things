@@ -162,6 +162,10 @@
 * [Autonomous flight](https://github.com/KumarRobotics/kr_autonomous_flight)
 * [Autonomous-Systems-Guide](https://github.com/mikeroyal/Autonomous-Systems-Guide)
 * [Robotics-Guide](https://github.com/mikeroyal/Robotics-guide)
+* [Robotics-simulation-labs](https://github.com/felipenmartins/Robotics-Simulation-Labs)
+* [best-of-robot-simulators](https://github.com/knmcguire/best-of-robot-simulators)
+
+
 
 
 
@@ -537,6 +541,20 @@
 * [macOs](https://github.com/B00merang-Project/macOS)
 * [Windows-7](https://github.com/B00merang-Project/Windows-7)
 * [Apollo-11](https://github.com/chrislgarry/Apollo-11)
+* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+* [no-as-a-service](https://github.com/hotheadhacker/no-as-a-service)
+* [Git-friend](https://github.com/krishn404/Git-Friend)
+* [self.so](https://github.com/Nutlope/self.so)
+* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster)
+* [Sisyphus](https://github.com/salmiyounes/Sisyphus)
+* [foliate](https://github.com/johnfactotum/foliate)
+
+
+
+
+
+
+
 
 
 
@@ -644,6 +662,12 @@
 * [Mocker clone](https://github.com/tonybaloney/mocker)
 * [Dcker-Guide](https://github.com/mikeroyal/Docker-Guide)
 * [dockerfile](https://github.com/ann-felix/dockerfiles)
+* [dockge](https://github.com/louislam/dockge)
+* [awesome-compose](https://github.com/docker/awesome-compose)
+* [docker-utils](https://github.com/dictcp/docker-utils)
+
+
+
 
 
 
@@ -662,6 +686,8 @@
 ## Kubernetes
 * [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 * [kubewall](https://github.com/kubewall/kubewall)
+* [Kubernets-Guide](https://github.com/mikeroyal/Kubernetes-Guide)
+
 
 
 
@@ -685,6 +711,8 @@
 * [DevOps-World](https://github.com/ann-felix/DEVOPS-WORLD)
 * [Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide)
 * [Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide)
+* [awesome-devops](https://github.com/wmariuss/awesome-devops)
+
 
 
 
@@ -815,21 +843,21 @@
 
 
 ---
-* [Kubernets-Guide](https://github.com/mikeroyal/Kubernetes-Guide)
-* [dockge](https://github.com/louislam/dockge)
-* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
-* [no-as-a-service](https://github.com/hotheadhacker/no-as-a-service)
-* [awesome-compose](https://github.com/docker/awesome-compose)
-* [Git-friend](https://github.com/krishn404/Git-Friend)
-* [self.so](https://github.com/Nutlope/self.so)
-* [Robotics-simulation-labs](https://github.com/felipenmartins/Robotics-Simulation-Labs)
-* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster)
-* [Sisyphus](https://github.com/salmiyounes/Sisyphus)
-* [foliate](https://github.com/johnfactotum/foliate)
-* [USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife)
-* [docker-utils](https://github.com/dictcp/docker-utils)
-* [best-of-robot-simulators](https://github.com/knmcguire/best-of-robot-simulators)
-* [awesome-devops](https://github.com/wmariuss/awesome-devops)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * [pypi-docker](https://github.com/wmariuss/pypi-docker)
 * [gitea-py](https://github.com/wmariuss/gitea-py)
 * [py-project-template](https://github.com/wmariuss/py-project-template)
