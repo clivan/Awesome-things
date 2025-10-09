@@ -106,6 +106,8 @@
 * [PythonLinearNonlinearContro](https://github.com/Shunichi09/PythonLinearNonlinearControl)
 * [PyAdvancedControl](https://github.com/AtsushiSakai/PyAdvancedControl)
 * [nonlinear-control](https://github.com/AtsushiSakai/nonlinear_control)
+* [awesome-control-theory](https://github.com/A-make/awesome-control-theory)
+
 
 
 
@@ -171,6 +173,10 @@
 * [elements-of-robotics](https://github.com/motib/elements-of-robotics)
 * [SimRobSim](https://github.com/felipenmartins/SimRobSim)
 * [autonomous-line-follower-robot](https://github.com/Simonf8/autonomous-linefollower-robot)
+* [ROSWorkshop](https://github.com/Marwan-Refaat/ROSWorkshop)
+* [ros2-ci](https://github.com/knmcguire/ci)
+
+
 
 
 
@@ -569,6 +575,24 @@
 * [ESPAsyncWebServer](https://github.com/i-am-shodan/ESPAsyncWebServer)
 * [tinyusb](https://github.com/hathach/tinyusb)
 * [Windows-8.1](https://github.com/B00merang-Project/Windows-8.1)
+* [awesome-github-readme-profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+* [WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
+* [stablediffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+* [syncthing](https://github.com/syncthing/syncthing)
+* [neko](https://github.com/m1k1o/neko)
+* [quickemu](https://github.com/quickemu-project/quickemu)
+* [webvm](https://github.com/leaningtech/webvm)
+* [obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
+* [tulipcc](https://github.com/shorepine/tulipcc)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -741,6 +765,8 @@
 * [Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide)
 * [Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide)
 * [awesome-devops](https://github.com/wmariuss/awesome-devops)
+* [ZeroToHero-Azure-GitOps](https://github.com/praduman8435/ZeroToHero-Azure-GitOps)
+
 
 
 
@@ -867,6 +893,17 @@
 ## Databases
 * [Key Value Store](https://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 
+## Assembler
+* [asm](https://github.com/0xAX/asm)
+
+
+
+## OS
+* [How-to-make-a-computer-operating-system](https://github.com/0xAX/How-to-Make-a-Computer-Operating-System)
+
+
+
+
 
 
 
@@ -902,21 +939,21 @@
 
 
 
-* [ZeroToHero-Azure-GitOps](https://github.com/praduman8435/ZeroToHero-Azure-GitOps)
-* [awesome-control-theory](https://github.com/A-make/awesome-control-theory)
-* [awesome-github-readme-profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-* [ROSWorkshop](https://github.com/Marwan-Refaat/ROSWorkshop)
-* [WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
-* [stablediffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-* [synccthing](https://github.com/syncthing/syncthing)
-* [ros2-ci](https://github.com/knmcguire/ci)
-* [neko](https://github.com/m1k1o/neko)
-* [quickemu](https://github.com/quickemu-project/quickemu)
-* [webvm](https://github.com/leaningtech/webvm)
-* [obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
-* [asm](https://github.com/0xAX/asm)
-* [How-to-make-a-computer-operating-system](https://github.com/0xAX/How-to-Make-a-Computer-Operating-System)
-* [tulipcc](https://github.com/shorepine/tulipcc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * [launchma](https://github.com/Kodo-Robotics/launchmap)
 * [koodo-reader](https://github.com/koodo-reader/koodo-reader)
 * [GDevelop](https://github.com/4ian/GDevelop)
