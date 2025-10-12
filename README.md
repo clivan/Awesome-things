@@ -73,35 +73,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Control Theory
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
 * [BDSim](https://github.com/petercorke/bdsim)
@@ -115,10 +86,6 @@
 
 
 
-
-
-
-* 
 ## Robotics
 * [Semantic SLAM](https://github.com/floatlazer/semantic_slam)
 * [Autonomous mobile robots](https://github.com/jdgalviss/autonomous_mobile_robot)
@@ -191,39 +158,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Computer Vision
 * [MachineVision Toolbox Python](https://github.com/petercorke/machinevision-toolbox-python)
 * [DBoW3](https://github.com/rmsalinas/DBow3)
@@ -237,8 +171,7 @@
 
 
 
-* 
-* 
+
 ## Data Analysis
 * [Quadratic](https://github.com/quadratichq/quadratic)
 * [Streamlit](https://github.com/streamlit/streamlit)
@@ -255,12 +188,6 @@
 
 
 
-
-
-
-
-
- 
 ## Embedded Systems
 * [AVR-FFT](https://github.com/Klafyvel/AVR-FFT)
 * [SavvyCAN](https://github.com/collin80/SavvyCAN)
@@ -293,27 +220,12 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Electronic Stuff
 * [Adafruit CAD Parts](https://github.com/adafruit/Adafruit_CAD_Parts)
 * [PS$-ESP32](https://github.com/aed3/PS4-esp32)
 * [awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware)
+
+
 
 
 
@@ -330,15 +242,20 @@
 
 
 
-
-
 ## Science
+
+
+
 
 ## Math
 * [PGraph-Python](https://github.com/petercorke/pgraph-python)
 * [Ceres Solver](https://github.com/ceres-solver/ceres-solver)
 * [Sophus](https://github.com/strasdat/Sophus)
 * [g2o](https://github.com/RainerKuemmerle/g2o)
+
+
+
+
 
 ## Mechanics/CAD Stuff
 * [GearFactory](https://github.com/Klafyvel/GearFactory)
@@ -354,12 +271,13 @@
 
 
 
-
 ## Graphics
 * [olive](https://github.com/tsoding/olive.c)
 * [pi3d](https://github.com/Ebiroll/pi3d)
 * [animatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
  
+
+
 
 
 ## Homelab
@@ -389,10 +307,8 @@
 * [puter](https://github.com/HeyPuter/puter)
 * [Meelo](https://github.com/Arthi-chaud/Meelo)
 * [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
-
-
-
- 
+* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [myDrive](https://github.com/subnub/myDrive)
 
 
 
@@ -409,10 +325,6 @@
 * [Project-Based-Learning](https://github.com/practical-tutorials/project-based-learning)
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 * [computer-science](https://github.com/ossu/computer-science)
-
-
-
-
 
 
 
@@ -435,11 +347,10 @@
 
 
 
-
-* 
 ## Tools
 * [clad](https://github.com/vgvassilev/clad)
 * [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
+
 
 
 
@@ -449,7 +360,11 @@
 * [screenshotToCode](https://github.com/abi/screenshot-to-code)
 * [YouTube-Shorts-Generator](https://github.com/nikhilnair31/YouTube-Shorts-Generator)
 * [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
-* 
+
+
+
+
+
 ## Web Design
 * [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 * [css-docs](https://github.com/eludadev/css-docs)
@@ -464,24 +379,29 @@
 
 
 
-
 ## Rust
 * [awesome-rust](https://github.com/liuchong/awesome-rust)
-* 
+
+
+
 
 ## SQL
 * [stackql](https://github.com/stackql/stackql)
-* 
+
+
+
+
 
 ## Portfolio
 * [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 * [minimalist-portfolio-json](https://github.com/midudev/minimalist-portfolio-json)
 * [skfolio](https://github.com/skfolio/skfolio)
+
  
-  * 
-
-
-## Nice things
+ 
+ 
+ 
+ ## Nice things
 * [MS-DOS](https://github.com/microsoft/MS-DOS)
 * [gm](https://github.com/flujoo/gm)
 * [windows-api-function-cheatsheet](https://github.com/7etsuo/windows-api-function-cheatsheets)
@@ -622,124 +542,7 @@
 * [LACT](https://github.com/ilya-zlobintsev/LACT)
 * [memos](https://github.com/usememos/memos)
 * [domain-locker](https://github.com/Lissy93/domain-locker)
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
 
 
 
@@ -751,7 +554,7 @@
 
 
 
-* 
+
 
 ## Docker
 * [Awesome-docker](https://github.com/veggiemonk/awesome-docker)
@@ -774,28 +577,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Kubernetes
 * [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 * [kubewall](https://github.com/kubewall/kubewall)
 * [Kubernets-Guide](https://github.com/mikeroyal/Kubernetes-Guide)
-
-
-
-
 
 
 
@@ -823,26 +608,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Data Bases
 * [awesome-db-tools](https://github.com/mgramin/awesome-db-tools)
 * [supabase](https://github.com/supabase/supabase)
 * [SQL-NoSQL-Guide](https://github.com/mikeroyal/SQL-NoSQL-Guide)
 * [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
-
-
-
 
 
 
@@ -856,9 +626,11 @@
 
 
 
-
 ## C
 * [awesome-c](https://github.com/oz123/awesome-c)
+
+
+
 
 
 ## C++
@@ -876,14 +648,7 @@
 * [SymEngine](https://github.com/symengine/symengine)
 * [C++ HTTPlib](https://github.com/yhirose/cpp-httplib)
 * [CPP-guide](https://github.com/mikeroyal/CPP-Guide)
-
-
-
-
-
-
-
-
+* [cpp-httplib](https://github.com/yhirose/cpp-httplib)
 
 
 
@@ -900,6 +665,7 @@
 
 ## Git
 * [lazygit](https://github.com/jesseduffield/lazygit)
+
 
 
 
@@ -923,11 +689,6 @@
 
 
 
-
-
-
-  
-
 ## IoT
 * [thingsboard](https://github.com/thingsboard/thingsboard)
 * [node-red](https://github.com/node-red/node-red)
@@ -937,11 +698,20 @@
 
 
 
+
+
 ## Javascript
 * [ploty.js](https://github.com/plotly/plotly.js)
 
+
+
+
+
 ### Matlab-Octave
 * [MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)
+
+
+
 
 
 ## Databases
@@ -959,39 +729,4 @@
 
 
 
-
-
-
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-* [cpp-httplib](https://github.com/yhirose/cpp-httplib)
-* [fizzbuzzlang](https://github.com/yhirose/fizzbuzzlang)
-* [myDrive](https://github.com/subnub/myDrive)
-* [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
