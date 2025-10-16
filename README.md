@@ -1,11 +1,11 @@
 # Awesome things
 
 ## AI
+### AI Models
 * [iGAN](https://github.com/mnielsen/iGAN)
 * [neural style audio tf](https://github.com/DmitryUlyanov/neural-style-audio-tf)
 * [Artistic videos](https://github.com/manuelruder/artistic-videos)
 * [Image Caption Generator](https://github.com/dabasajay/Image-Caption-Generator)
-* [YOLOV4 Custom Object Detection](https://github.com/clivan/YOLOV4-Custom-Object-Detection)
 * [Instruct Pix2Pix](https://github.com/timothybrooks/instruct-pix2pix)
 * [Segment anything](https://github.com/facebookresearch/segment-anything)
 * [gpt4all](https://github.com/nomic-ai/gpt4all)
@@ -16,7 +16,14 @@
 * [AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3)
 * [whisperX](https://github.com/m-bain/whisperX)
 * [magic-animate](https://github.com/magic-research/magic-animate)
+
+
+
+### Tutorials
 * [artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python)
+
+
+
 * [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
 * [generativepy](https://github.com/martinmcbride/generativepy)
 * [end2end-all-conv](https://github.com/lishen/end2end-all-conv)
