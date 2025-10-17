@@ -16,15 +16,6 @@
 * [AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3)
 * [whisperX](https://github.com/m-bain/whisperX)
 * [magic-animate](https://github.com/magic-research/magic-animate)
-
-
-
-### Tutorials
-* [artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python)
-
-
-
-* [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
 * [generativepy](https://github.com/martinmcbride/generativepy)
 * [end2end-all-conv](https://github.com/lishen/end2end-all-conv)
 * [InstColorization](https://github.com/ericsujw/InstColorization)
@@ -33,12 +24,47 @@
 * [CtyleCLIP](https://github.com/orpatashnik/StyleCLIP)
 * [TecoGAN](https://github.com/thunil/TecoGAN)
 * [DeOldify](https://github.com/jantic/DeOldify)
-* [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
 * [LL-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)
 * [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Pysics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
-* [Protofy](https://github.com/Protofy-xyz/Protofy)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Tutorials
+* [artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python)
+* [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
+* [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
+
+
+
+## Compilation
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * [roop](https://github.com/s0md3v/roop)
 * [ToonCrafter](https://github.com/Doubiiu/ToonCrafter)
 * [faceswap](https://github.com/deepfakes/faceswap)
@@ -550,6 +576,7 @@
 * [memos](https://github.com/usememos/memos)
 * [domain-locker](https://github.com/Lissy93/domain-locker)
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
+* [Protofy](https://github.com/Protofy-xyz/Protofy)
 
 
 
