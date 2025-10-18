@@ -27,11 +27,17 @@
 * [LL-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)
 * [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
 * [Pysics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
-
-
-
-
-
+* [roop](https://github.com/s0md3v/roop)
+* [ToonCrafter](https://github.com/Doubiiu/ToonCrafter)
+* [faceswap](https://github.com/deepfakes/faceswap)
+* [OneDiffusion](https://github.com/lehduong/OneDiffusion)
+* [fastmusicremover](https://github.com/omeryusufyagci/fast-music-remover)
+* [Diffsensei](https://github.com/jianzongwu/DiffSensei)
+* [rag-knowledge-graph](https://github.com/cristianleoo/rag-knowledge-graph)
+* [picotron](https://github.com/huggingface/picotron)
+* [TRELLIS](https://github.com/microsoft/TRELLIS)
+* [AI reads books page by page](https://github.com/echohive42/AI-reads-books-page-by-page)
+* [FilmAgent](https://github.com/HITsz-TMG/FilmAgent)
 
 
 
@@ -45,41 +51,45 @@
 * [artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python)
 * [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
 * [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
+* [llm-course](https://github.com/mlabonne/llm-course)
+
 
 
 
 ## Compilation
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* [roop](https://github.com/s0md3v/roop)
-* [ToonCrafter](https://github.com/Doubiiu/ToonCrafter)
-* [faceswap](https://github.com/deepfakes/faceswap)
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
-* [OneDiffusion](https://github.com/lehduong/OneDiffusion)
-* [fastmusicremover](https://github.com/omeryusufyagci/fast-music-remover)
-* [Diffsensei](https://github.com/jianzongwu/DiffSensei)
-* [rag-knowledge-graph](https://github.com/cristianleoo/rag-knowledge-graph)
-* [picotron](https://github.com/huggingface/picotron)
-* [Genesis-Emodied-AI](https://github.com/Genesis-Embodied-AI/Genesis)
 * [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-* [TRELLIS](https://github.com/microsoft/TRELLIS)
-* [AI reads books page by page](https://github.com/echohive42/AI-reads-books-page-by-page)
-* [llm-course](https://github.com/mlabonne/llm-course)
-* [FilmAgent](https://github.com/HITsz-TMG/FilmAgent)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 * [VisoMaster](https://github.com/visomaster/VisoMaster)
 * [VOCANO](https://github.com/B05901022/VOCANO)
 * [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp)
@@ -186,6 +196,8 @@
 * [ros2-dust](https://github.com/ros2-rust/ros2_rust)
 * [2d-lidar-idetification](https://github.com/soheilbh/2d-lidar-identification)
 * [Path-finding-Irbobot](https://github.com/soheilbh/Path_Finding_Irobot)
+* [Genesis-Emodied-AI](https://github.com/Genesis-Embodied-AI/Genesis)
+
 
 
 
