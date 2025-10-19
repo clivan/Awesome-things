@@ -38,9 +38,19 @@
 * [TRELLIS](https://github.com/microsoft/TRELLIS)
 * [AI reads books page by page](https://github.com/echohive42/AI-reads-books-page-by-page)
 * [FilmAgent](https://github.com/HITsz-TMG/FilmAgent)
-
-
-
+* [VisoMaster](https://github.com/visomaster/VisoMaster)
+* [VOCANO](https://github.com/B05901022/VOCANO)
+* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp)
+* [BEGANSing](https://github.com/SoonbeomChoi/BEGANSing)
+* [Make It Talk](https://github.com/adobe-research/MakeItTalk)
+* [vrn](https://github.com/AaronJackson/vrn)
+* [colorization](https://github.com/richzhang/colorization)
+* [crnn](https://github.com/bgshih/crnn)
+* [fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
+* [neural-style-painting](https://github.com/log0/neural-style-painting)
+* [QuickDraw](https://github.com/uvipen/QuickDraw)
+* [Chess-AI](https://github.com/lamesjim/Chess-AI)
+* [ML web](https://github.com/codePerfectPlus/machine-learning-web-applications?fbclid=IwAR1ps-ijY7WSLwkKw-LHwwmvqPoZJwCHv7jwxkiJEKH6JAdH_m0czP8AJ2I)
 
 
 
@@ -52,15 +62,17 @@
 * [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
 * [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
 * [llm-course](https://github.com/mlabonne/llm-course)
+* [ML-from-scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 
 
 
-## Compilation
+
+### Compilation
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 * [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-
+* [AI-Espert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 
 
 
@@ -90,21 +102,20 @@
 
 
 ---
-* [VisoMaster](https://github.com/visomaster/VisoMaster)
-* [VOCANO](https://github.com/B05901022/VOCANO)
-* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp)
-* [BEGANSing](https://github.com/SoonbeomChoi/BEGANSing)
-* [AI-Espert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-* [Make It Talk](https://github.com/adobe-research/MakeItTalk)
-* [ML-from-scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-* [vrn](https://github.com/AaronJackson/vrn)
-* [colorization](https://github.com/richzhang/colorization)
-* [crnn](https://github.com/bgshih/crnn)
-* [fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
-* [neural-style-painting](https://github.com/log0/neural-style-painting)
-* [QuickDraw](https://github.com/uvipen/QuickDraw)
-* [Chess-AI](https://github.com/lamesjim/Chess-AI)
-* [ML web](https://github.com/codePerfectPlus/machine-learning-web-applications?fbclid=IwAR1ps-ijY7WSLwkKw-LHwwmvqPoZJwCHv7jwxkiJEKH6JAdH_m0czP8AJ2I)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * [FARNN](https://github.com/robotsorcerer/FARNN?utm_source=catalyzex.com)
 * [MLPP](https://github.com/novak-99/MLPP)
 * [Keras-Guide](https://github.com/mikeroyal/Keras-Guide)
