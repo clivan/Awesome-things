@@ -51,10 +51,9 @@
 * [QuickDraw](https://github.com/uvipen/QuickDraw)
 * [Chess-AI](https://github.com/lamesjim/Chess-AI)
 * [ML web](https://github.com/codePerfectPlus/machine-learning-web-applications?fbclid=IwAR1ps-ijY7WSLwkKw-LHwwmvqPoZJwCHv7jwxkiJEKH6JAdH_m0czP8AJ2I)
-
-
-
-
+* [FARNN](https://github.com/robotsorcerer/FARNN?utm_source=catalyzex.com)
+* [MLPP](https://github.com/novak-99/MLPP)
+* [llgym](https://github.com/tensorzero/llmgym)
 
 
 ### Tutorials
@@ -66,61 +65,13 @@
 
 
 
-
-
 ### Compilation
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 * [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 * [AI-Espert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* [FARNN](https://github.com/robotsorcerer/FARNN?utm_source=catalyzex.com)
-* [MLPP](https://github.com/novak-99/MLPP)
 * [Keras-Guide](https://github.com/mikeroyal/Keras-Guide)
 * [Deep-Learning-Guide](https://github.com/mikeroyal/Deep-Learning-Guide)
-* [llgym](https://github.com/tensorzero/llmgym)
 * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
 
 
@@ -130,7 +81,6 @@
 ## Control Theory
 * [LinearNonlinearControl](https://github.com/Shunichi09/PythonLinearNonlinearControl)
 * [BDSim](https://github.com/petercorke/bdsim)
-* [PythonLinearNonlinearContro](https://github.com/Shunichi09/PythonLinearNonlinearControl)
 * [PyAdvancedControl](https://github.com/AtsushiSakai/PyAdvancedControl)
 * [nonlinear-control](https://github.com/AtsushiSakai/nonlinear_control)
 * [awesome-control-theory](https://github.com/A-make/awesome-control-theory)
@@ -143,6 +93,8 @@
 ## Robotics
 * [Semantic SLAM](https://github.com/floatlazer/semantic_slam)
 * [Autonomous mobile robots](https://github.com/jdgalviss/autonomous_mobile_robot)
+
+---
 * [ORB SLA; RGBD Inertial](https://github.com/xiefei2929/ORB_SLAM3-RGBD-Inertial)
 * [fbow](https://github.com/rmsalinas/fbow)
 * [DBoW2](https://github.com/dorian3d/DBoW2)
