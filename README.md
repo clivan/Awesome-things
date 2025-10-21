@@ -93,8 +93,6 @@
 ## Robotics
 * [Semantic SLAM](https://github.com/floatlazer/semantic_slam)
 * [Autonomous mobile robots](https://github.com/jdgalviss/autonomous_mobile_robot)
-
----
 * [ORB SLA; RGBD Inertial](https://github.com/xiefei2929/ORB_SLAM3-RGBD-Inertial)
 * [fbow](https://github.com/rmsalinas/fbow)
 * [DBoW2](https://github.com/dorian3d/DBoW2)
@@ -110,6 +108,8 @@
 * [spatial math python](https://github.com/bdaiinstitute/spatialmath-python)
 * [Python Robotics](https://github.com/AtsushiSakai/PythonRobotics)
 * [path_tracking](https://github.com/MizuhoAOKI/path_tracking_catalog)
+
+---
 * [ORB_SLAM3_ROS2](https://github.com/zang09/ORB_SLAM3_ROS2)
 * [awesome-multi-robot-system](https://github.com/Grandzxw/awesome-multi-robot-system)
 * [awesome-nn-slam](https://github.com/Grandzxw/awesome-nn-slam)
