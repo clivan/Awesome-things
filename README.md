@@ -138,7 +138,6 @@
 * [Dummy Robot](https://github.com/peng-zhihui/Dummy-Robot)
 * [path_planner](https://github.com/AtsushiSakai/path_planner)
 
----
 * [Autonomous flight](https://github.com/KumarRobotics/kr_autonomous_flight)
 * [Autonomous-Systems-Guide](https://github.com/mikeroyal/Autonomous-Systems-Guide)
 * [Robotics-Guide](https://github.com/mikeroyal/Robotics-guide)
@@ -151,9 +150,9 @@
 * [autonomous-line-follower-robot](https://github.com/Simonf8/autonomous-linefollower-robot)
 * [ROSWorkshop](https://github.com/Marwan-Refaat/ROSWorkshop)
 * [ros2-ci](https://github.com/knmcguire/ci)
-* [launchma](https://github.com/Kodo-Robotics/launchmap)
-* [Robotics-Simulation-Labs](https://github.com/felipenmartins/Robotics-Simulation-Labs)
 * [Mobile-robot-Control](https://github.com/felipenmartins/Mobile-Robot-Control)
+
+---
 * [2D-LiDAR-Base-Object-Recogniti](https://github.com/minaghaderi/2D-LiDAR-Based-Object-Recognition)
 * [ros2-dust](https://github.com/ros2-rust/ros2_rust)
 * [2d-lidar-idetification](https://github.com/soheilbh/2d-lidar-identification)
