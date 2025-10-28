@@ -151,8 +151,6 @@
 * [ROSWorkshop](https://github.com/Marwan-Refaat/ROSWorkshop)
 * [ros2-ci](https://github.com/knmcguire/ci)
 * [Mobile-robot-Control](https://github.com/felipenmartins/Mobile-Robot-Control)
-
----
 * [2D-LiDAR-Base-Object-Recogniti](https://github.com/minaghaderi/2D-LiDAR-Based-Object-Recognition)
 * [ros2-dust](https://github.com/ros2-rust/ros2_rust)
 * [2d-lidar-idetification](https://github.com/soheilbh/2d-lidar-identification)
@@ -181,6 +179,8 @@
 ## Data Analysis
 * [Quadratic](https://github.com/quadratichq/quadratic)
 * [Streamlit](https://github.com/streamlit/streamlit)
+
+---
 * [Rath](https://github.com/Kanaries/Rath)
 * [vizro](https://github.com/mckinsey/vizro)
 * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
