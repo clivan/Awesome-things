@@ -137,7 +137,6 @@
 * [Thor](https://github.com/AngelLM/Thor)
 * [Dummy Robot](https://github.com/peng-zhihui/Dummy-Robot)
 * [path_planner](https://github.com/AtsushiSakai/path_planner)
-
 * [Autonomous flight](https://github.com/KumarRobotics/kr_autonomous_flight)
 * [Autonomous-Systems-Guide](https://github.com/mikeroyal/Autonomous-Systems-Guide)
 * [Robotics-Guide](https://github.com/mikeroyal/Robotics-guide)
@@ -179,8 +178,6 @@
 ## Data Analysis
 * [Quadratic](https://github.com/quadratichq/quadratic)
 * [Streamlit](https://github.com/streamlit/streamlit)
-
----
 * [Rath](https://github.com/Kanaries/Rath)
 * [vizro](https://github.com/mckinsey/vizro)
 * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
@@ -202,6 +199,8 @@
 * [Easy CANOpen](https://github.com/DanielMartensson/Easy-CANopen)
 * [Busmaster](https://github.com/rbei-etas/busmaster)
 * [PipelineC](https://github.com/JulianKemmerer/PipelineC)
+
+---
 * [Embedded Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 * [Hanshow-Auto-Updater](https://github.com/MakersFunDuck/Hanshow-Auto-Updater)
 * [mini-riscv-os](https://github.com/cccriscv/mini-riscv-os)
