@@ -199,8 +199,6 @@
 * [Easy CANOpen](https://github.com/DanielMartensson/Easy-CANopen)
 * [Busmaster](https://github.com/rbei-etas/busmaster)
 * [PipelineC](https://github.com/JulianKemmerer/PipelineC)
-
----
 * [Embedded Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 * [Hanshow-Auto-Updater](https://github.com/MakersFunDuck/Hanshow-Auto-Updater)
 * [mini-riscv-os](https://github.com/cccriscv/mini-riscv-os)
@@ -216,6 +214,8 @@
 * [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum)
 * [Firmware-Guide](https://github.com/mikeroyal/Firmware-Guide)
 * [DSP-Guide](https://github.com/mikeroyal/DSP-Guide)
+
+---
 * [ARM-Guide](https://github.com/mikeroyal/ARM-Guide)
 * [Raspberry-Pi-guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)
 * [Risc-V](https://github.com/mikeroyal/RISC-V-Guide)
