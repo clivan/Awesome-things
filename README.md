@@ -214,8 +214,6 @@
 * [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum)
 * [Firmware-Guide](https://github.com/mikeroyal/Firmware-Guide)
 * [DSP-Guide](https://github.com/mikeroyal/DSP-Guide)
-
----
 * [ARM-Guide](https://github.com/mikeroyal/ARM-Guide)
 * [Raspberry-Pi-guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)
 * [Risc-V](https://github.com/mikeroyal/RISC-V-Guide)
@@ -254,6 +252,8 @@
 
 ## Math
 * [PGraph-Python](https://github.com/petercorke/pgraph-python)
+
+---
 * [Ceres Solver](https://github.com/ceres-solver/ceres-solver)
 * [Sophus](https://github.com/strasdat/Sophus)
 * [g2o](https://github.com/RainerKuemmerle/g2o)
