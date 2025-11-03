@@ -54,6 +54,8 @@
 * [FARNN](https://github.com/robotsorcerer/FARNN?utm_source=catalyzex.com)
 * [MLPP](https://github.com/novak-99/MLPP)
 * [llgym](https://github.com/tensorzero/llmgym)
+* [animatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
+
 
 
 ### Tutorials
@@ -252,8 +254,6 @@
 
 ## Math
 * [PGraph-Python](https://github.com/petercorke/pgraph-python)
-
----
 * [Ceres Solver](https://github.com/ceres-solver/ceres-solver)
 * [Sophus](https://github.com/strasdat/Sophus)
 * [g2o](https://github.com/RainerKuemmerle/g2o)
@@ -279,7 +279,7 @@
 ## Graphics
 * [olive](https://github.com/tsoding/olive.c)
 * [pi3d](https://github.com/Ebiroll/pi3d)
-* [animatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
+
  
 
 
@@ -287,6 +287,8 @@
 
 ## Homelab
 * [gogs](https://github.com/gogs/gogs)
+
+---
 * [navidrome](https://github.com/navidrome/navidrome)
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [awesome-serverless](https://github.com/liuchong/awesome-serverless)
