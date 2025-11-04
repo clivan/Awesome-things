@@ -287,8 +287,6 @@
 
 ## Homelab
 * [gogs](https://github.com/gogs/gogs)
-
----
 * [navidrome](https://github.com/navidrome/navidrome)
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [awesome-serverless](https://github.com/liuchong/awesome-serverless)
@@ -299,11 +297,11 @@
 * [InvenTree](https://github.com/inventree/InvenTree)
 * [openvpn](https://github.com/flaviostutz/openvpn-server)
 * [gitea](https://github.com/go-gitea/gitea)
-* [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
 * [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 * [tau](https://github.com/taubyte/tau)
-* [yami](https://github.com/DevER-M/yami)
 * [umbrel](https://github.com/getumbrel/umbrel)
+
+---
 * [gpustack](https://github.com/gpustack/gpustack)
 * [amneia-vpn](https://github.com/amnezia-vpn/amnezia-client)
 * [Olares](https://github.com/beclab/Olares)
@@ -552,6 +550,8 @@
 * [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
 * [Protofy](https://github.com/Protofy-xyz/Protofy)
 * [Box2d](https://github.com/erincatto/Box2D)
+* [yami](https://github.com/DevER-M/yami)
+
 
 
 
@@ -611,7 +611,7 @@
 * [Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide)
 * [awesome-devops](https://github.com/wmariuss/awesome-devops)
 * [ZeroToHero-Azure-GitOps](https://github.com/praduman8435/ZeroToHero-Azure-GitOps)
-
+* [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
 
 
 
