@@ -300,8 +300,6 @@
 * [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 * [tau](https://github.com/taubyte/tau)
 * [umbrel](https://github.com/getumbrel/umbrel)
-
----
 * [gpustack](https://github.com/gpustack/gpustack)
 * [amneia-vpn](https://github.com/amnezia-vpn/amnezia-client)
 * [Olares](https://github.com/beclab/Olares)
@@ -323,6 +321,8 @@
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [free-for-dev](https://github.com/ripienaar/free-for-dev)
 * [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+
+---
 * [awesome-productivity](https://github.com/mezod/awesome-productivity)
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
