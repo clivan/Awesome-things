@@ -321,8 +321,6 @@
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [free-for-dev](https://github.com/ripienaar/free-for-dev)
 * [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
-
----
 * [awesome-productivity](https://github.com/mezod/awesome-productivity)
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
@@ -344,6 +342,8 @@
 * [open-saas](https://github.com/wasp-lang/open-saas)
 * [excelCPU](https://github.com/InkboxSoftware/excelCPU)
 * [next-supabase-saas-boilerplate](https://github.com/Chensokheng/next--supabase-saas-boilerplate)
+
+---
 * [pyphotoshop](https://github.com/kying18/pyphotoshop)
 * [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source)
 * [Linux from scratch](https://github.com/arjuncr/Linux-from-scratch)
