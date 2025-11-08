@@ -342,8 +342,6 @@
 * [open-saas](https://github.com/wasp-lang/open-saas)
 * [excelCPU](https://github.com/InkboxSoftware/excelCPU)
 * [next-supabase-saas-boilerplate](https://github.com/Chensokheng/next--supabase-saas-boilerplate)
-
----
 * [pyphotoshop](https://github.com/kying18/pyphotoshop)
 * [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source)
 * [Linux from scratch](https://github.com/arjuncr/Linux-from-scratch)
@@ -377,6 +375,8 @@
 * [ui](https://github.com/atherosai/ui)
 * [frontend-dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
+
+---
 * [SerenityOS](https://github.com/SerenityOS/serenity)
 * [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
