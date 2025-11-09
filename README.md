@@ -375,9 +375,6 @@
 * [ui](https://github.com/atherosai/ui)
 * [frontend-dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
-
----
-* [SerenityOS](https://github.com/SerenityOS/serenity)
 * [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
 
@@ -407,15 +404,14 @@
  
  
  ## Nice things
-* [MS-DOS](https://github.com/microsoft/MS-DOS)
 * [gm](https://github.com/flujoo/gm)
 * [windows-api-function-cheatsheet](https://github.com/7etsuo/windows-api-function-cheatsheets)
-* [awesome-python](https://github.com/vinta/awesome-python)
-* [software-architecture-premier](https://github.com/sivaprasadreddy/software-architecture-premier)
 * [latexdiff](https://github.com/ftilmann/latexdiff)
 * [joss-papers](https://github.com/openjournals/joss-papers)
 * [mermaid](https://github.com/mermaid-js/mermaid)
 * [budibase](https://github.com/Budibase/budibase)
+
+---
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [WebVM](https://github.com/leaningtech/webvm)
 * [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
@@ -692,6 +688,7 @@
 * [Science Plots](https://github.com/garrettj403/SciencePlots)
 * [Python bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
 * [streamlit](https://github.com/streamlit/streamlit)
+* [awesome-python](https://github.com/vinta/awesome-python)
 
 
 
@@ -732,9 +729,15 @@
 ## OS
 * [How-to-make-a-computer-operating-system](https://github.com/0xAX/How-to-Make-a-Computer-Operating-System)
 * [XenevaOs](https://github.com/manaskamal/XenevaOS)
+* [SerenityOS](https://github.com/SerenityOS/serenity)
+* [MS-DOS](https://github.com/microsoft/MS-DOS)
 
 
 
+
+
+## Software Architecture
+* [software-architecture-premier](https://github.com/sivaprasadreddy/software-architecture-premier)
 
 
 ---
