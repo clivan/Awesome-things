@@ -410,8 +410,6 @@
 * [joss-papers](https://github.com/openjournals/joss-papers)
 * [mermaid](https://github.com/mermaid-js/mermaid)
 * [budibase](https://github.com/Budibase/budibase)
-
----
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [WebVM](https://github.com/leaningtech/webvm)
 * [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
@@ -427,6 +425,8 @@
 * [bananas](https://github.com/mistweaverco/bananas)
 * [revideo](https://github.com/redotvideo/revideo)
 * [LinkAce](https://github.com/Kovah/LinkAce)
+
+---
 * [latex-css](https://github.com/vincentdoerig/latex-css)
 * [penpot](https://github.com/penpot/penpot)
 * [openalternative](https://github.com/piotrkulpinski/openalternative)
