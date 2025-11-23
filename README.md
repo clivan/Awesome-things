@@ -425,8 +425,6 @@
 * [bananas](https://github.com/mistweaverco/bananas)
 * [revideo](https://github.com/redotvideo/revideo)
 * [LinkAce](https://github.com/Kovah/LinkAce)
-
----
 * [latex-css](https://github.com/vincentdoerig/latex-css)
 * [penpot](https://github.com/penpot/penpot)
 * [openalternative](https://github.com/piotrkulpinski/openalternative)
@@ -443,6 +441,8 @@
 * [lima](https://github.com/lima-vm/lima)
 * [CV-analyzer-Job-Recommender](https://github.com/umairalipathan1980/CV-Analyzer-Job-Recommender)
 * [eclipse-theia](https://github.com/eclipse-theia/theia)
+
+---
 * [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 * [math-physics-problem-generator](https://github.com/echohive42/math-physics-problem-generator)
 * [developer-portfolios](https://github.com/milanm/developer-portfolios)
