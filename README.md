@@ -441,8 +441,6 @@
 * [lima](https://github.com/lima-vm/lima)
 * [CV-analyzer-Job-Recommender](https://github.com/umairalipathan1980/CV-Analyzer-Job-Recommender)
 * [eclipse-theia](https://github.com/eclipse-theia/theia)
-
----
 * [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 * [math-physics-problem-generator](https://github.com/echohive42/math-physics-problem-generator)
 * [developer-portfolios](https://github.com/milanm/developer-portfolios)
@@ -458,6 +456,8 @@
 * [astroterm](https://github.com/da-luce/astroterm)
 * [wikitok](https://github.com/IsaacGemal/wikitok)
 * [xournalpp](https://github.com/xournalpp/xournalpp)
+
+---
 * [awesome-minimal-sites](https://github.com/kamranahmedse/awesome-minimal-sites)
 * [amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader)
 * [CinePi](https://github.com/joe-scotto/CinePI)
