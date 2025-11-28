@@ -456,13 +456,10 @@
 * [astroterm](https://github.com/da-luce/astroterm)
 * [wikitok](https://github.com/IsaacGemal/wikitok)
 * [xournalpp](https://github.com/xournalpp/xournalpp)
-
----
 * [awesome-minimal-sites](https://github.com/kamranahmedse/awesome-minimal-sites)
 * [amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader)
 * [CinePi](https://github.com/joe-scotto/CinePI)
 * [XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
-* [hhuOS](https://github.com/hhuOS/hhuOS)
 * [Windows-XP](https://github.com/B00merang-Project/Windows-XP)
 * [awesome-git](https://github.com/dictcp/awesome-git)
 * [PlotJuggler](https://github.com/facontidavide/PlotJuggler)
@@ -473,6 +470,8 @@
 * [Bender](https://github.com/sindar/pRodriguezAssistant)
 * [MiniRadioTelescope](https://github.com/UPennEoR/MiniRadioTelescope)
 * [Sensor Watch](https://github.com/joeycastillo/Sensor-Watch)
+
+---
 * [googleearthplot](https://github.com/AtsushiSakai/googleearthplot)
 * [PDF](https://github.com/libharu/libharu)
 * [Bullet 3](https://github.com/bulletphysics/bullet3)
@@ -731,6 +730,8 @@
 * [XenevaOs](https://github.com/manaskamal/XenevaOS)
 * [SerenityOS](https://github.com/SerenityOS/serenity)
 * [MS-DOS](https://github.com/microsoft/MS-DOS)
+* [hhuOS](https://github.com/hhuOS/hhuOS)
+
 
 
 
