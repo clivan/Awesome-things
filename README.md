@@ -328,7 +328,7 @@
 * [Project-Based-Learning](https://github.com/practical-tutorials/project-based-learning)
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 * [computer-science](https://github.com/ossu/computer-science)
-
+* [awesome-algorithms](https://github.com/sirupsen/awesome-algorithms)
 
 
 
@@ -345,7 +345,7 @@
 * [pyphotoshop](https://github.com/kying18/pyphotoshop)
 * [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source)
 * [Linux from scratch](https://github.com/arjuncr/Linux-from-scratch)
-
+* [Build your own](https://github.com/danistefanovic/build-your-own-x)
 
 
 
@@ -470,23 +470,18 @@
 * [Bender](https://github.com/sindar/pRodriguezAssistant)
 * [MiniRadioTelescope](https://github.com/UPennEoR/MiniRadioTelescope)
 * [Sensor Watch](https://github.com/joeycastillo/Sensor-Watch)
-
----
 * [googleearthplot](https://github.com/AtsushiSakai/googleearthplot)
 * [PDF](https://github.com/libharu/libharu)
 * [Bullet 3](https://github.com/bulletphysics/bullet3)
 * [Chipmunk2D](https://github.com/slembcke/Chipmunk2D)
 * [Simbody](https://github.com/simbody/simbody)
 * [TinyRender](https://github.com/ssloy/tinyrenderer/wiki)
-* [A 3D modeller](http://aosabook.org/en/500L/a-3d-modeller.html)
-* [My own blockchain](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
-* [OS](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
 * [Shell](https://github.com/tokenrove/build-your-own-shell)
 * [Open SmartWatch](https://github.com/Open-Smartwatch/open-smartwatch-gps)
 * [LaTeX CSS](https://github.com/vincentdoerig/latex-css)
-* [Build your own](https://github.com/danistefanovic/build-your-own-x)
 * [LaTeX Template](https://github.com/mihdicaballero/LaTeX-Projects?fbclid=IwAR22uYWXsTBvG3DQH0eYhnf__Z4mhXiPEOwatNwRB9_-t9RPsHf4A6POET0)
-* [awesome-algorithms](https://github.com/sirupsen/awesome-algorithms)
+
+---
 * [OpenCL-Guide](https://github.com/mikeroyal/OpenCL-Guide)
 * [Bayesian-Statistics-Guide](https://github.com/mikeroyal/Bayesian-Statistics-Guide)
 * [Differential-Equations-Guide](https://github.com/mikeroyal/Differential-Equations-Guide)
