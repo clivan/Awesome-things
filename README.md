@@ -480,8 +480,6 @@
 * [Open SmartWatch](https://github.com/Open-Smartwatch/open-smartwatch-gps)
 * [LaTeX CSS](https://github.com/vincentdoerig/latex-css)
 * [LaTeX Template](https://github.com/mihdicaballero/LaTeX-Projects?fbclid=IwAR22uYWXsTBvG3DQH0eYhnf__Z4mhXiPEOwatNwRB9_-t9RPsHf4A6POET0)
-
----
 * [OpenCL-Guide](https://github.com/mikeroyal/OpenCL-Guide)
 * [Bayesian-Statistics-Guide](https://github.com/mikeroyal/Bayesian-Statistics-Guide)
 * [Differential-Equations-Guide](https://github.com/mikeroyal/Differential-Equations-Guide)
@@ -490,13 +488,14 @@
 * [Jupyter-Guide](https://github.com/mikeroyal/Jupyter-Guide)
 * [GPU-Guide](https://github.com/mikeroyal/GPU-Guide)
 * [Blender-Guide](https://github.com/mikeroyal/Blender-Guide)
-* [Matlab-Guide](https://github.com/mikeroyal/MATLAB-Guide)
 * [Windows-95](https://github.com/B00merang-Project/Windows-95)
 * [Windows-Vista](https://github.com/B00merang-Project/Windows-Vista)
 * [CUDA-Guide](https://github.com/mikeroyal/CUDA-Guide)
 * [LiDAR-Guide](https://github.com/mikeroyal/LiDAR-Guide)
 * [Debian-Guide](https://github.com/mikeroyal/Debian-Guide)
 * [macOs](https://github.com/B00merang-Project/macOS)
+
+---
 * [Windows-7](https://github.com/B00merang-Project/Windows-7)
 * [Apollo-11](https://github.com/chrislgarry/Apollo-11)
 * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
@@ -708,7 +707,7 @@
 
 ### Matlab-Octave
 * [MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)
-
+* [Matlab-Guide](https://github.com/mikeroyal/MATLAB-Guide)
 
 
 
