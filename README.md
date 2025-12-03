@@ -509,8 +509,6 @@
 * [ESPAsyncWebServer](https://github.com/i-am-shodan/ESPAsyncWebServer)
 * [tinyusb](https://github.com/hathach/tinyusb)
 * [Windows-8.1](https://github.com/B00merang-Project/Windows-8.1)
-
----
 * [awesome-github-readme-profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 * [WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
 * [stablediffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
@@ -526,6 +524,8 @@
 * [timful-app](https://github.com/schej-it/timeful.app)
 * [Serial-studio](https://github.com/Serial-Studio/Serial-Studio)
 * [Windows-10](https://github.com/B00merang-Project/Windows-10)
+
+---
 * [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
 * [manim](https://github.com/ManimCommunity/manim)
 * [dotfiles](https://github.com/wmariuss/dotfiles)
