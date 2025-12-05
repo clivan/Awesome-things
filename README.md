@@ -172,6 +172,8 @@
 * [OpenCV-Projects](https://github.com/rchavezj/OpenCV_Projects)
 * [Mosaic](https://github.com/codebox/mosaic)
 * [Computer-Vision-Guide](https://github.com/mikeroyal/Computer-Vision-Guide)
+* [fpga-vs-cpu-realtime-vision](https://github.com/soheilbh/fpga-vs-cpu-realtime-vision)
+
 
 
 
@@ -248,6 +250,10 @@
 
 
 ## Science
+* [astrophysics](https://github.com/FujiwaraChoki/astrophysics)
+* [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
+
+
 
 
 
@@ -524,19 +530,14 @@
 * [timful-app](https://github.com/schej-it/timeful.app)
 * [Serial-studio](https://github.com/Serial-Studio/Serial-Studio)
 * [Windows-10](https://github.com/B00merang-Project/Windows-10)
-
----
 * [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
 * [manim](https://github.com/ManimCommunity/manim)
 * [dotfiles](https://github.com/wmariuss/dotfiles)
-* [astrophysics](https://github.com/FujiwaraChoki/astrophysics)
 * [noise-cancelation-with-LMS-Algorithms](https://github.com/minaghaderi/Noise-Cancelation-With-LMS-Algorithm)
 * [aAdaptive-Filtering](https://github.com/soheilbh/Adaptive-Filtering)
-* [fpga-vs-cpu-realtime-vision](https://github.com/soheilbh/fpga-vs-cpu-realtime-vision)
 * [LACT](https://github.com/ilya-zlobintsev/LACT)
 * [memos](https://github.com/usememos/memos)
 * [domain-locker](https://github.com/Lissy93/domain-locker)
-* [awesome-astrophysical-simulation-code](https://github.com/pmocz/awesome-astrophysical-simulation-codes)
 * [Protofy](https://github.com/Protofy-xyz/Protofy)
 * [Box2d](https://github.com/erincatto/Box2D)
 * [yami](https://github.com/DevER-M/yami)
@@ -552,7 +553,7 @@
 
 
 
-
+---
 ## Docker
 * [Awesome-docker](https://github.com/veggiemonk/awesome-docker)
 * [watchtower](https://github.com/containrrr/watchtower)
