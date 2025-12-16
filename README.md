@@ -596,8 +596,6 @@
 * [Astroluma](https://github.com/Sanjeet990/Astroluma)
 * [meshery](https://github.com/meshery/meshery)
 * [DevOps-World](https://github.com/ann-felix/DEVOPS-WORLD)
-
----
 * [Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide)
 * [Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide)
 * [awesome-devops](https://github.com/wmariuss/awesome-devops)
@@ -636,6 +634,8 @@
 * [implot3d](https://github.com/brenocq/implot3d)
 * [Awesome C++](https://github.com/fffaraz/awesome-cpp)
 * [Boost](https://github.com/boostorg)
+
+---
 * [AudioFile](https://github.com/adamstark/AudioFile)
 * [Tabulate](https://github.com/p-ranav/tabulate)
 * [CSV2](https://github.com/p-ranav/csv2)
