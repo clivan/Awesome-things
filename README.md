@@ -634,8 +634,6 @@
 * [implot3d](https://github.com/brenocq/implot3d)
 * [Awesome C++](https://github.com/fffaraz/awesome-cpp)
 * [Boost](https://github.com/boostorg)
-
----
 * [AudioFile](https://github.com/adamstark/AudioFile)
 * [Tabulate](https://github.com/p-ranav/tabulate)
 * [CSV2](https://github.com/p-ranav/csv2)
@@ -661,7 +659,7 @@
 
 
 
-
+---
 ## Git
 * [lazygit](https://github.com/jesseduffield/lazygit)
 
