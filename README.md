@@ -659,7 +659,7 @@
 
 
 
----
+
 ## Git
 * [lazygit](https://github.com/jesseduffield/lazygit)
 
@@ -681,12 +681,12 @@
 * [Science Plots](https://github.com/garrettj403/SciencePlots)
 * [Python bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
 * [streamlit](https://github.com/streamlit/streamlit)
-* [awesome-python](https://github.com/vinta/awesome-python)
 
 
 
 
 
+---
 ## IoT
 * [thingsboard](https://github.com/thingsboard/thingsboard)
 * [node-red](https://github.com/node-red/node-red)
