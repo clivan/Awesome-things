@@ -157,7 +157,7 @@
 * [2d-lidar-idetification](https://github.com/soheilbh/2d-lidar-identification)
 * [Path-finding-Irbobot](https://github.com/soheilbh/Path_Finding_Irobot)
 * [Genesis-Emodied-AI](https://github.com/Genesis-Embodied-AI/Genesis)
-
+* [rob501](https://github.com/michiganrobotics/rob501)
 
 
 
@@ -222,6 +222,8 @@
 * [Raspberry-Pi-guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)
 * [Risc-V](https://github.com/mikeroyal/RISC-V-Guide)
 * [Hardware-in-the-loo-simulation](https://github.com/Simonf8/Hardware-in-the-Loop-Simulation)
+* [RFIDtoEEPROM](https://github.com/GogoVega/RFIDtoEEPROM)
+
 
 
 
@@ -335,6 +337,8 @@
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 * [computer-science](https://github.com/ossu/computer-science)
 * [awesome-algorithms](https://github.com/sirupsen/awesome-algorithms)
+* [web-app-from-scratch](https://github.com/Bogdanp/web-app-from-scratch)
+
 
 
 
@@ -541,6 +545,10 @@
 * [Protofy](https://github.com/Protofy-xyz/Protofy)
 * [Box2d](https://github.com/erincatto/Box2D)
 * [yami](https://github.com/DevER-M/yami)
+* [motionity](https://github.com/alyssaxuu/motionity)
+* [sshtron](https://github.com/zachlatta/sshtron)
+
+
 
 
 
@@ -570,6 +578,10 @@
 * [awesome-compose](https://github.com/docker/awesome-compose)
 * [docker-utils](https://github.com/dictcp/docker-utils)
 * [pypi-docker](https://github.com/wmariuss/pypi-docker)
+* [dock-droid](https://github.com/sickcodes/dock-droid)
+* [descomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker)
+* [x11docker](https://github.com/mviereck/x11docker)
+
 
 
 
@@ -601,6 +613,8 @@
 * [awesome-devops](https://github.com/wmariuss/awesome-devops)
 * [ZeroToHero-Azure-GitOps](https://github.com/praduman8435/ZeroToHero-Azure-GitOps)
 * [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+* [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics)
+* [localtunnel](https://github.com/localtunnel/localtunnel)
 
 
 
@@ -689,10 +703,19 @@
 
 ## IoT
 * [thingsboard](https://github.com/thingsboard/thingsboard)
-* [node-red](https://github.com/node-red/node-red)
 * [PangolinMQTT](https://github.com/philbowles/PangolinMQTT)
 * [RIOT](https://github.com/RIOT-OS/RIOT)
 * [IoT-Guide](https://github.com/mikeroyal/IoT-Guide)
+* [casa](https://github.com/jorisroovers/casa)
+* [esphome](https://github.com/esphome/esphome)
+
+
+
+
+## Node-RED
+* [Practical-Node-RED-Programming](https://github.com/PacktPublishing/-Practical-Node-RED-Programming)
+* [nodered-docker](https://github.com/node-red/node-red-docker)
+* [node-red](https://github.com/node-red/node-red)
 
 
 
@@ -700,6 +723,9 @@
 
 ## Javascript
 * [ploty.js](https://github.com/plotly/plotly.js)
+
+## Lua
+* [lume](https://github.com/rxi/lume)
 
 
 
