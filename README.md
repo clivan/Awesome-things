@@ -55,6 +55,8 @@
 * [MLPP](https://github.com/novak-99/MLPP)
 * [llgym](https://github.com/tensorzero/llmgym)
 * [animatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
+* [animateDiff](https://github.com/guoyww/AnimateDiff)
+
 
 
 
@@ -158,6 +160,8 @@
 * [Path-finding-Irbobot](https://github.com/soheilbh/Path_Finding_Irobot)
 * [Genesis-Emodied-AI](https://github.com/Genesis-Embodied-AI/Genesis)
 * [rob501](https://github.com/michiganrobotics/rob501)
+* [robotics toolbox Python](https://github.com/petercorke/robotics-toolbox-python)
+
 
 
 
@@ -173,6 +177,8 @@
 * [Mosaic](https://github.com/codebox/mosaic)
 * [Computer-Vision-Guide](https://github.com/mikeroyal/Computer-Vision-Guide)
 * [fpga-vs-cpu-realtime-vision](https://github.com/soheilbh/fpga-vs-cpu-realtime-vision)
+* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+
 
 
 
@@ -355,7 +361,7 @@
 * [pyphotoshop](https://github.com/kying18/pyphotoshop)
 * [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source)
 * [Linux from scratch](https://github.com/arjuncr/Linux-from-scratch)
-* [Build your own](https://github.com/danistefanovic/build-your-own-x)
+* [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1)
 
 
 
@@ -547,6 +553,16 @@
 * [yami](https://github.com/DevER-M/yami)
 * [motionity](https://github.com/alyssaxuu/motionity)
 * [sshtron](https://github.com/zachlatta/sshtron)
+* [snippets-box](https://github.com/pawelmalak/snippet-box)
+* [WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck)
+* [protongraph](https://github.com/protongraph/protongraph)
+* [ESP8266 deauther](https://github.com/SpacehuhnTech/esp8266_deauther)
+* [DeskPad](https://github.com/Stengo/DeskPad)
+* [StormBreaker](https://github.com/ultrasecurity/Storm-Breaker)
+
+
+
+
 
 
 
@@ -615,6 +631,8 @@
 * [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
 * [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics)
 * [localtunnel](https://github.com/localtunnel/localtunnel)
+* [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+
 
 
 
@@ -695,6 +713,8 @@
 * [Science Plots](https://github.com/garrettj403/SciencePlots)
 * [Python bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
 * [streamlit](https://github.com/streamlit/streamlit)
+* [python-training](https://github.com/jpmorganchase/python-training)
+* [TKinter Designer](https://github.com/ParthJadhav/Tkinter-Designer)
 
 
 
@@ -723,6 +743,9 @@
 
 ## Javascript
 * [ploty.js](https://github.com/plotly/plotly.js)
+
+
+
 
 ## Lua
 * [lume](https://github.com/rxi/lume)
