@@ -56,6 +56,8 @@
 * [llgym](https://github.com/tensorzero/llmgym)
 * [animatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
 * [animateDiff](https://github.com/guoyww/AnimateDiff)
+* [Fast Music Remover](https://github.com/omeryusufyagci/fast-music-remover)
+
 
 
 
@@ -559,6 +561,20 @@
 * [ESP8266 deauther](https://github.com/SpacehuhnTech/esp8266_deauther)
 * [DeskPad](https://github.com/Stengo/DeskPad)
 * [StormBreaker](https://github.com/ultrasecurity/Storm-Breaker)
+* [screenshot-to-code](https://github.com/abi/screenshot-to-code)
+* [exercise-diary](https://github.com/aceberg/ExerciseDiary)
+* [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [awesome-cli-tools](https://github.com/agarrharr/awesome-cli-apps)
+* [prettymap](https://github.com/chrieke/prettymapp)
+* [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security)
+* [BookmarkHub](https://github.com/dudor/BookmarkHub)
+* [wifiphisher](https://github.com/wifiphisher/wifiphisher)
+
+
+
+
+
+
 
 
 
@@ -632,6 +648,8 @@
 * [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics)
 * [localtunnel](https://github.com/localtunnel/localtunnel)
 * [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+* [Homelab](https://github.com/ChristianLempa/homelab)
+
 
 
 
@@ -728,6 +746,8 @@
 * [IoT-Guide](https://github.com/mikeroyal/IoT-Guide)
 * [casa](https://github.com/jorisroovers/casa)
 * [esphome](https://github.com/esphome/esphome)
+* [tagreader](https://github.com/adonno/tagreader)
+
 
 
 
