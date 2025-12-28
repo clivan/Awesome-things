@@ -163,6 +163,9 @@
 * [Genesis-Emodied-AI](https://github.com/Genesis-Embodied-AI/Genesis)
 * [rob501](https://github.com/michiganrobotics/rob501)
 * [robotics toolbox Python](https://github.com/petercorke/robotics-toolbox-python)
+* [monocularSlam](https://github.com/Fosowl/monocularSlam)
+* [MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM)
+
 
 
 
@@ -569,6 +572,18 @@
 * [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security)
 * [BookmarkHub](https://github.com/dudor/BookmarkHub)
 * [wifiphisher](https://github.com/wifiphisher/wifiphisher)
+* [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services)
+* [obsidian-remote](https://github.com/sytone/obsidian-remote)
+* [viber3d](https://github.com/instructa/viber3d)
+* [keyforge3d](https://github.com/makalin/KeyForge3D)
+* [beautifuly-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+* [screenity](https://github.com/alyssaxuu/screenity)
+* [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+* [FileRise](https://github.com/error311/FileRise)
+
+
+
+
 
 
 
@@ -622,7 +637,7 @@
 * [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 * [kubewall](https://github.com/kubewall/kubewall)
 * [Kubernets-Guide](https://github.com/mikeroyal/Kubernetes-Guide)
-
+* [kubernetes-for-ml-engineers](https://github.com/Paulescu/kubernetes-for-ml-engineers)
 
 
 
@@ -733,6 +748,8 @@
 * [streamlit](https://github.com/streamlit/streamlit)
 * [python-training](https://github.com/jpmorganchase/python-training)
 * [TKinter Designer](https://github.com/ParthJadhav/Tkinter-Designer)
+* [wtfpython](https://github.com/satwikkansal/wtfpython)
+
 
 
 
