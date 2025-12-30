@@ -57,6 +57,14 @@
 * [animatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
 * [animateDiff](https://github.com/guoyww/AnimateDiff)
 * [Fast Music Remover](https://github.com/omeryusufyagci/fast-music-remover)
+* [transparent-background](https://github.com/plemeri/transparent-background)
+* [Realtiem-voice-cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+* [Markitdown](https://github.com/microsoft/markitdown)
+* [MCP-3D-printer-service](https://github.com/DMontgomery40/mcp-3D-printer-server)
+
+
+
+
 
 
 
@@ -331,6 +339,8 @@
 * [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [myDrive](https://github.com/subnub/myDrive)
+* [homelab](https://github.com/khuedoan/homelab)
+
 
 
 
@@ -580,6 +590,16 @@
 * [screenity](https://github.com/alyssaxuu/screenity)
 * [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
 * [FileRise](https://github.com/error311/FileRise)
+* [pad.ws](https://github.com/coderamp-labs/pad.ws)
+* [paint-board](https://github.com/LHRUN/paint-board)
+* [docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless)
+* [nodezator](https://github.com/IndieSmiths/nodezator)
+* [pomodorp](https://github.com/Rukenshia/pomodoro)
+
+
+
+
+
 
 
 
@@ -664,6 +684,8 @@
 * [localtunnel](https://github.com/localtunnel/localtunnel)
 * [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 * [Homelab](https://github.com/ChristianLempa/homelab)
+* [DevOps](https://github.com/goinfinite/os)
+
 
 
 
