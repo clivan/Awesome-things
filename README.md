@@ -612,7 +612,7 @@
 * [disposable-email-validator](https://github.com/wilsonadenuga/disposable-email-validator)
 * [rnote](http://github.com/flxzt/rnote)
 * [awesome-n8n](https://github.com/restyler/awesome-n8n)
-
+* [cheating-daddy](https://github.com/sohzm/cheating-daddy)
 
 
 
