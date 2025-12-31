@@ -61,6 +61,10 @@
 * [Realtiem-voice-cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 * [Markitdown](https://github.com/microsoft/markitdown)
 * [MCP-3D-printer-service](https://github.com/DMontgomery40/mcp-3D-printer-server)
+* [mast3r](https://github.com/naver/mast3r)
+* [SBS-2DTo3D](https://github.com/yushan777/SBS-2DTo3D)
+
+
 
 
 
@@ -284,7 +288,7 @@
 * [Ceres Solver](https://github.com/ceres-solver/ceres-solver)
 * [Sophus](https://github.com/strasdat/Sophus)
 * [g2o](https://github.com/RainerKuemmerle/g2o)
-
+* [Wu-s-Line-and-Circle-Drwaing-Algorithm](https://github.com/MurageKibicho/Wu-s-Line-and-Circle-Drawing-Algorithm)
 
 
 
@@ -340,6 +344,10 @@
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [myDrive](https://github.com/subnub/myDrive)
 * [homelab](https://github.com/khuedoan/homelab)
+* [astroluma](https://github.com/Sanjeet990/Astroluma)
+* [black-candy](https://github.com/blackcandy-org/blackcandy)
+
+
 
 
 
@@ -384,6 +392,10 @@
 ## Tools
 * [clad](https://github.com/vgvassilev/clad)
 * [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
+* [pdfarranger](https://github.com/pdfarranger/pdfarranger)
+* [difftastic](https://github.com/Wilfred/difftastic)
+
+
 
 
 
@@ -594,7 +606,16 @@
 * [paint-board](https://github.com/LHRUN/paint-board)
 * [docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless)
 * [nodezator](https://github.com/IndieSmiths/nodezator)
-* [pomodorp](https://github.com/Rukenshia/pomodoro)
+* [pomodoro](https://github.com/Rukenshia/pomodoro)
+* [flutter-preview](https://github.com/aloisdeniel/flutter_device_preview)
+* [vibe-draw](https://github.com/martin226/vibe-draw)
+* [disposable-email-validator](https://github.com/wilsonadenuga/disposable-email-validator)
+* [rnote](http://github.com/flxzt/rnote)
+* [awesome-n8n](https://github.com/restyler/awesome-n8n)
+
+
+
+
 
 
 
