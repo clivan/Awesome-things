@@ -177,8 +177,10 @@
 * [robotics toolbox Python](https://github.com/petercorke/robotics-toolbox-python)
 * [monocularSlam](https://github.com/Fosowl/monocularSlam)
 * [MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM)
-
-
+* [linorobot2](https://github.com/linorobot/linorobot2)
+* [bambot](https://github.com/timqian/bambot)
+* [LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi)
+* [navigation2](https://github.com/ros-navigation/navigation2)
 
 
 
@@ -302,7 +304,7 @@
 * [scottokeebs](https://github.com/joe-scotto/scottokeebs)
 * [Chili3d](https://github.com/xiangechen/chili3d)
 * [scotto-keebs](https://github.com/joe-scotto/scottokeebs)
-
+* [genCAD](https://github.com/ferdous-alam/GenCAD)
 
 
 
@@ -613,6 +615,10 @@
 * [rnote](http://github.com/flxzt/rnote)
 * [awesome-n8n](https://github.com/restyler/awesome-n8n)
 * [cheating-daddy](https://github.com/sohzm/cheating-daddy)
+* [FlopperZiro](https://github.com/lraton/FlopperZiro)
+* [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit)
+* [AdventureLog](https://github.com/seanmorley15/AdventureLog)
+
 
 
 
@@ -706,6 +712,10 @@
 * [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 * [Homelab](https://github.com/ChristianLempa/homelab)
 * [DevOps](https://github.com/goinfinite/os)
+* [hide-my-mail-cloudflare](https://github.com/webmonch/hide-my-mail-cloudflare)
+* [aws-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
+
+
 
 
 
@@ -792,6 +802,8 @@
 * [python-training](https://github.com/jpmorganchase/python-training)
 * [TKinter Designer](https://github.com/ParthJadhav/Tkinter-Designer)
 * [wtfpython](https://github.com/satwikkansal/wtfpython)
+* [PyUIBulider](https://github.com/PaulleDemon/PyUIBuilder)
+
 
 
 
