@@ -63,6 +63,8 @@
 * [MCP-3D-printer-service](https://github.com/DMontgomery40/mcp-3D-printer-server)
 * [mast3r](https://github.com/naver/mast3r)
 * [SBS-2DTo3D](https://github.com/yushan777/SBS-2DTo3D)
+* [NLP-Projects-Repository](https://github.com/mohamedezzeldeenhassanmohamed/NLP-Projects-Repository)
+
 
 
 
@@ -181,7 +183,10 @@
 * [bambot](https://github.com/timqian/bambot)
 * [LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi)
 * [navigation2](https://github.com/ros-navigation/navigation2)
-
+* [roboticsarmcontroller](https://github.com/PaulleDemon/RoboticArmController)
+* [Autonomous-Manufacturing-Robot](https://github.com/ferdous-alam/Autonomous-Manufacturing-Robot)
+* [Map_Enhancer_Wizard](https://github.com/ali-pahlevani/Map_Enhancer_Wizard)
+* [Mobile Robot URDF Maker](https://github.com/ali-pahlevani/Mobile_Robot_URDF_Maker)
 
 
 
@@ -348,6 +353,8 @@
 * [homelab](https://github.com/khuedoan/homelab)
 * [astroluma](https://github.com/Sanjeet990/Astroluma)
 * [black-candy](https://github.com/blackcandy-org/blackcandy)
+* [runtipip](https://github.com/runtipi/runtipi)
+
 
 
 
@@ -618,6 +625,19 @@
 * [FlopperZiro](https://github.com/lraton/FlopperZiro)
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit)
 * [AdventureLog](https://github.com/seanmorley15/AdventureLog)
+* [git-sim](https://github.com/initialcommit-com/git-sim)
+* [selfhosted-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
+* [zipline](https://github.com/diced/zipline)
+* [deadalOS](https://github.com/DustinBrett/daedalOS)
+* [hrms](https://github.com/frappe/hrms)
+* [donetick](https://github.com/donetick/donetick)
+* [filestash](https://github.com/mickael-kerjean/filestash)
+* [rescuezilla](https://github.com/rescuezilla/rescuezilla)
+
+
+
+
+
 
 
 
@@ -803,7 +823,7 @@
 * [TKinter Designer](https://github.com/ParthJadhav/Tkinter-Designer)
 * [wtfpython](https://github.com/satwikkansal/wtfpython)
 * [PyUIBulider](https://github.com/PaulleDemon/PyUIBuilder)
-
+* [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 
 
 
