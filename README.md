@@ -187,7 +187,7 @@
 * [Autonomous-Manufacturing-Robot](https://github.com/ferdous-alam/Autonomous-Manufacturing-Robot)
 * [Map_Enhancer_Wizard](https://github.com/ali-pahlevani/Map_Enhancer_Wizard)
 * [Mobile Robot URDF Maker](https://github.com/ali-pahlevani/Mobile_Robot_URDF_Maker)
-
+* [Converter_PGM_to_SDF](https://github.com/Arseni1919/Converter_PGM_to_SDF)
 
 
 
@@ -354,6 +354,10 @@
 * [astroluma](https://github.com/Sanjeet990/Astroluma)
 * [black-candy](https://github.com/blackcandy-org/blackcandy)
 * [runtipip](https://github.com/runtipi/runtipi)
+* [tubearchivist](https://github.com/tubearchivist/tubearchivist)
+* [Openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app)
+
+
 
 
 
@@ -376,6 +380,8 @@
 * [computer-science](https://github.com/ossu/computer-science)
 * [awesome-algorithms](https://github.com/sirupsen/awesome-algorithms)
 * [web-app-from-scratch](https://github.com/Bogdanp/web-app-from-scratch)
+* [free-certifications](https://github.com/cloudcommunity/Free-Certifications)
+
 
 
 
@@ -633,6 +639,16 @@
 * [donetick](https://github.com/donetick/donetick)
 * [filestash](https://github.com/mickael-kerjean/filestash)
 * [rescuezilla](https://github.com/rescuezilla/rescuezilla)
+* [dawarich](https://github.com/Freika/dawarich)
+* [drag-and-drop-email-designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer)
+* [lossless-cut](https://github.com/mifi/lossless-cut)
+* [shlink](https://github.com/shlinkio/shlink)
+* [howdy](https://github.com/boltgolt/howdy)
+* [OliveTin](https://github.com/OliveTin/OliveTin)
+
+
+
+
 
 
 
@@ -861,6 +877,11 @@
 
 ## Lua
 * [lume](https://github.com/rxi/lume)
+
+
+
+## LaTeX
+* [vscode-latex-basics](https://github.com/jlelong/vscode-latex-basics)
 
 
 
