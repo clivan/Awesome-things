@@ -253,6 +253,8 @@
 * [Risc-V](https://github.com/mikeroyal/RISC-V-Guide)
 * [Hardware-in-the-loo-simulation](https://github.com/Simonf8/Hardware-in-the-Loop-Simulation)
 * [RFIDtoEEPROM](https://github.com/GogoVega/RFIDtoEEPROM)
+* [lets_build_a_compiler_for_riscv](https://github.com/splinedrive/lets_build_a_compiler_for_riscv)
+
 
 
 
