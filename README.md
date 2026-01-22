@@ -189,6 +189,8 @@
 * [Mobile Robot URDF Maker](https://github.com/ali-pahlevani/Mobile_Robot_URDF_Maker)
 * [Converter_PGM_to_SDF](https://github.com/Arseni1919/Converter_PGM_to_SDF)
 * [RobotSimSontrol_project](https://github.com/SDyChristian/RobotSimControl_project)
+* [betaflight](https://github.com/betaflight/betaflight)
+
 
 
 
@@ -361,6 +363,8 @@
 * [runtipip](https://github.com/runtipi/runtipi)
 * [tubearchivist](https://github.com/tubearchivist/tubearchivist)
 * [Openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app)
+* [homelab](https://github.com/koel/koel)
+* [photoprism](https://github.com/photoprism/photoprism)
 
 
 
@@ -654,6 +658,16 @@
 * [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH)
 * [spliit](https://github.com/spliit-app/spliit)
 * [DocumentServer](https://github.com/ONLYOFFICE/DocumentServer)
+* [gitbutler](https://github.com/gitbutlerapp/gitbutler)
+* [trip](https://github.com/itskovacs/trip)
+* [copyparty](https://github.com/9001/copyparty)
+* [tiny-tpu](https://github.com/tiny-tpu-v2/tiny-tpu)
+* [calibre-web](https://github.com/janeczku/calibre-web)
+
+
+
+
+
 
 
 
@@ -856,6 +870,8 @@
 * [wtfpython](https://github.com/satwikkansal/wtfpython)
 * [PyUIBulider](https://github.com/PaulleDemon/PyUIBuilder)
 * [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
+* [textual](https://github.com/Textualize/textual)
+
 
 
 
