@@ -64,7 +64,7 @@
 * [mast3r](https://github.com/naver/mast3r)
 * [SBS-2DTo3D](https://github.com/yushan777/SBS-2DTo3D)
 * [NLP-Projects-Repository](https://github.com/mohamedezzeldeenhassanmohamed/NLP-Projects-Repository)
-
+* [mochi](https://github.com/genmoai/mochi)
 
 
 
@@ -190,6 +190,8 @@
 * [Converter_PGM_to_SDF](https://github.com/Arseni1919/Converter_PGM_to_SDF)
 * [RobotSimSontrol_project](https://github.com/SDyChristian/RobotSimControl_project)
 * [betaflight](https://github.com/betaflight/betaflight)
+* [UavNetSim-v1](https://github.com/Zihao-Felix-Zhou/UavNetSim-v1)
+
 
 
 
@@ -317,7 +319,7 @@
 * [Chili3d](https://github.com/xiangechen/chili3d)
 * [scotto-keebs](https://github.com/joe-scotto/scottokeebs)
 * [genCAD](https://github.com/ferdous-alam/GenCAD)
-
+* [cm5-reveng](https://github.com/schlae/cm5-reveng)
 
 
 
@@ -365,6 +367,10 @@
 * [Openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app)
 * [homelab](https://github.com/koel/koel)
 * [photoprism](https://github.com/photoprism/photoprism)
+* [immich-power-tools](https://github.com/varun-raj/immich-power-tools)
+* [dokuwiki](https://github.com/dokuwiki/dokuwiki)
+
+
 
 
 
@@ -663,6 +669,8 @@
 * [copyparty](https://github.com/9001/copyparty)
 * [tiny-tpu](https://github.com/tiny-tpu-v2/tiny-tpu)
 * [calibre-web](https://github.com/janeczku/calibre-web)
+* [WeddingShare](https://github.com/Cirx08/WeddingShare)
+* [Wifi-3d-fusion](https://github.com/MaliosDark/wifi-3d-fusion)
 
 
 
@@ -739,6 +747,8 @@
 * [dock-droid](https://github.com/sickcodes/dock-droid)
 * [descomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker)
 * [x11docker](https://github.com/mviereck/x11docker)
+* [docker-android](https://github.com/budtmo/docker-android)
+
 
 
 
