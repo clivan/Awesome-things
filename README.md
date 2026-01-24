@@ -195,6 +195,8 @@
 * [UavNetSim-v1](https://github.com/Zihao-Felix-Zhou/UavNetSim-v1)
 * [awesome-matlab-robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics)
 * [XLeRobot](https://github.com/Vector-Wangel/XLeRobot)
+* [ESP-RC](https://github.com/BogdanTheGeek/ESP_RC)
+
 
 
 
@@ -291,6 +293,8 @@
 * [VHDL-Guide](https://github.com/mikeroyal/VHDL-Guide)
 * [CPLD-Guide](https://github.com/mikeroyal/CPLD-Guide)
 * [icestudio](https://github.com/FPGAwars/icestudio)
+* [VHDL-100-Projects](https://github.com/TheChipMaker/VHDL-100-Projects)
+
 
 
 
@@ -376,6 +380,10 @@
 * [immich-power-tools](https://github.com/varun-raj/immich-power-tools)
 * [dokuwiki](https://github.com/dokuwiki/dokuwiki)
 * [server](https://github.com/bitwarden/server)
+* [coredns](https://github.com/coredns/coredns)
+* [hometube](https://github.com/EgalitarianMonkey/hometube)
+
+
 
 
 
@@ -686,6 +694,18 @@
 * [qstudio](https://github.com/timestored/qstudio)
 * [pinokio](https://github.com/pinokiocomputer/pinokio)
 * [winboat](https://github.com/TibixDev/winboat)
+* [OpenCut](https://github.com/OpenCut-app/OpenCut)
+* [wanderer](https://github.com/open-wanderer/wanderer)
+* [OpenGlasses](https://github.com/BasedHardware/OpenGlass)
+* [rendercv](https://github.com/rendercv/rendercv)
+* [AirTrail](https://github.com/johanohly/AirTrail)
+* [atopile](https://github.com/atopile/atopile)
+
+
+
+
+
+
 
 
 
@@ -767,6 +787,8 @@
 * [descomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker)
 * [x11docker](https://github.com/mviereck/x11docker)
 * [docker-android](https://github.com/budtmo/docker-android)
+* [composetollbox](https://github.com/bluegoosemedia/composetoolbox)
+
 
 
 
