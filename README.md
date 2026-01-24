@@ -65,6 +65,8 @@
 * [SBS-2DTo3D](https://github.com/yushan777/SBS-2DTo3D)
 * [NLP-Projects-Repository](https://github.com/mohamedezzeldeenhassanmohamed/NLP-Projects-Repository)
 * [mochi](https://github.com/genmoai/mochi)
+* [Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
+
 
 
 
@@ -191,6 +193,10 @@
 * [RobotSimSontrol_project](https://github.com/SDyChristian/RobotSimControl_project)
 * [betaflight](https://github.com/betaflight/betaflight)
 * [UavNetSim-v1](https://github.com/Zihao-Felix-Zhou/UavNetSim-v1)
+* [awesome-matlab-robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics)
+* [XLeRobot](https://github.com/Vector-Wangel/XLeRobot)
+
+
 
 
 
@@ -369,6 +375,8 @@
 * [photoprism](https://github.com/photoprism/photoprism)
 * [immich-power-tools](https://github.com/varun-raj/immich-power-tools)
 * [dokuwiki](https://github.com/dokuwiki/dokuwiki)
+* [server](https://github.com/bitwarden/server)
+
 
 
 
@@ -671,6 +679,17 @@
 * [calibre-web](https://github.com/janeczku/calibre-web)
 * [WeddingShare](https://github.com/Cirx08/WeddingShare)
 * [Wifi-3d-fusion](https://github.com/MaliosDark/wifi-3d-fusion)
+* [pencil](https://github.com/evolus/pencil)
+* [podman-desktop](https://github.com/podman-desktop/podman-desktop)
+* [nano-banana-infinimap](https://github.com/seezatnap/nano-banana-infinimap)
+* [markdown-it](https://github.com/markdown-it/markdown-it)
+* [qstudio](https://github.com/timestored/qstudio)
+* [pinokio](https://github.com/pinokiocomputer/pinokio)
+* [winboat](https://github.com/TibixDev/winboat)
+
+
+
+
 
 
 
