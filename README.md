@@ -66,6 +66,8 @@
 * [NLP-Projects-Repository](https://github.com/mohamedezzeldeenhassanmohamed/NLP-Projects-Repository)
 * [mochi](https://github.com/genmoai/mochi)
 * [Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
+* [pytorch_fundamentals](https://github.com/analyticalrohit/pytorch_fundamentals)
+
 
 
 
@@ -382,6 +384,8 @@
 * [server](https://github.com/bitwarden/server)
 * [coredns](https://github.com/coredns/coredns)
 * [hometube](https://github.com/EgalitarianMonkey/hometube)
+* [Afilmory](https://github.com/Afilmory/afilmory)
+
 
 
 
@@ -412,7 +416,7 @@
 * [awesome-algorithms](https://github.com/sirupsen/awesome-algorithms)
 * [web-app-from-scratch](https://github.com/Bogdanp/web-app-from-scratch)
 * [free-certifications](https://github.com/cloudcommunity/Free-Certifications)
-
+* [DSA-Graph](https://github.com/D4rsh11/DSA-Graph)
 
 
 
@@ -700,6 +704,16 @@
 * [rendercv](https://github.com/rendercv/rendercv)
 * [AirTrail](https://github.com/johanohly/AirTrail)
 * [atopile](https://github.com/atopile/atopile)
+* [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
+* [SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
+* [exportify](https://github.com/watsonbox/exportify)
+* [web](https://github.com/meshtastic/web)
+* [easyeffects](https://github.com/wwmm/easyeffects)
+
+
+
+
+
 
 
 
@@ -830,6 +844,8 @@
 * [hide-my-mail-cloudflare](https://github.com/webmonch/hide-my-mail-cloudflare)
 * [aws-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
 * [semaphore](https://github.com/semaphoreio/semaphore)
+* [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
+
 
 
 
