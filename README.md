@@ -709,6 +709,18 @@
 * [exportify](https://github.com/watsonbox/exportify)
 * [web](https://github.com/meshtastic/web)
 * [easyeffects](https://github.com/wwmm/easyeffects)
+* [mozcdevice](https://github.com/google/mozc-devices)
+* [lazyssh](https://github.com/Adembc/lazyssh)
+* [homedashboard](https://github.com/kyleturman/home-dashboard)
+* [lead_pdf_viewer](https://github.com/rudi-q/leed_pdf_viewer)
+* [ai-expense-tracker-n8n](https://github.com/mativallej/ai-expense-tracker-n8n)
+* [FlatSat](https://github.com/Pwnsat/FlatSat)
+* [self-host-n8n-on-gcr](https://github.com/datawranglerai/self-host-n8n-on-gcr)
+
+
+
+
+
 
 
 
@@ -954,6 +966,11 @@
 * [casa](https://github.com/jorisroovers/casa)
 * [esphome](https://github.com/esphome/esphome)
 * [tagreader](https://github.com/adonno/tagreader)
+* [Zigbee2MQTT](https://github.com/Koenkk/zigbee2mqtt)
+* [awesome-IoT](https://github.com/HQarroum/awesome-iot)
+
+
+
 
 
 
@@ -976,6 +993,9 @@
 
 ## Lua
 * [lume](https://github.com/rxi/lume)
+* [awesome-lua](https://github.com/uhub/awesome-lua)
+
+
 
 
 
