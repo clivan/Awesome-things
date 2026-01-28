@@ -86,7 +86,7 @@
 * [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
 * [llm-course](https://github.com/mlabonne/llm-course)
 * [ML-from-scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-
+* [DiffusionTransformerfromScratch](https://github.com/MurageKibicho/DiffusionTransformerfromScratch)
 
 
 ### Compilation
@@ -716,6 +716,18 @@
 * [ai-expense-tracker-n8n](https://github.com/mativallej/ai-expense-tracker-n8n)
 * [FlatSat](https://github.com/Pwnsat/FlatSat)
 * [self-host-n8n-on-gcr](https://github.com/datawranglerai/self-host-n8n-on-gcr)
+* [Online3DViewer](https://github.com/kovacsv/Online3DViewer)
+* [Satty](https://github.com/Satty-org/Satty)
+* [BusPirate5-hardware](https://github.com/DangerousPrototypes/BusPirate5-hardware)
+* [ChebyshevPolynomials](https://github.com/MurageKibicho/ChebyshevPolynomials)
+* [PicoCalc](https://github.com/clockworkpi/PicoCalc)
+* [hsdaoh-rp2350](https://github.com/steve-m/hsdaoh-rp2350)
+* [software-architect-mindmap](https://github.com/kimtth/software-architect-mindmap)
+
+
+
+
+
 
 
 
