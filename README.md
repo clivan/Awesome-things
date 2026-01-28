@@ -198,6 +198,8 @@
 * [awesome-matlab-robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics)
 * [XLeRobot](https://github.com/Vector-Wangel/XLeRobot)
 * [ESP-RC](https://github.com/BogdanTheGeek/ESP_RC)
+* [ESP32](https://github.com/DroneBridge/ESP32)
+
 
 
 
@@ -332,6 +334,9 @@
 * [scotto-keebs](https://github.com/joe-scotto/scottokeebs)
 * [genCAD](https://github.com/ferdous-alam/GenCAD)
 * [cm5-reveng](https://github.com/schlae/cm5-reveng)
+* [mayo](https://github.com/fougue/mayo)
+
+
 
 
 
@@ -723,6 +728,14 @@
 * [PicoCalc](https://github.com/clockworkpi/PicoCalc)
 * [hsdaoh-rp2350](https://github.com/steve-m/hsdaoh-rp2350)
 * [software-architect-mindmap](https://github.com/kimtth/software-architect-mindmap)
+* [open-source-games](https://github.com/bobeff/open-source-games)
+* [muffon](https://github.com/staniel359/muffon)
+* [xleak](https://github.com/bgreenwell/xleak)
+* [vextui](https://github.com/CodeOne45/vex-tui)
+
+
+
+
 
 
 
@@ -869,6 +882,8 @@
 * [aws-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
 * [semaphore](https://github.com/semaphoreio/semaphore)
 * [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
+* [server-survival](https://github.com/pshenok/server-survival)
+
 
 
 
@@ -980,6 +995,12 @@
 * [tagreader](https://github.com/adonno/tagreader)
 * [Zigbee2MQTT](https://github.com/Koenkk/zigbee2mqtt)
 * [awesome-IoT](https://github.com/HQarroum/awesome-iot)
+* [ble-monitor](https://github.com/custom-components/ble_monitor)
+* [mqttui](https://github.com/EdJoPaTo/mqttui)
+* [meta2d.js](https://github.com/le5le-com/meta2d.js)
+
+
+
 
 
 
