@@ -273,6 +273,8 @@
 * [Hardware-in-the-loo-simulation](https://github.com/Simonf8/Hardware-in-the-Loop-Simulation)
 * [RFIDtoEEPROM](https://github.com/GogoVega/RFIDtoEEPROM)
 * [lets_build_a_compiler_for_riscv](https://github.com/splinedrive/lets_build_a_compiler_for_riscv)
+* [tiny8](https://github.com/sql-hkr/tiny8)
+
 
 
 
@@ -390,6 +392,8 @@
 * [coredns](https://github.com/coredns/coredns)
 * [hometube](https://github.com/EgalitarianMonkey/hometube)
 * [Afilmory](https://github.com/Afilmory/afilmory)
+* [speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
+
 
 
 
@@ -732,6 +736,10 @@
 * [muffon](https://github.com/staniel359/muffon)
 * [xleak](https://github.com/bgreenwell/xleak)
 * [vextui](https://github.com/CodeOne45/vex-tui)
+* [lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card)
+* [cloudclare-error-page](https://github.com/donlon/cloudflare-error-page)
+
+
 
 
 
@@ -998,6 +1006,8 @@
 * [ble-monitor](https://github.com/custom-components/ble_monitor)
 * [mqttui](https://github.com/EdJoPaTo/mqttui)
 * [meta2d.js](https://github.com/le5le-com/meta2d.js)
+* [MqttKalmanPublish](https://github.com/EdJoPaTo/MqttKalmanPublish)
+
 
 
 
