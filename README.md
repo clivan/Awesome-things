@@ -199,6 +199,8 @@
 * [XLeRobot](https://github.com/Vector-Wangel/XLeRobot)
 * [ESP-RC](https://github.com/BogdanTheGeek/ESP_RC)
 * [ESP32](https://github.com/DroneBridge/ESP32)
+* [webots](https://github.com/cyberbotics/webots)
+
 
 
 
@@ -393,6 +395,8 @@
 * [hometube](https://github.com/EgalitarianMonkey/hometube)
 * [Afilmory](https://github.com/Afilmory/afilmory)
 * [speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
+* [labdash](https://github.com/AnthonyGress/lab-dash)
+
 
 
 
@@ -738,6 +742,21 @@
 * [vextui](https://github.com/CodeOne45/vex-tui)
 * [lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card)
 * [cloudclare-error-page](https://github.com/donlon/cloudflare-error-page)
+* [ReportGenerator](https://github.com/danielpalme/ReportGenerator)
+* [port-kill](https://github.com/treadiehq/port-kill)
+* [boilerplates](https://github.com/ChristianLempa/boilerplates)
+* [minne](https://github.com/perstarkse/minne)
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+* [copyous](https://github.com/boerdereinar/copyous)
+* [turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python)
+
+
+
+
+
+
+
+
 
 
 
@@ -847,6 +866,8 @@
 * [x11docker](https://github.com/mviereck/x11docker)
 * [docker-android](https://github.com/budtmo/docker-android)
 * [composetollbox](https://github.com/bluegoosemedia/composetoolbox)
+* [docker-androinf](https://github.com/HQarroum/docker-android)
+
 
 
 
@@ -1007,6 +1028,8 @@
 * [mqttui](https://github.com/EdJoPaTo/mqttui)
 * [meta2d.js](https://github.com/le5le-com/meta2d.js)
 * [MqttKalmanPublish](https://github.com/EdJoPaTo/MqttKalmanPublish)
+* [hyperion](https://github.com/hyperion-project/hyperion.ng)
+
 
 
 
