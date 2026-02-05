@@ -749,6 +749,10 @@
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 * [copyous](https://github.com/boerdereinar/copyous)
 * [turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python)
+* [Zen-C](https://github.com/z-libs/Zen-C)
+* [awesome-os-setup](https://github.com/AmineDjeghri/awesome-os-setup)
+
+
 
 
 
@@ -912,6 +916,8 @@
 * [semaphore](https://github.com/semaphoreio/semaphore)
 * [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
 * [server-survival](https://github.com/pshenok/server-survival)
+* [DevOps-Project-Generator](https://github.com/NotHarshhaa/devops-project-generator)
+
 
 
 
@@ -965,6 +971,8 @@
 * [C++ HTTPlib](https://github.com/yhirose/cpp-httplib)
 * [CPP-guide](https://github.com/mikeroyal/CPP-Guide)
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib)
+* [pocoproject](https://github.com/pocoproject/poco)
+
 
 
 
@@ -1029,6 +1037,11 @@
 * [meta2d.js](https://github.com/le5le-com/meta2d.js)
 * [MqttKalmanPublish](https://github.com/EdJoPaTo/MqttKalmanPublish)
 * [hyperion](https://github.com/hyperion-project/hyperion.ng)
+* [esphome-components](https://github.com/EdJoPaTo/esphome-components)
+* [matt2influxdb](https://github.com/EdJoPaTo/mqtt2influxdb)
+* [mqtt-smarthome](https://github.com/EdJoPaTo/mqtt-smarthome)
+
+
 
 
 
