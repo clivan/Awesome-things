@@ -1106,6 +1106,8 @@
 * [MS-DOS](https://github.com/microsoft/MS-DOS)
 * [hhuOS](https://github.com/hhuOS/hhuOS)
 * [mini-riscv-os](https://github.com/splinedrive/mini-riscv-os)
+* [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+
 
 
 
