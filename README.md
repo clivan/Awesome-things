@@ -28,6 +28,8 @@
 * [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
 * [Pysics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
 * [roop](https://github.com/s0md3v/roop)
+
+---
 * [ToonCrafter](https://github.com/Doubiiu/ToonCrafter)
 * [faceswap](https://github.com/deepfakes/faceswap)
 * [OneDiffusion](https://github.com/lehduong/OneDiffusion)
