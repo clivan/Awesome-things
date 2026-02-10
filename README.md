@@ -28,8 +28,6 @@
 * [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
 * [Pysics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
 * [roop](https://github.com/s0md3v/roop)
-
----
 * [ToonCrafter](https://github.com/Doubiiu/ToonCrafter)
 * [faceswap](https://github.com/deepfakes/faceswap)
 * [OneDiffusion](https://github.com/lehduong/OneDiffusion)
@@ -45,6 +43,11 @@
 * [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp)
 * [BEGANSing](https://github.com/SoonbeomChoi/BEGANSing)
 * [Make It Talk](https://github.com/adobe-research/MakeItTalk)
+
+---
+===
+***
+
 * [vrn](https://github.com/AaronJackson/vrn)
 * [colorization](https://github.com/richzhang/colorization)
 * [crnn](https://github.com/bgshih/crnn)
