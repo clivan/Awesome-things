@@ -43,11 +43,6 @@
 * [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp)
 * [BEGANSing](https://github.com/SoonbeomChoi/BEGANSing)
 * [Make It Talk](https://github.com/adobe-research/MakeItTalk)
-
----
-===
-***
-
 * [vrn](https://github.com/AaronJackson/vrn)
 * [colorization](https://github.com/richzhang/colorization)
 * [crnn](https://github.com/bgshih/crnn)
@@ -63,6 +58,8 @@
 * [animateDiff](https://github.com/guoyww/AnimateDiff)
 * [Fast Music Remover](https://github.com/omeryusufyagci/fast-music-remover)
 * [transparent-background](https://github.com/plemeri/transparent-background)
+
+---
 * [Realtiem-voice-cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 * [Markitdown](https://github.com/microsoft/markitdown)
 * [MCP-3D-printer-service](https://github.com/DMontgomery40/mcp-3D-printer-server)
