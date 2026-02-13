@@ -58,8 +58,6 @@
 * [animateDiff](https://github.com/guoyww/AnimateDiff)
 * [Fast Music Remover](https://github.com/omeryusufyagci/fast-music-remover)
 * [transparent-background](https://github.com/plemeri/transparent-background)
-
----
 * [Realtiem-voice-cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 * [Markitdown](https://github.com/microsoft/markitdown)
 * [MCP-3D-printer-service](https://github.com/DMontgomery40/mcp-3D-printer-server)
@@ -73,15 +71,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 ### Tutorials
 * [artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python)
 * [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
@@ -91,6 +80,10 @@
 * [DiffusionTransformerfromScratch](https://github.com/MurageKibicho/DiffusionTransformerfromScratch)
 
 
+
+
+
+---
 ### Compilation
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
