@@ -141,9 +141,6 @@
 * [space_robotics_bench](https://github.com/AndrejOrsula/space_robotics_bench)
 * [rl-tools](https://github.com/rl-tools/rl-tools)
 * [atta](https://github.com/brenocq/atta)
-
-
----
 * [montecarlo-slam](https://github.com/brenocq/monte-carlo-slam)
 * [openpilot](https://github.com/commaai/openpilot)
 * [AgiBot-World](https://github.com/OpenDriveLab/AgiBot-World)
@@ -158,6 +155,9 @@
 * [Thor](https://github.com/AngelLM/Thor)
 * [Dummy Robot](https://github.com/peng-zhihui/Dummy-Robot)
 * [path_planner](https://github.com/AtsushiSakai/path_planner)
+
+
+---
 * [Autonomous flight](https://github.com/KumarRobotics/kr_autonomous_flight)
 * [Autonomous-Systems-Guide](https://github.com/mikeroyal/Autonomous-Systems-Guide)
 * [Robotics-Guide](https://github.com/mikeroyal/Robotics-guide)
