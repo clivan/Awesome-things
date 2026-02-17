@@ -155,9 +155,6 @@
 * [Thor](https://github.com/AngelLM/Thor)
 * [Dummy Robot](https://github.com/peng-zhihui/Dummy-Robot)
 * [path_planner](https://github.com/AtsushiSakai/path_planner)
-
-
----
 * [Autonomous flight](https://github.com/KumarRobotics/kr_autonomous_flight)
 * [Autonomous-Systems-Guide](https://github.com/mikeroyal/Autonomous-Systems-Guide)
 * [Robotics-Guide](https://github.com/mikeroyal/Robotics-guide)
@@ -173,6 +170,9 @@
 * [Mobile-robot-Control](https://github.com/felipenmartins/Mobile-Robot-Control)
 * [2D-LiDAR-Base-Object-Recogniti](https://github.com/minaghaderi/2D-LiDAR-Based-Object-Recognition)
 * [ros2-dust](https://github.com/ros2-rust/ros2_rust)
+
+
+---
 * [2d-lidar-idetification](https://github.com/soheilbh/2d-lidar-identification)
 * [Path-finding-Irbobot](https://github.com/soheilbh/Path_Finding_Irobot)
 * [Genesis-Emodied-AI](https://github.com/Genesis-Embodied-AI/Genesis)
