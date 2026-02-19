@@ -170,9 +170,6 @@
 * [Mobile-robot-Control](https://github.com/felipenmartins/Mobile-Robot-Control)
 * [2D-LiDAR-Base-Object-Recogniti](https://github.com/minaghaderi/2D-LiDAR-Based-Object-Recognition)
 * [ros2-dust](https://github.com/ros2-rust/ros2_rust)
-
-
----
 * [2d-lidar-idetification](https://github.com/soheilbh/2d-lidar-identification)
 * [Path-finding-Irbobot](https://github.com/soheilbh/Path_Finding_Irobot)
 * [Genesis-Emodied-AI](https://github.com/Genesis-Embodied-AI/Genesis)
@@ -187,6 +184,9 @@
 * [roboticsarmcontroller](https://github.com/PaulleDemon/RoboticArmController)
 * [Autonomous-Manufacturing-Robot](https://github.com/ferdous-alam/Autonomous-Manufacturing-Robot)
 * [Map_Enhancer_Wizard](https://github.com/ali-pahlevani/Map_Enhancer_Wizard)
+
+
+---
 * [Mobile Robot URDF Maker](https://github.com/ali-pahlevani/Mobile_Robot_URDF_Maker)
 * [Converter_PGM_to_SDF](https://github.com/Arseni1919/Converter_PGM_to_SDF)
 * [RobotSimSontrol_project](https://github.com/SDyChristian/RobotSimControl_project)
