@@ -184,9 +184,6 @@
 * [roboticsarmcontroller](https://github.com/PaulleDemon/RoboticArmController)
 * [Autonomous-Manufacturing-Robot](https://github.com/ferdous-alam/Autonomous-Manufacturing-Robot)
 * [Map_Enhancer_Wizard](https://github.com/ali-pahlevani/Map_Enhancer_Wizard)
-
-
----
 * [Mobile Robot URDF Maker](https://github.com/ali-pahlevani/Mobile_Robot_URDF_Maker)
 * [Converter_PGM_to_SDF](https://github.com/Arseni1919/Converter_PGM_to_SDF)
 * [RobotSimSontrol_project](https://github.com/SDyChristian/RobotSimControl_project)
@@ -201,20 +198,15 @@
 
 
 
-
-
-
-
-
-
-
-
 ## Computer Vision
 * [MachineVision Toolbox Python](https://github.com/petercorke/machinevision-toolbox-python)
 * [DBoW3](https://github.com/rmsalinas/DBow3)
 * [Pangolin](https://github.com/stevenlovegrove/Pangolin)
 * [librealsense](https://github.com/IntelRealSense/librealsense)
 * [GeoCalib](https://github.com/cvg/GeoCalib)
+
+
+---
 * [OpenCV-Projects](https://github.com/rchavezj/OpenCV_Projects)
 * [Mosaic](https://github.com/codebox/mosaic)
 * [Computer-Vision-Guide](https://github.com/mikeroyal/Computer-Vision-Guide)
