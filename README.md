@@ -229,12 +229,12 @@
 * [exploratory-data-analysis-of-sensor-data-with-pandas](https://github.com/fkromer/exploratory-data-analysis-of-sensor-data-with-pandas)
 * [kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions)
 * [R-Guide](https://github.com/mikeroyal/R-Guide)
-* [Dioxus](https://github.com/DioxusLabs/dioxus)
 
 
 
 
 
+---
 ## Embedded Systems
 * [AVR-FFT](https://github.com/Klafyvel/AVR-FFT)
 * [SavvyCAN](https://github.com/collin80/SavvyCAN)
@@ -740,7 +740,7 @@
 * [turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python)
 * [Zen-C](https://github.com/z-libs/Zen-C)
 * [awesome-os-setup](https://github.com/AmineDjeghri/awesome-os-setup)
-
+* [Dioxus](https://github.com/DioxusLabs/dioxus)
 
 
 
