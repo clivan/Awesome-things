@@ -204,9 +204,6 @@
 * [Pangolin](https://github.com/stevenlovegrove/Pangolin)
 * [librealsense](https://github.com/IntelRealSense/librealsense)
 * [GeoCalib](https://github.com/cvg/GeoCalib)
-
-
----
 * [OpenCV-Projects](https://github.com/rchavezj/OpenCV_Projects)
 * [Mosaic](https://github.com/codebox/mosaic)
 * [Computer-Vision-Guide](https://github.com/mikeroyal/Computer-Vision-Guide)
@@ -234,7 +231,6 @@
 
 
 
----
 ## Embedded Systems
 * [AVR-FFT](https://github.com/Klafyvel/AVR-FFT)
 * [SavvyCAN](https://github.com/collin80/SavvyCAN)
@@ -251,6 +247,10 @@
 * [Tasmota](https://github.com/arendst/Tasmota)
 * [Tasmota-firmware](https://github.com/arendst/Tasmota-firmware)
 * [avr-i2c-adc](https://github.com/ptrks/avr-i2c-adc)
+
+
+
+---
 * [AVR-Programming](https://github.com/Obijuan/AVR-Programming)
 * [MSP430](https://github.com/msp430club/msp430-linux-guide)
 * [MSP430](https://github.com/msp430club/msp430-linux-guide)
