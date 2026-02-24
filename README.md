@@ -247,12 +247,7 @@
 * [Tasmota](https://github.com/arendst/Tasmota)
 * [Tasmota-firmware](https://github.com/arendst/Tasmota-firmware)
 * [avr-i2c-adc](https://github.com/ptrks/avr-i2c-adc)
-
-
-
----
 * [AVR-Programming](https://github.com/Obijuan/AVR-Programming)
-* [MSP430](https://github.com/msp430club/msp430-linux-guide)
 * [MSP430](https://github.com/msp430club/msp430-linux-guide)
 * [AndroidArduino](https://github.com/claudiababescu/arduino-android-bluetooth)
 * [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum)
@@ -270,12 +265,11 @@
 
 
 
-
-
-
 ## Electronic Stuff
 * [Adafruit CAD Parts](https://github.com/adafruit/Adafruit_CAD_Parts)
 * [PS$-ESP32](https://github.com/aed3/PS4-esp32)
+
+---
 * [awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware)
 
 
