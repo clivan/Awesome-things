@@ -269,9 +269,6 @@
 * [Adafruit CAD Parts](https://github.com/adafruit/Adafruit_CAD_Parts)
 * [PS$-ESP32](https://github.com/aed3/PS4-esp32)
 
----
-* [awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware)
-
 
 
 
@@ -284,8 +281,8 @@
 * [VHDL-Guide](https://github.com/mikeroyal/VHDL-Guide)
 * [CPLD-Guide](https://github.com/mikeroyal/CPLD-Guide)
 * [icestudio](https://github.com/FPGAwars/icestudio)
-* [VHDL-100-Projects](https://github.com/TheChipMaker/VHDL-100-Projects)
-
+* [VHDL-100-Projects](https://github.com/TheChipMaker/VHDL-100-Projects)}
+* [awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware)
 
 
 
@@ -299,12 +296,14 @@
 
 
 
-
 ## Math
 * [PGraph-Python](https://github.com/petercorke/pgraph-python)
 * [Ceres Solver](https://github.com/ceres-solver/ceres-solver)
 * [Sophus](https://github.com/strasdat/Sophus)
 * [g2o](https://github.com/RainerKuemmerle/g2o)
+
+
+---
 * [Wu-s-Line-and-Circle-Drwaing-Algorithm](https://github.com/MurageKibicho/Wu-s-Line-and-Circle-Drawing-Algorithm)
 
 
