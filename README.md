@@ -268,6 +268,7 @@
 ## Electronic Stuff
 * [Adafruit CAD Parts](https://github.com/adafruit/Adafruit_CAD_Parts)
 * [PS$-ESP32](https://github.com/aed3/PS4-esp32)
+* [cm5-reveng](https://github.com/schlae/cm5-reveng)
 
 
 
@@ -301,10 +302,8 @@
 * [Ceres Solver](https://github.com/ceres-solver/ceres-solver)
 * [Sophus](https://github.com/strasdat/Sophus)
 * [g2o](https://github.com/RainerKuemmerle/g2o)
-
-
----
 * [Wu-s-Line-and-Circle-Drwaing-Algorithm](https://github.com/MurageKibicho/Wu-s-Line-and-Circle-Drawing-Algorithm)
+
 
 
 
@@ -317,9 +316,7 @@
 * [3d_printing](https://github.com/tom-doerr/3d_printing)
 * [scottokeebs](https://github.com/joe-scotto/scottokeebs)
 * [Chili3d](https://github.com/xiangechen/chili3d)
-* [scotto-keebs](https://github.com/joe-scotto/scottokeebs)
 * [genCAD](https://github.com/ferdous-alam/GenCAD)
-* [cm5-reveng](https://github.com/schlae/cm5-reveng)
 * [mayo](https://github.com/fougue/mayo)
 
 
@@ -333,10 +330,11 @@
  
 
 
-
-
 ## Homelab
 * [gogs](https://github.com/gogs/gogs)
+
+
+---
 * [navidrome](https://github.com/navidrome/navidrome)
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [awesome-serverless](https://github.com/liuchong/awesome-serverless)
