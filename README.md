@@ -332,9 +332,6 @@
 
 ## Homelab
 * [gogs](https://github.com/gogs/gogs)
-
-
----
 * [navidrome](https://github.com/navidrome/navidrome)
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [awesome-serverless](https://github.com/liuchong/awesome-serverless)
@@ -349,7 +346,9 @@
 * [tau](https://github.com/taubyte/tau)
 * [umbrel](https://github.com/getumbrel/umbrel)
 * [gpustack](https://github.com/gpustack/gpustack)
-* [amneia-vpn](https://github.com/amnezia-vpn/amnezia-client)
+* [amnezia-vpn](https://github.com/amnezia-vpn/amnezia-client)
+
+---
 * [Olares](https://github.com/beclab/Olares)
 * [pi-hole](https://github.com/pi-hole/pi-hole)
 * [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
