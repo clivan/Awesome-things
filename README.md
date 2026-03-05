@@ -347,8 +347,6 @@
 * [umbrel](https://github.com/getumbrel/umbrel)
 * [gpustack](https://github.com/gpustack/gpustack)
 * [amnezia-vpn](https://github.com/amnezia-vpn/amnezia-client)
-
----
 * [Olares](https://github.com/beclab/Olares)
 * [pi-hole](https://github.com/pi-hole/pi-hole)
 * [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
@@ -364,6 +362,8 @@
 * [black-candy](https://github.com/blackcandy-org/blackcandy)
 * [runtipip](https://github.com/runtipi/runtipi)
 * [tubearchivist](https://github.com/tubearchivist/tubearchivist)
+
+---
 * [Openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app)
 * [homelab](https://github.com/koel/koel)
 * [photoprism](https://github.com/photoprism/photoprism)
