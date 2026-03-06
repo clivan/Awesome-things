@@ -362,8 +362,6 @@
 * [black-candy](https://github.com/blackcandy-org/blackcandy)
 * [runtipip](https://github.com/runtipi/runtipi)
 * [tubearchivist](https://github.com/tubearchivist/tubearchivist)
-
----
 * [Openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app)
 * [homelab](https://github.com/koel/koel)
 * [photoprism](https://github.com/photoprism/photoprism)
@@ -380,25 +378,13 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Learning
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [free-for-dev](https://github.com/ripienaar/free-for-dev)
 * [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 * [awesome-productivity](https://github.com/mezod/awesome-productivity)
+
+---
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love)
