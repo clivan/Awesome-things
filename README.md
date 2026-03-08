@@ -383,12 +383,8 @@
 * [free-for-dev](https://github.com/ripienaar/free-for-dev)
 * [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 * [awesome-productivity](https://github.com/mezod/awesome-productivity)
-
----
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love)
-* [Project-Based-Learning](https://github.com/practical-tutorials/project-based-learning)
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 * [computer-science](https://github.com/ossu/computer-science)
 * [awesome-algorithms](https://github.com/sirupsen/awesome-algorithms)
@@ -406,6 +402,8 @@
 * [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 * [Ocreeb-mk-2](https://github.com/sb-ocr/ocreeb-mk-2)
 * [public-apis](https://github.com/public-apis/public-apis)
+
+---
 * [open-saas](https://github.com/wasp-lang/open-saas)
 * [excelCPU](https://github.com/InkboxSoftware/excelCPU)
 * [next-supabase-saas-boilerplate](https://github.com/Chensokheng/next--supabase-saas-boilerplate)
