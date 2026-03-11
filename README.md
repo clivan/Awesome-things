@@ -402,8 +402,6 @@
 * [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 * [Ocreeb-mk-2](https://github.com/sb-ocr/ocreeb-mk-2)
 * [public-apis](https://github.com/public-apis/public-apis)
-
----
 * [open-saas](https://github.com/wasp-lang/open-saas)
 * [excelCPU](https://github.com/InkboxSoftware/excelCPU)
 * [next-supabase-saas-boilerplate](https://github.com/Chensokheng/next--supabase-saas-boilerplate)
@@ -437,6 +435,7 @@
 
 
 
+---
 ## Web Design
 * [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 * [css-docs](https://github.com/eludadev/css-docs)
