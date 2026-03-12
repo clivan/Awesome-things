@@ -435,7 +435,6 @@
 
 
 
----
 ## Web Design
 * [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 * [css-docs](https://github.com/eludadev/css-docs)
@@ -449,8 +448,10 @@
 
 
 
+
 ## Rust
 * [awesome-rust](https://github.com/liuchong/awesome-rust)
+
 
 
 
@@ -462,6 +463,7 @@
 
 
 
+---
 ## Portfolio
 * [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 * [minimalist-portfolio-json](https://github.com/midudev/minimalist-portfolio-json)
