@@ -374,6 +374,8 @@
 * [speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
 * [labdash](https://github.com/AnthonyGress/lab-dash)
 * [photoprism](https://github.com/photoprism/photoprism)
+* [n8n](https://github.com/n8n-io/n8n)
+* [LinkAce](https://github.com/Kovah/LinkAce)
 
 
 
@@ -482,23 +484,21 @@
 * [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
 * [alphafold3](https://github.com/google-deepmind/alphafold3)
 * [nestool](https://github.com/zeim839/nes-tools)
-
----
 * [98.css](https://github.com/jdan/98.css)
-* [n8n](https://github.com/n8n-io/n8n)
 * [nodezator](https://github.com/IndieSmiths/nodezator)
 * [OliveTin](https://github.com/OliveTin/OliveTin)
 * [FlowWise](https://github.com/FlowiseAI/Flowise)
 * [vhs](https://github.com/charmbracelet/vhs)
 * [bananas](https://github.com/mistweaverco/bananas)
 * [revideo](https://github.com/redotvideo/revideo)
-* [LinkAce](https://github.com/Kovah/LinkAce)
 * [latex-css](https://github.com/vincentdoerig/latex-css)
 * [penpot](https://github.com/penpot/penpot)
 * [openalternative](https://github.com/piotrkulpinski/openalternative)
 * [presenterm](https://github.com/mfontanini/presenterm)
 * [Awesome engineering ladders](https://github.com/posquit0/awesome-engineering-ladders)
 * [1Panel](https://github.com/1Panel-dev/1Panel)
+
+---
 * [Awesome Engineering onboarding](https://github.com/posquit0/awesome-engineer-onboarding)
 * [your-script](https://github.com/av/your-script)
 * [flame](https://github.com/av/flame)
