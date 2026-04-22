@@ -373,7 +373,7 @@
 * [Afilmory](https://github.com/Afilmory/afilmory)
 * [speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
 * [labdash](https://github.com/AnthonyGress/lab-dash)
-
+* [photoprism](https://github.com/photoprism/photoprism)
 
 
 
@@ -463,7 +463,6 @@
 
 
 
----
 ## Portfolio
 * [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 * [minimalist-portfolio-json](https://github.com/midudev/minimalist-portfolio-json)
@@ -474,18 +473,17 @@
  
  
  ## Nice things
-* [gm](https://github.com/flujoo/gm)
 * [windows-api-function-cheatsheet](https://github.com/7etsuo/windows-api-function-cheatsheets)
-* [latexdiff](https://github.com/ftilmann/latexdiff)
 * [joss-papers](https://github.com/openjournals/joss-papers)
 * [mermaid](https://github.com/mermaid-js/mermaid)
 * [budibase](https://github.com/Budibase/budibase)
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [WebVM](https://github.com/leaningtech/webvm)
 * [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
-* [photoprism](https://github.com/photoprism/photoprism)
 * [alphafold3](https://github.com/google-deepmind/alphafold3)
 * [nestool](https://github.com/zeim839/nes-tools)
+
+---
 * [98.css](https://github.com/jdan/98.css)
 * [n8n](https://github.com/n8n-io/n8n)
 * [nodezator](https://github.com/IndieSmiths/nodezator)
@@ -1044,6 +1042,8 @@
 
 ## LaTeX
 * [vscode-latex-basics](https://github.com/jlelong/vscode-latex-basics)
+* [latexdiff](https://github.com/ftilmann/latexdiff)
+
 
 
 
@@ -1082,5 +1082,10 @@
 ## Software Architecture
 * [software-architecture-premier](https://github.com/sivaprasadreddy/software-architecture-premier)
 
+
+
+
+## R
+* [gm](https://github.com/flujoo/gm)
 
 ---
