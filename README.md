@@ -469,7 +469,7 @@
 * [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 * [minimalist-portfolio-json](https://github.com/midudev/minimalist-portfolio-json)
 * [skfolio](https://github.com/skfolio/skfolio)
-
+* [developer-portfolios](https://github.com/milanm/developer-portfolios)
  
  
  
@@ -497,8 +497,6 @@
 * [presenterm](https://github.com/mfontanini/presenterm)
 * [Awesome engineering ladders](https://github.com/posquit0/awesome-engineering-ladders)
 * [1Panel](https://github.com/1Panel-dev/1Panel)
-
----
 * [Awesome Engineering onboarding](https://github.com/posquit0/awesome-engineer-onboarding)
 * [your-script](https://github.com/av/your-script)
 * [flame](https://github.com/av/flame)
@@ -511,9 +509,10 @@
 * [eclipse-theia](https://github.com/eclipse-theia/theia)
 * [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 * [math-physics-problem-generator](https://github.com/echohive42/math-physics-problem-generator)
-* [developer-portfolios](https://github.com/milanm/developer-portfolios)
 * [ShadPS4](https://github.com/shadps4-emu/shadPS4)
 * [Cap](https://github.com/CapSoftware/Cap)
+
+---
 * [koreader](https://github.com/koreader/koreader)
 * [qrframe](https://github.com/zhengkyl/qrframe)
 * [Malimite](https://github.com/LaurieWired/Malimite)
