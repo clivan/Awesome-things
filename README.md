@@ -511,8 +511,6 @@
 * [math-physics-problem-generator](https://github.com/echohive42/math-physics-problem-generator)
 * [ShadPS4](https://github.com/shadps4-emu/shadPS4)
 * [Cap](https://github.com/CapSoftware/Cap)
-
----
 * [koreader](https://github.com/koreader/koreader)
 * [qrframe](https://github.com/zhengkyl/qrframe)
 * [Malimite](https://github.com/LaurieWired/Malimite)
@@ -528,6 +526,8 @@
 * [CinePi](https://github.com/joe-scotto/CinePI)
 * [XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
 * [Windows-XP](https://github.com/B00merang-Project/Windows-XP)
+
+---
 * [awesome-git](https://github.com/dictcp/awesome-git)
 * [PlotJuggler](https://github.com/facontidavide/PlotJuggler)
 * [Awesome](https://github.com/sindresorhus/awesome)
