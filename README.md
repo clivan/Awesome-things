@@ -526,8 +526,6 @@
 * [CinePi](https://github.com/joe-scotto/CinePI)
 * [XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
 * [Windows-XP](https://github.com/B00merang-Project/Windows-XP)
-
----
 * [awesome-git](https://github.com/dictcp/awesome-git)
 * [PlotJuggler](https://github.com/facontidavide/PlotJuggler)
 * [Awesome](https://github.com/sindresorhus/awesome)
@@ -543,6 +541,8 @@
 * [Chipmunk2D](https://github.com/slembcke/Chipmunk2D)
 * [Simbody](https://github.com/simbody/simbody)
 * [TinyRender](https://github.com/ssloy/tinyrenderer/wiki)
+
+---
 * [Shell](https://github.com/tokenrove/build-your-own-shell)
 * [Open SmartWatch](https://github.com/Open-Smartwatch/open-smartwatch-gps)
 * [LaTeX CSS](https://github.com/vincentdoerig/latex-css)
