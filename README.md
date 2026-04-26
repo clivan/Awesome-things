@@ -393,6 +393,9 @@
 * [web-app-from-scratch](https://github.com/Bogdanp/web-app-from-scratch)
 * [free-certifications](https://github.com/cloudcommunity/Free-Certifications)
 * [DSA-Graph](https://github.com/D4rsh11/DSA-Graph)
+* [Shell](https://github.com/tokenrove/build-your-own-shell)
+
+
 
 
 
@@ -541,12 +544,8 @@
 * [Chipmunk2D](https://github.com/slembcke/Chipmunk2D)
 * [Simbody](https://github.com/simbody/simbody)
 * [TinyRender](https://github.com/ssloy/tinyrenderer/wiki)
-
----
-* [Shell](https://github.com/tokenrove/build-your-own-shell)
 * [Open SmartWatch](https://github.com/Open-Smartwatch/open-smartwatch-gps)
 * [LaTeX CSS](https://github.com/vincentdoerig/latex-css)
-* [LaTeX Template](https://github.com/mihdicaballero/LaTeX-Projects?fbclid=IwAR22uYWXsTBvG3DQH0eYhnf__Z4mhXiPEOwatNwRB9_-t9RPsHf4A6POET0)
 * [OpenCL-Guide](https://github.com/mikeroyal/OpenCL-Guide)
 * [Bayesian-Statistics-Guide](https://github.com/mikeroyal/Bayesian-Statistics-Guide)
 * [Differential-Equations-Guide](https://github.com/mikeroyal/Differential-Equations-Guide)
@@ -558,6 +557,8 @@
 * [Windows-95](https://github.com/B00merang-Project/Windows-95)
 * [Windows-Vista](https://github.com/B00merang-Project/Windows-Vista)
 * [CUDA-Guide](https://github.com/mikeroyal/CUDA-Guide)
+
+---
 * [LiDAR-Guide](https://github.com/mikeroyal/LiDAR-Guide)
 * [Debian-Guide](https://github.com/mikeroyal/Debian-Guide)
 * [macOs](https://github.com/B00merang-Project/macOS)
@@ -1042,6 +1043,8 @@
 ## LaTeX
 * [vscode-latex-basics](https://github.com/jlelong/vscode-latex-basics)
 * [latexdiff](https://github.com/ftilmann/latexdiff)
+* [LaTeX Template](https://github.com/mihdicaballero/LaTeX-Projects?fbclid=IwAR22uYWXsTBvG3DQH0eYhnf__Z4mhXiPEOwatNwRB9_-t9RPsHf4A6POET0)
+
 
 
 
