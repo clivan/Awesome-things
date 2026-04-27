@@ -557,8 +557,6 @@
 * [Windows-95](https://github.com/B00merang-Project/Windows-95)
 * [Windows-Vista](https://github.com/B00merang-Project/Windows-Vista)
 * [CUDA-Guide](https://github.com/mikeroyal/CUDA-Guide)
-
----
 * [LiDAR-Guide](https://github.com/mikeroyal/LiDAR-Guide)
 * [Debian-Guide](https://github.com/mikeroyal/Debian-Guide)
 * [macOs](https://github.com/B00merang-Project/macOS)
@@ -568,12 +566,13 @@
 * [no-as-a-service](https://github.com/hotheadhacker/no-as-a-service)
 * [Git-friend](https://github.com/krishn404/Git-Friend)
 * [self.so](https://github.com/Nutlope/self.so)
-* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster)
 * [Sisyphus](https://github.com/salmiyounes/Sisyphus)
 * [foliate](https://github.com/johnfactotum/foliate)
 * [gitea-py](https://github.com/wmariuss/gitea-py)
 * [py-project-template](https://github.com/wmariuss/py-project-template)
 * [shortlink-py](https://github.com/wmariuss/shortlink-py)
+
+---
 * [ESPAsyncWebServer](https://github.com/i-am-shodan/ESPAsyncWebServer)
 * [tinyusb](https://github.com/hathach/tinyusb)
 * [Windows-8.1](https://github.com/B00merang-Project/Windows-8.1)
@@ -1083,6 +1082,10 @@
 
 ## Software Architecture
 * [software-architecture-premier](https://github.com/sivaprasadreddy/software-architecture-premier)
+
+
+## To install
+* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster)
 
 
 
