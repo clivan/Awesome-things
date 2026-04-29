@@ -571,12 +571,9 @@
 * [gitea-py](https://github.com/wmariuss/gitea-py)
 * [py-project-template](https://github.com/wmariuss/py-project-template)
 * [shortlink-py](https://github.com/wmariuss/shortlink-py)
-
----
 * [ESPAsyncWebServer](https://github.com/i-am-shodan/ESPAsyncWebServer)
 * [tinyusb](https://github.com/hathach/tinyusb)
 * [Windows-8.1](https://github.com/B00merang-Project/Windows-8.1)
-* [awesome-github-readme-profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 * [WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
 * [stablediffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 * [syncthing](https://github.com/syncthing/syncthing)
@@ -588,6 +585,8 @@
 * [koodo-reader](https://github.com/koodo-reader/koodo-reader)
 * [GDevelop](https://github.com/4ian/GDevelop)
 * [elrocket](https://github.com/broskicodes/elrocket)
+
+---
 * [timful-app](https://github.com/schej-it/timeful.app)
 * [Serial-studio](https://github.com/Serial-Studio/Serial-Studio)
 * [Windows-10](https://github.com/B00merang-Project/Windows-10)
