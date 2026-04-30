@@ -599,8 +599,6 @@
 * [Box2d](https://github.com/erincatto/Box2D)
 * [yami](https://github.com/DevER-M/yami)
 * [motionity](https://github.com/alyssaxuu/motionity)
-
----
 * [sshtron](https://github.com/zachlatta/sshtron)
 * [snippets-box](https://github.com/pawelmalak/snippet-box)
 * [WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck)
@@ -616,6 +614,8 @@
 * [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security)
 * [BookmarkHub](https://github.com/dudor/BookmarkHub)
 * [wifiphisher](https://github.com/wifiphisher/wifiphisher)
+
+---
 * [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services)
 * [obsidian-remote](https://github.com/sytone/obsidian-remote)
 * [viber3d](https://github.com/instructa/viber3d)
