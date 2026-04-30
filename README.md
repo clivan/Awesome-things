@@ -585,10 +585,7 @@
 * [koodo-reader](https://github.com/koodo-reader/koodo-reader)
 * [GDevelop](https://github.com/4ian/GDevelop)
 * [elrocket](https://github.com/broskicodes/elrocket)
-
----
 * [timful-app](https://github.com/schej-it/timeful.app)
-* [Serial-studio](https://github.com/Serial-Studio/Serial-Studio)
 * [Windows-10](https://github.com/B00merang-Project/Windows-10)
 * [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
 * [manim](https://github.com/ManimCommunity/manim)
@@ -602,6 +599,8 @@
 * [Box2d](https://github.com/erincatto/Box2D)
 * [yami](https://github.com/DevER-M/yami)
 * [motionity](https://github.com/alyssaxuu/motionity)
+
+---
 * [sshtron](https://github.com/zachlatta/sshtron)
 * [snippets-box](https://github.com/pawelmalak/snippet-box)
 * [WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck)
@@ -1085,7 +1084,7 @@
 
 ## To install
 * [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster)
-
+* [Serial-studio](https://github.com/Serial-Studio/Serial-Studio)
 
 
 
