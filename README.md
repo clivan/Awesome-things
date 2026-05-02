@@ -473,6 +473,7 @@
 * [minimalist-portfolio-json](https://github.com/midudev/minimalist-portfolio-json)
 * [skfolio](https://github.com/skfolio/skfolio)
 * [developer-portfolios](https://github.com/milanm/developer-portfolios)
+* [beautifuly-github-profile](https://github.com/rzashakeri/beautify-github-profile)
  
  
  
@@ -614,13 +615,10 @@
 * [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security)
 * [BookmarkHub](https://github.com/dudor/BookmarkHub)
 * [wifiphisher](https://github.com/wifiphisher/wifiphisher)
-
----
 * [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services)
 * [obsidian-remote](https://github.com/sytone/obsidian-remote)
 * [viber3d](https://github.com/instructa/viber3d)
 * [keyforge3d](https://github.com/makalin/KeyForge3D)
-* [beautifuly-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 * [screenity](https://github.com/alyssaxuu/screenity)
 * [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
 * [FileRise](https://github.com/error311/FileRise)
@@ -631,6 +629,8 @@
 * [pomodoro](https://github.com/Rukenshia/pomodoro)
 * [flutter-preview](https://github.com/aloisdeniel/flutter_device_preview)
 * [vibe-draw](https://github.com/martin226/vibe-draw)
+
+---
 * [disposable-email-validator](https://github.com/wilsonadenuga/disposable-email-validator)
 * [rnote](http://github.com/flxzt/rnote)
 * [awesome-n8n](https://github.com/restyler/awesome-n8n)
