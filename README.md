@@ -376,6 +376,8 @@
 * [photoprism](https://github.com/photoprism/photoprism)
 * [n8n](https://github.com/n8n-io/n8n)
 * [LinkAce](https://github.com/Kovah/LinkAce)
+* [selfhosted-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
+
 
 
 
@@ -629,23 +631,21 @@
 * [pomodoro](https://github.com/Rukenshia/pomodoro)
 * [flutter-preview](https://github.com/aloisdeniel/flutter_device_preview)
 * [vibe-draw](https://github.com/martin226/vibe-draw)
-
----
 * [disposable-email-validator](https://github.com/wilsonadenuga/disposable-email-validator)
 * [rnote](http://github.com/flxzt/rnote)
-* [awesome-n8n](https://github.com/restyler/awesome-n8n)
 * [cheating-daddy](https://github.com/sohzm/cheating-daddy)
 * [FlopperZiro](https://github.com/lraton/FlopperZiro)
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit)
 * [AdventureLog](https://github.com/seanmorley15/AdventureLog)
 * [git-sim](https://github.com/initialcommit-com/git-sim)
-* [selfhosted-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
 * [zipline](https://github.com/diced/zipline)
 * [deadalOS](https://github.com/DustinBrett/daedalOS)
 * [hrms](https://github.com/frappe/hrms)
 * [donetick](https://github.com/donetick/donetick)
 * [filestash](https://github.com/mickael-kerjean/filestash)
 * [rescuezilla](https://github.com/rescuezilla/rescuezilla)
+
+---
 * [dawarich](https://github.com/Freika/dawarich)
 * [drag-and-drop-email-designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer)
 * [lossless-cut](https://github.com/mifi/lossless-cut)
@@ -1090,5 +1090,13 @@
 
 ## R
 * [gm](https://github.com/flujoo/gm)
+
+
+
+
+
+## n8n
+* [awesome-n8n](https://github.com/restyler/awesome-n8n)
+
 
 ---
