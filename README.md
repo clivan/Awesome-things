@@ -377,6 +377,10 @@
 * [n8n](https://github.com/n8n-io/n8n)
 * [LinkAce](https://github.com/Kovah/LinkAce)
 * [selfhosted-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
+* [dawarich](https://github.com/Freika/dawarich)
+* [shlink](https://github.com/shlinkio/shlink)
+* [calibre-web](https://github.com/janeczku/calibre-web)
+
 
 
 
@@ -644,12 +648,8 @@
 * [donetick](https://github.com/donetick/donetick)
 * [filestash](https://github.com/mickael-kerjean/filestash)
 * [rescuezilla](https://github.com/rescuezilla/rescuezilla)
-
----
-* [dawarich](https://github.com/Freika/dawarich)
 * [drag-and-drop-email-designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer)
 * [lossless-cut](https://github.com/mifi/lossless-cut)
-* [shlink](https://github.com/shlinkio/shlink)
 * [howdy](https://github.com/boltgolt/howdy)
 * [OliveTin](https://github.com/OliveTin/OliveTin)
 * [workout-cool](https://github.com/Snouzy/workout-cool)
@@ -660,7 +660,8 @@
 * [trip](https://github.com/itskovacs/trip)
 * [copyparty](https://github.com/9001/copyparty)
 * [tiny-tpu](https://github.com/tiny-tpu-v2/tiny-tpu)
-* [calibre-web](https://github.com/janeczku/calibre-web)
+
+---
 * [WeddingShare](https://github.com/Cirx08/WeddingShare)
 * [Wifi-3d-fusion](https://github.com/MaliosDark/wifi-3d-fusion)
 * [pencil](https://github.com/evolus/pencil)
