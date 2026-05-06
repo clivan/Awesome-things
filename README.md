@@ -674,8 +674,6 @@
 * [rendercv](https://github.com/rendercv/rendercv)
 * [AirTrail](https://github.com/johanohly/AirTrail)
 * [atopile](https://github.com/atopile/atopile)
-
----
 * [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
 * [SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
 * [exportify](https://github.com/watsonbox/exportify)
@@ -691,6 +689,8 @@
 * [Online3DViewer](https://github.com/kovacsv/Online3DViewer)
 * [Satty](https://github.com/Satty-org/Satty)
 * [BusPirate5-hardware](https://github.com/DangerousPrototypes/BusPirate5-hardware)
+
+---
 * [ChebyshevPolynomials](https://github.com/MurageKibicho/ChebyshevPolynomials)
 * [PicoCalc](https://github.com/clockworkpi/PicoCalc)
 * [hsdaoh-rp2350](https://github.com/steve-m/hsdaoh-rp2350)
