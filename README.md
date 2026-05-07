@@ -660,7 +660,7 @@
 * [trip](https://github.com/itskovacs/trip)
 * [copyparty](https://github.com/9001/copyparty)
 * [tiny-tpu](https://github.com/tiny-tpu-v2/tiny-tpu)
-* [Memtly](https://github.com/Memtly/Memtly.Community))
+* [Memtly](https://github.com/Memtly/Memtly.Community)
 * [Wifi-3d-fusion](https://github.com/MaliosDark/wifi-3d-fusion)
 * [pencil](https://github.com/evolus/pencil)
 * [nano-banana-infinimap](https://github.com/seezatnap/nano-banana-infinimap)
@@ -689,8 +689,6 @@
 * [Online3DViewer](https://github.com/kovacsv/Online3DViewer)
 * [Satty](https://github.com/Satty-org/Satty)
 * [BusPirate5-hardware](https://github.com/DangerousPrototypes/BusPirate5-hardware)
-
----
 * [ChebyshevPolynomials](https://github.com/MurageKibicho/ChebyshevPolynomials)
 * [PicoCalc](https://github.com/clockworkpi/PicoCalc)
 * [hsdaoh-rp2350](https://github.com/steve-m/hsdaoh-rp2350)
@@ -706,6 +704,8 @@
 * [boilerplates](https://github.com/ChristianLempa/boilerplates)
 * [minne](https://github.com/perstarkse/minne)
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+
+---
 * [copyous](https://github.com/boerdereinar/copyous)
 * [turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python)
 * [Zen-C](https://github.com/z-libs/Zen-C)
