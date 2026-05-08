@@ -364,7 +364,6 @@
 * [tubearchivist](https://github.com/tubearchivist/tubearchivist)
 * [Openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app)
 * [homelab](https://github.com/koel/koel)
-* [photoprism](https://github.com/photoprism/photoprism)
 * [immich-power-tools](https://github.com/varun-raj/immich-power-tools)
 * [dokuwiki](https://github.com/dokuwiki/dokuwiki)
 * [server](https://github.com/bitwarden/server)
