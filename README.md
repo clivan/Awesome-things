@@ -704,98 +704,11 @@
 * [boilerplates](https://github.com/ChristianLempa/boilerplates)
 * [minne](https://github.com/perstarkse/minne)
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
-
----
 * [copyous](https://github.com/boerdereinar/copyous)
 * [turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python)
 * [Zen-C](https://github.com/z-libs/Zen-C)
 * [awesome-os-setup](https://github.com/AmineDjeghri/awesome-os-setup)
 * [Dioxus](https://github.com/DioxusLabs/dioxus)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -817,6 +730,8 @@
 * [macos](https://github.com/dockur/macos)
 * [self-host-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)
 * [Rubber docker](https://github.com/Fewbytes/rubber-docker)
+
+---
 * [Mocker clone](https://github.com/tonybaloney/mocker)
 * [Dcker-Guide](https://github.com/mikeroyal/Docker-Guide)
 * [dockerfile](https://github.com/ann-felix/dockerfiles)
