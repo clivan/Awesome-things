@@ -727,8 +727,6 @@
 * [macos](https://github.com/dockur/macos)
 * [self-host-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)
 * [Rubber docker](https://github.com/Fewbytes/rubber-docker)
-
----
 * [Mocker clone](https://github.com/tonybaloney/mocker)
 * [Dcker-Guide](https://github.com/mikeroyal/Docker-Guide)
 * [dockerfile](https://github.com/ann-felix/dockerfiles)
@@ -752,6 +750,8 @@
 
 ## Kubernetes
 * [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+
+---
 * [kubewall](https://github.com/kubewall/kubewall)
 * [Kubernets-Guide](https://github.com/mikeroyal/Kubernetes-Guide)
 * [kubernetes-for-ml-engineers](https://github.com/Paulescu/kubernetes-for-ml-engineers)
