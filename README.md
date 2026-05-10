@@ -750,8 +750,6 @@
 
 ## Kubernetes
 * [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
-
----
 * [kubewall](https://github.com/kubewall/kubewall)
 * [Kubernets-Guide](https://github.com/mikeroyal/Kubernetes-Guide)
 * [kubernetes-for-ml-engineers](https://github.com/Paulescu/kubernetes-for-ml-engineers)
@@ -775,6 +773,8 @@
 * [Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide)
 * [Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide)
 * [awesome-devops](https://github.com/wmariuss/awesome-devops)
+
+---
 * [ZeroToHero-Azure-GitOps](https://github.com/praduman8435/ZeroToHero-Azure-GitOps)
 * [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
 * [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics)
