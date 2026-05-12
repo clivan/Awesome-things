@@ -802,8 +802,6 @@
 ## Data Bases
 * [awesome-db-tools](https://github.com/mgramin/awesome-db-tools)
 * [supabase](https://github.com/supabase/supabase)
-
----
 * [SQL-NoSQL-Guide](https://github.com/mikeroyal/SQL-NoSQL-Guide)
 * [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
 
@@ -837,6 +835,8 @@
 * [SQLite C++](https://github.com/SRombauts/SQLiteCpp)
 * [Matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
 * [Json C++](https://github.com/open-source-parsers/jsoncpp)
+
+---
 * [NumC++](https://github.com/dpilger26/NumCpp)
 * [SymEngine](https://github.com/symengine/symengine)
 * [C++ HTTPlib](https://github.com/yhirose/cpp-httplib)
