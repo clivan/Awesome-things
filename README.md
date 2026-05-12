@@ -773,8 +773,6 @@
 * [Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide)
 * [Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide)
 * [awesome-devops](https://github.com/wmariuss/awesome-devops)
-
----
 * [ZeroToHero-Azure-GitOps](https://github.com/praduman8435/ZeroToHero-Azure-GitOps)
 * [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
 * [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics)
@@ -804,6 +802,8 @@
 ## Data Bases
 * [awesome-db-tools](https://github.com/mgramin/awesome-db-tools)
 * [supabase](https://github.com/supabase/supabase)
+
+---
 * [SQL-NoSQL-Guide](https://github.com/mikeroyal/SQL-NoSQL-Guide)
 * [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
 
