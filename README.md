@@ -835,8 +835,6 @@
 * [SQLite C++](https://github.com/SRombauts/SQLiteCpp)
 * [Matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
 * [Json C++](https://github.com/open-source-parsers/jsoncpp)
-
----
 * [NumC++](https://github.com/dpilger26/NumCpp)
 * [SymEngine](https://github.com/symengine/symengine)
 * [C++ HTTPlib](https://github.com/yhirose/cpp-httplib)
@@ -851,6 +849,10 @@
 
 ## Android
 * [awesome-android](https://github.com/zserge/awesome-android)
+
+
+
+## Flutter
 * [Flutter App](https://github.com/sangvaleap/app-flutter-travel-app?fbclid=IwAR2GYgN5L2M2UEyQD4wjDfr7NcOsBA0pIEucQdhPCHVBSqyL4T4_8XDVIMk)
 * [Flutter-Guide](https://github.com/mikeroyal/Flutter-Guide)
 
@@ -871,6 +873,8 @@
 * [TheAlgorithms](https://github.com/TheAlgorithms/Python)
 * [cupy](https://github.com/cupy/cupy)
 * [nicegui](https://github.com/zauberzeug/nicegui)
+
+---
 * [Amazing-Python-scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
