@@ -873,8 +873,6 @@
 * [TheAlgorithms](https://github.com/TheAlgorithms/Python)
 * [cupy](https://github.com/cupy/cupy)
 * [nicegui](https://github.com/zauberzeug/nicegui)
-
----
 * [Amazing-Python-scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
@@ -899,6 +897,8 @@
 
 ## IoT
 * [thingsboard](https://github.com/thingsboard/thingsboard)
+
+---
 * [PangolinMQTT](https://github.com/philbowles/PangolinMQTT)
 * [RIOT](https://github.com/RIOT-OS/RIOT)
 * [IoT-Guide](https://github.com/mikeroyal/IoT-Guide)
