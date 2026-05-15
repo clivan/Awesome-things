@@ -897,8 +897,6 @@
 
 ## IoT
 * [thingsboard](https://github.com/thingsboard/thingsboard)
-
----
 * [PangolinMQTT](https://github.com/philbowles/PangolinMQTT)
 * [RIOT](https://github.com/RIOT-OS/RIOT)
 * [IoT-Guide](https://github.com/mikeroyal/IoT-Guide)
@@ -914,6 +912,8 @@
 * [hyperion](https://github.com/hyperion-project/hyperion.ng)
 * [esphome-components](https://github.com/EdJoPaTo/esphome-components)
 * [matt2influxdb](https://github.com/EdJoPaTo/mqtt2influxdb)
+
+---
 * [mqtt-smarthome](https://github.com/EdJoPaTo/mqtt-smarthome)
 
 
