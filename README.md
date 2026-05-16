@@ -912,8 +912,6 @@
 * [hyperion](https://github.com/hyperion-project/hyperion.ng)
 * [esphome-components](https://github.com/EdJoPaTo/esphome-components)
 * [matt2influxdb](https://github.com/EdJoPaTo/mqtt2influxdb)
-
----
 * [mqtt-smarthome](https://github.com/EdJoPaTo/mqtt-smarthome)
 
 
@@ -981,6 +979,8 @@
 ## OS
 * [How-to-make-a-computer-operating-system](https://github.com/0xAX/How-to-Make-a-Computer-Operating-System)
 * [XenevaOs](https://github.com/manaskamal/XenevaOS)
+
+---
 * [SerenityOS](https://github.com/SerenityOS/serenity)
 * [MS-DOS](https://github.com/microsoft/MS-DOS)
 * [hhuOS](https://github.com/hhuOS/hhuOS)
