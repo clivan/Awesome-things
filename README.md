@@ -71,6 +71,7 @@
 
 
 
+
 ### Tutorials
 * [artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python)
 * [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
@@ -198,6 +199,7 @@
 
 
 
+
 ## Computer Vision
 * [MachineVision Toolbox Python](https://github.com/petercorke/machinevision-toolbox-python)
 * [DBoW3](https://github.com/rmsalinas/DBow3)
@@ -209,8 +211,6 @@
 * [Computer-Vision-Guide](https://github.com/mikeroyal/Computer-Vision-Guide)
 * [fpga-vs-cpu-realtime-vision](https://github.com/soheilbh/fpga-vs-cpu-realtime-vision)
 * [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-
-
 
 
 
@@ -327,6 +327,7 @@
 * [olive](https://github.com/tsoding/olive.c)
 * [pi3d](https://github.com/Ebiroll/pi3d)
 
+
  
 
 
@@ -382,7 +383,6 @@
 
 
 
-
 ## Learning
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [free-for-dev](https://github.com/ripienaar/free-for-dev)
@@ -397,8 +397,6 @@
 * [free-certifications](https://github.com/cloudcommunity/Free-Certifications)
 * [DSA-Graph](https://github.com/D4rsh11/DSA-Graph)
 * [Shell](https://github.com/tokenrove/build-your-own-shell)
-
-
 
 
 
@@ -421,13 +419,12 @@
 
 
 
+
 ## Tools
 * [clad](https://github.com/vgvassilev/clad)
 * [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
 * [pdfarranger](https://github.com/pdfarranger/pdfarranger)
 * [difftastic](https://github.com/Wilfred/difftastic)
-
-
 
 
 
@@ -480,6 +477,7 @@
  
  
  
+
  
  ## Nice things
 * [windows-api-function-cheatsheet](https://github.com/7etsuo/windows-api-function-cheatsheets)
@@ -710,6 +708,7 @@
 
 
 
+
 ## Cyber Security
 * [Awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 * [Bruce](https://github.com/pr3y/Bruce)
@@ -746,13 +745,12 @@
 
 
 
-
-
 ## Kubernetes
 * [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 * [kubewall](https://github.com/kubewall/kubewall)
 * [Kubernets-Guide](https://github.com/mikeroyal/Kubernetes-Guide)
 * [kubernetes-for-ml-engineers](https://github.com/Paulescu/kubernetes-for-ml-engineers)
+
 
 
 
@@ -786,14 +784,6 @@
 * [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
 * [server-survival](https://github.com/pshenok/server-survival)
 * [DevOps-Project-Generator](https://github.com/NotHarshhaa/devops-project-generator)
-
-
-
-
-
-
-
-
 
 
 
@@ -846,9 +836,10 @@
 
 
 
-
 ## Android
 * [awesome-android](https://github.com/zserge/awesome-android)
+
+
 
 
 
@@ -892,9 +883,6 @@
 
 
 
-
-
-
 ## IoT
 * [thingsboard](https://github.com/thingsboard/thingsboard)
 * [PangolinMQTT](https://github.com/philbowles/PangolinMQTT)
@@ -918,16 +906,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 ## Node-RED
 * [Practical-Node-RED-Programming](https://github.com/PacktPublishing/-Practical-Node-RED-Programming)
 * [nodered-docker](https://github.com/node-red/node-red-docker)
@@ -939,6 +917,7 @@
 
 ## Javascript
 * [ploty.js](https://github.com/plotly/plotly.js)
+
 
 
 
@@ -960,11 +939,10 @@
 
 
 
-
-
 ### Matlab-Octave
 * [MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)
 * [Matlab-Guide](https://github.com/mikeroyal/MATLAB-Guide)
+
 
 
 
@@ -979,8 +957,6 @@
 ## OS
 * [How-to-make-a-computer-operating-system](https://github.com/0xAX/How-to-Make-a-Computer-Operating-System)
 * [XenevaOs](https://github.com/manaskamal/XenevaOS)
-
----
 * [SerenityOS](https://github.com/SerenityOS/serenity)
 * [MS-DOS](https://github.com/microsoft/MS-DOS)
 * [hhuOS](https://github.com/hhuOS/hhuOS)
@@ -991,16 +967,18 @@
 
 
 
-
-
-
 ## Software Architecture
 * [software-architecture-premier](https://github.com/sivaprasadreddy/software-architecture-premier)
+
+
+
 
 
 ## To install
 * [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster)
 * [Serial-studio](https://github.com/Serial-Studio/Serial-Studio)
+
+
 
 
 
