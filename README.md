@@ -266,7 +266,10 @@
 * [baremetal-arm](https://github.com/umanovskis/baremetal-arm)
 * [openAUTOSAR](https://github.com/Da-Vinci-Engineering/openAUTOSAR)
 * [AVR-projects](https://github.com/swharden/AVR-projects)
-
+* [AVR-Alarm-Clock](https://github.com/maximecb/AVR-Alarm-Clock)
+* [AVR-Annoyance](https://github.com/maximecb/AVR-Annoyance)
+* [atmega328kb](https://github.com/ccadic/atmega328kb)
+* [ATMEGA328PAU-Bootflasher](https://github.com/ccadic/ATMEGA328PAU-Bootflasher)
 
 
 
@@ -385,6 +388,7 @@
 * [dawarich](https://github.com/Freika/dawarich)
 * [shlink](https://github.com/shlinkio/shlink)
 * [calibre-web](https://github.com/janeczku/calibre-web)
+* [infra](https://github.com/homeinfra-org/infra)
 
 
 
@@ -461,6 +465,7 @@
 * [docker-static-website](https://github.com/lipanski/docker-static-website)
 * [book-of-modern-frontend-tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 * [css-animation-101](https://github.com/cssanimation/css-animation-101)
+* [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 
 
@@ -717,6 +722,11 @@
 * [awesome-os-setup](https://github.com/AmineDjeghri/awesome-os-setup)
 * [Dioxus](https://github.com/DioxusLabs/dioxus)
 * [noise-crafter](https://github.com/maximecb/noisecraft)
+* [PaperTapeReader](https://github.com/dhansel/PaperTapeReader)
+* [RackMinerESP32](https://github.com/ccadic/RackMinerESP32)
+* [NumberSpeaker](https://github.com/swharden/NumberSpeaker)
+* [PressureSensor](https://github.com/swharden/PressureSensor)
+* [KaaS](https://github.com/jimbrig/KaaS)
 
 
 
@@ -725,6 +735,7 @@
 ## Cyber Security
 * [Awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 * [Bruce](https://github.com/pr3y/Bruce)
+* [Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)
 
 
 
@@ -948,6 +959,7 @@
 * [vscode-latex-basics](https://github.com/jlelong/vscode-latex-basics)
 * [latexdiff](https://github.com/ftilmann/latexdiff)
 * [LaTeX Template](https://github.com/mihdicaballero/LaTeX-Projects?fbclid=IwAR22uYWXsTBvG3DQH0eYhnf__Z4mhXiPEOwatNwRB9_-t9RPsHf4A6POET0)
+* [WebLaTex](https://github.com/sanjib-sen/WebLaTex)
 
 
 
@@ -998,6 +1010,7 @@
 
 ## R
 * [gm](https://github.com/flujoo/gm)
+* [IPSUR](https://github.com/gjkerns/IPSUR)
 
 
 
