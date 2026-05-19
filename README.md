@@ -79,6 +79,7 @@
 * [llm-course](https://github.com/mlabonne/llm-course)
 * [ML-from-scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 * [DiffusionTransformerfromScratch](https://github.com/MurageKibicho/DiffusionTransformerfromScratch)
+* [GenerativeAI_Examples](https://github.com/NVIDIA/GenerativeAIExamples)
 
 
 
@@ -260,6 +261,12 @@
 * [RFIDtoEEPROM](https://github.com/GogoVega/RFIDtoEEPROM)
 * [lets_build_a_compiler_for_riscv](https://github.com/splinedrive/lets_build_a_compiler_for_riscv)
 * [tiny8](https://github.com/sql-hkr/tiny8)
+* [My_AUTOSAR_Project](https://github.com/leduynguyen/My_AUTOSAR_Project)
+* [AVR-cheat-sheet](https://github.com/amirbawab/AVR-cheat-sheet)
+* [baremetal-arm](https://github.com/umanovskis/baremetal-arm)
+* [openAUTOSAR](https://github.com/Da-Vinci-Engineering/openAUTOSAR)
+* [AVR-projects](https://github.com/swharden/AVR-projects)
+
 
 
 
@@ -415,6 +422,9 @@
 * [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source)
 * [Linux from scratch](https://github.com/arjuncr/Linux-from-scratch)
 * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1)
+* [OTTO](https://github.com/bitfieldaudio/OTTO)
+* [TI-92-KBD](https://github.com/GyroscopeLab/TI-92-KBD)
+* [TI92-revive](https://github.com/ccadic/TI92-revive)
 
 
 
@@ -449,6 +459,8 @@
 * [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 * [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 * [docker-static-website](https://github.com/lipanski/docker-static-website)
+* [book-of-modern-frontend-tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
+* [css-animation-101](https://github.com/cssanimation/css-animation-101)
 
 
 
@@ -704,6 +716,7 @@
 * [Zen-C](https://github.com/z-libs/Zen-C)
 * [awesome-os-setup](https://github.com/AmineDjeghri/awesome-os-setup)
 * [Dioxus](https://github.com/DioxusLabs/dioxus)
+* [noise-crafter](https://github.com/maximecb/noisecraft)
 
 
 
@@ -878,6 +891,7 @@
 * [PyUIBulider](https://github.com/PaulleDemon/PyUIBuilder)
 * [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 * [textual](https://github.com/Textualize/textual)
+* [magicmethods](https://github.com/RafeKettler/magicmethods)
 
 
 
