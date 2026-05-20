@@ -67,6 +67,8 @@
 * [mochi](https://github.com/genmoai/mochi)
 * [Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
 * [pytorch_fundamentals](https://github.com/analyticalrohit/pytorch_fundamentals)
+* [wild-gaussian-splatting](https://github.com/nerlfield/wild-gaussian-splatting)
+* 
 
 
 
@@ -275,6 +277,7 @@
 
 
 
+
 ## Electronic Stuff
 * [Adafruit CAD Parts](https://github.com/adafruit/Adafruit_CAD_Parts)
 * [PS$-ESP32](https://github.com/aed3/PS4-esp32)
@@ -328,6 +331,7 @@
 * [Chili3d](https://github.com/xiangechen/chili3d)
 * [genCAD](https://github.com/ferdous-alam/GenCAD)
 * [mayo](https://github.com/fougue/mayo)
+* [sdf](https://github.com/fogleman/sdf)
 
 
 
@@ -389,6 +393,7 @@
 * [shlink](https://github.com/shlinkio/shlink)
 * [calibre-web](https://github.com/janeczku/calibre-web)
 * [infra](https://github.com/homeinfra-org/infra)
+* [ExcerciseDiary](https://github.com/aceberg/ExerciseDiary)
 
 
 
@@ -429,6 +434,7 @@
 * [OTTO](https://github.com/bitfieldaudio/OTTO)
 * [TI-92-KBD](https://github.com/GyroscopeLab/TI-92-KBD)
 * [TI92-revive](https://github.com/ccadic/TI92-revive)
+* [PémAstrpTracker](https://github.com/OpenAstroTech/OpenAstroTracker)
 
 
 
@@ -727,6 +733,10 @@
 * [NumberSpeaker](https://github.com/swharden/NumberSpeaker)
 * [PressureSensor](https://github.com/swharden/PressureSensor)
 * [KaaS](https://github.com/jimbrig/KaaS)
+* [obsidianR](https://github.com/jimbrig/obsidianR)
+* [obsidian-vault](https://github.com/jimbrig/obsidian_vault)
+* [z80-sans](https://github.com/nevesnunes/z80-sans)
+* [primary-obsidian](https://github.com/primary-theme/obsidian)
 
 
 
@@ -736,6 +746,7 @@
 * [Awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 * [Bruce](https://github.com/pr3y/Bruce)
 * [Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)
+* [awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero)
 
 
 
@@ -926,6 +937,8 @@
 * [esphome-components](https://github.com/EdJoPaTo/esphome-components)
 * [matt2influxdb](https://github.com/EdJoPaTo/mqtt2influxdb)
 * [mqtt-smarthome](https://github.com/EdJoPaTo/mqtt-smarthome)
+* [pubsubclient](https://github.com/knolleary/pubsubclient)
+
 
 
 
@@ -960,6 +973,7 @@
 * [latexdiff](https://github.com/ftilmann/latexdiff)
 * [LaTeX Template](https://github.com/mihdicaballero/LaTeX-Projects?fbclid=IwAR22uYWXsTBvG3DQH0eYhnf__Z4mhXiPEOwatNwRB9_-t9RPsHf4A6POET0)
 * [WebLaTex](https://github.com/sanjib-sen/WebLaTex)
+* [Docker-TeXlive](https://github.com/dante-ev/docker-texlive)
 
 
 
@@ -1019,5 +1033,11 @@
 ## n8n
 * [awesome-n8n](https://github.com/restyler/awesome-n8n)
 
+
+
+
+
+## OSINT
+* [yesitsme](https://github.com/0x0be/yesitsme)
 
 ---
