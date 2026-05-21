@@ -86,6 +86,12 @@
 
 
 
+### Tools
+* [tensor.h](https://github.com/apoorvnandan/tensor.h)
+
+
+
+
 
 ### Compilation
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -198,6 +204,8 @@
 * [ESP-RC](https://github.com/BogdanTheGeek/ESP_RC)
 * [ESP32](https://github.com/DroneBridge/ESP32)
 * [webots](https://github.com/cyberbotics/webots)
+* [bambot](https://github.com/timqian/bambot)
+* [esp-drone](https://github.com/espressif/esp-drone)
 
 
 
@@ -394,6 +402,7 @@
 * [calibre-web](https://github.com/janeczku/calibre-web)
 * [infra](https://github.com/homeinfra-org/infra)
 * [ExcerciseDiary](https://github.com/aceberg/ExerciseDiary)
+* [calorific](https://github.com/xdpirate/calorific)
 
 
 
@@ -413,6 +422,7 @@
 * [free-certifications](https://github.com/cloudcommunity/Free-Certifications)
 * [DSA-Graph](https://github.com/D4rsh11/DSA-Graph)
 * [Shell](https://github.com/tokenrove/build-your-own-shell)
+* [awesome-german](https://github.com/willianpaixao/awesome-german)
 
 
 
@@ -434,7 +444,9 @@
 * [OTTO](https://github.com/bitfieldaudio/OTTO)
 * [TI-92-KBD](https://github.com/GyroscopeLab/TI-92-KBD)
 * [TI92-revive](https://github.com/ccadic/TI92-revive)
-* [PémAstrpTracker](https://github.com/OpenAstroTech/OpenAstroTracker)
+* [OpenAstroTracker](https://github.com/OpenAstroTech/OpenAstroTracker)
+* [OpenAstroFirmware](https://github.com/OpenAstroTech/OpenAstroFirmware)
+* [Milo-v1.5](https://github.com/MillenniumMachines/Milo-v1.5)
 
 
 
@@ -737,6 +749,8 @@
 * [obsidian-vault](https://github.com/jimbrig/obsidian_vault)
 * [z80-sans](https://github.com/nevesnunes/z80-sans)
 * [primary-obsidian](https://github.com/primary-theme/obsidian)
+* [GitJournal](https://github.com/GitJournal/GitJournal)
+* [GUIslice-Builder](https://github.com/ImpulseAdventure/GUIslice-Builder)
 
 
 
@@ -775,6 +789,7 @@
 * [composetollbox](https://github.com/bluegoosemedia/composetoolbox)
 * [docker-androinf](https://github.com/HQarroum/docker-android)
 * [podman-desktop](https://github.com/podman-desktop/podman-desktop)
+* [docker-wine](https://github.com/scottyhardy/docker-wine)
 
 
 
