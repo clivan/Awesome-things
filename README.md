@@ -82,6 +82,7 @@
 * [ML-from-scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 * [DiffusionTransformerfromScratch](https://github.com/MurageKibicho/DiffusionTransformerfromScratch)
 * [GenerativeAI_Examples](https://github.com/NVIDIA/GenerativeAIExamples)
+* [local-llm-examples](https://github.com/ryanmcdermott/local-llm-examples)
 
 
 
@@ -113,6 +114,7 @@
 * [nonlinear-control](https://github.com/AtsushiSakai/nonlinear_control)
 * [awesome-control-theory](https://github.com/A-make/awesome-control-theory)
 * [inverted-pendulum-igital-twin](https://github.com/soheilbh/inverted-pendelum-digital-twin)
+* [seq_kalman_filter](https://github.com/fabriziotappero/seq_kalman_filter)
 
 
 
@@ -206,6 +208,8 @@
 * [webots](https://github.com/cyberbotics/webots)
 * [bambot](https://github.com/timqian/bambot)
 * [esp-drone](https://github.com/espressif/esp-drone)
+* [ESP-DASH](https://github.com/ayushsharma82/ESP-DASH)
+* [GUISlice](https://github.com/ImpulseAdventure/GUIslice)
 
 
 
@@ -280,6 +284,11 @@
 * [AVR-Annoyance](https://github.com/maximecb/AVR-Annoyance)
 * [atmega328kb](https://github.com/ccadic/atmega328kb)
 * [ATMEGA328PAU-Bootflasher](https://github.com/ccadic/ATMEGA328PAU-Bootflasher)
+* [esp32-embed](https://github.com/fabriziotappero/esp32-embed)
+* [nanoESP32-S3](https://github.com/wuxx/nanoESP32-S3)
+* [esp32_mcp](https://github.com/fabriziotappero/esp32_mcp)
+* [GUIslice-Builder](https://github.com/ImpulseAdventure/GUIslice-Builder)
+* 
 
 
 
@@ -750,7 +759,7 @@
 * [z80-sans](https://github.com/nevesnunes/z80-sans)
 * [primary-obsidian](https://github.com/primary-theme/obsidian)
 * [GitJournal](https://github.com/GitJournal/GitJournal)
-* [GUIslice-Builder](https://github.com/ImpulseAdventure/GUIslice-Builder)
+* [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas)
 
 
 
