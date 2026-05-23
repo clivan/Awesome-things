@@ -288,6 +288,12 @@
 * [nanoESP32-S3](https://github.com/wuxx/nanoESP32-S3)
 * [esp32_mcp](https://github.com/fabriziotappero/esp32_mcp)
 * [GUIslice-Builder](https://github.com/ImpulseAdventure/GUIslice-Builder)
+* [nanoESP32-C3](https://github.com/wuxx/nanoESP32-C3)
+* [nanoESP32-C6](https://github.com/wuxx/nanoESP32-C6)
+* [nanoESP32-C2](https://github.com/wuxx/nanoESP32-S2)
+* [nanoESP32-C5](https://github.com/wuxx/nanoESP32-C5)
+* [esphome-devices](https://github.com/esphome/esphome-devices)
+* [protoviz-3d](https://github.com/dhanush777x/protoviz-3d)
 * 
 
 
@@ -760,6 +766,9 @@
 * [primary-obsidian](https://github.com/primary-theme/obsidian)
 * [GitJournal](https://github.com/GitJournal/GitJournal)
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas)
+* [awesome-math](https://github.com/rossant/awesome-math)
+* [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+* [Distributed-Camera-Node-Tracking-Systme](https://github.com/novatic14/Distributed-Camera-Node-Tracking-System)
 
 
 
@@ -897,6 +906,7 @@
 
 ## Android
 * [awesome-android](https://github.com/zserge/awesome-android)
+* [apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio)
 
 
 
