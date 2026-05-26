@@ -210,6 +210,8 @@
 * [esp-drone](https://github.com/espressif/esp-drone)
 * [ESP-DASH](https://github.com/ayushsharma82/ESP-DASH)
 * [GUISlice](https://github.com/ImpulseAdventure/GUIslice)
+* [speed-racer-rl](https://github.com/Tonssov88/speed-racer-rl)
+* [RoboVerse](https://github.com/RoboVerseOrg/RoboVerse)
 
 
 
@@ -294,7 +296,8 @@
 * [nanoESP32-C5](https://github.com/wuxx/nanoESP32-C5)
 * [esphome-devices](https://github.com/esphome/esphome-devices)
 * [protoviz-3d](https://github.com/dhanush777x/protoviz-3d)
-* 
+* [breezybox](https://github.com/valdanylchuk/breezybox)
+* [speeduino](https://github.com/speeduino/Hardware)
 
 
 
@@ -305,6 +308,7 @@
 * [Adafruit CAD Parts](https://github.com/adafruit/Adafruit_CAD_Parts)
 * [PS$-ESP32](https://github.com/aed3/PS4-esp32)
 * [cm5-reveng](https://github.com/schlae/cm5-reveng)
+* [cmos-clock](https://github.com/dilshan/cmos-clock)
 
 
 
@@ -524,6 +528,7 @@
 * [skfolio](https://github.com/skfolio/skfolio)
 * [developer-portfolios](https://github.com/milanm/developer-portfolios)
 * [beautifuly-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+* [gitprofile](https://github.com/arifszn/gitprofile)
  
  
  
@@ -769,6 +774,12 @@
 * [awesome-math](https://github.com/rossant/awesome-math)
 * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 * [Distributed-Camera-Node-Tracking-Systme](https://github.com/novatic14/Distributed-Camera-Node-Tracking-System)
+* [nk-missile-tests](https://github.com/nagix/nk-missile-tests)
+* [tvclipboard](https://github.com/akitaonrails/tvclipboard)
+* [iot-sourdough-starter-monitor](https://github.com/justinmklam/iot-sourdough-starter-monitor)
+* [web-to-app](http://github.com/shiahonb777/web-to-app)
+* [IKEA-3D-Model-Download-Button](https://github.com/apinanaivot/IKEA-3D-Model-Download-Button)
+* [Awesome-CV](https://github.com/posquit0/Awesome-CV)
 
 
 
@@ -948,6 +959,7 @@
 * [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 * [textual](https://github.com/Textualize/textual)
 * [magicmethods](https://github.com/RafeKettler/magicmethods)
+* [awesome-scientific-python](https://github.com/rossant/awesome-scientific-python)
 
 
 
@@ -1036,6 +1048,7 @@
 * [hhuOS](https://github.com/hhuOS/hhuOS)
 * [mini-riscv-os](https://github.com/splinedrive/mini-riscv-os)
 * [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+* [tinux](https://github.com/vaibhavpandeyvpz/tinux)
 
 
 
