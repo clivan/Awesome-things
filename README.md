@@ -298,6 +298,7 @@
 * [protoviz-3d](https://github.com/dhanush777x/protoviz-3d)
 * [breezybox](https://github.com/valdanylchuk/breezybox)
 * [speeduino](https://github.com/speeduino/Hardware)
+* [awesome-canbus](https://github.com/iDoka/awesome-canbus)
 
 
 
@@ -359,6 +360,7 @@
 * [genCAD](https://github.com/ferdous-alam/GenCAD)
 * [mayo](https://github.com/fougue/mayo)
 * [sdf](https://github.com/fogleman/sdf)
+* [dune3d](https://github.com/dune3d/dune3d)
 
 
 
@@ -780,6 +782,13 @@
 * [web-to-app](http://github.com/shiahonb777/web-to-app)
 * [IKEA-3D-Model-Download-Button](https://github.com/apinanaivot/IKEA-3D-Model-Download-Button)
 * [Awesome-CV](https://github.com/posquit0/Awesome-CV)
+* [OSHW-reCamera-Series](https://github.com/Seeed-Studio/OSHW-reCamera-Series)
+* [web-flight-simulator](https://github.com/dimartarmizi/web-flight-simulator)
+* [Qt-Advanced-Docking-System](https://github.com/mfreiholz/Qt-Advanced-Docking-System)
+* [Second-Brain](https://github.com/KasperZutterman/Second-Brain)
+* [open-dronelog](https://github.com/arpanghosh8453/open-dronelog)
+* [freecut](https://github.com/walterlow/freecut)
+* [SpreadPaper](https://github.com/spreadpaper/SpreadPaper)
 
 
 
@@ -790,6 +799,7 @@
 * [Bruce](https://github.com/pr3y/Bruce)
 * [Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)
 * [awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero)
+* [Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects)
 
 
 
@@ -1049,6 +1059,7 @@
 * [mini-riscv-os](https://github.com/splinedrive/mini-riscv-os)
 * [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 * [tinux](https://github.com/vaibhavpandeyvpz/tinux)
+* [mini-monolithic-kernel](https://github.com/dilshan/mini-monolithic-kernel)
 
 
 
@@ -1064,6 +1075,8 @@
 ## To install
 * [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster)
 * [Serial-studio](https://github.com/Serial-Studio/Serial-Studio)
+* [SigDigger](https://github.com/BatchDrake/SigDigger)
+* [EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro)
 
 
 
@@ -1079,6 +1092,7 @@
 
 ## n8n
 * [awesome-n8n](https://github.com/restyler/awesome-n8n)
+* [n8n-workflows](https://github.com/Zie619/n8n-workflows)
 
 
 
