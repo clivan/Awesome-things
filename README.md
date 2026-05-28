@@ -212,6 +212,8 @@
 * [GUISlice](https://github.com/ImpulseAdventure/GUIslice)
 * [speed-racer-rl](https://github.com/Tonssov88/speed-racer-rl)
 * [RoboVerse](https://github.com/RoboVerseOrg/RoboVerse)
+* [Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap)
+* [lumenpnp](https://github.com/opulo-inc/lumenpnp)
 
 
 
@@ -299,6 +301,13 @@
 * [breezybox](https://github.com/valdanylchuk/breezybox)
 * [speeduino](https://github.com/speeduino/Hardware)
 * [awesome-canbus](https://github.com/iDoka/awesome-canbus)
+* [STM8S208-CAN-Speed-Calculator](https://github.com/iDoka/STM8S208-CAN-Speed-Calculator)
+* [raspberrypi-recipes](https://github.com/iDoka/raspberrypi-recipes)
+* [awesome-linbus](https://github.com/iDoka/awesome-linbus)
+* [usbcan](https://github.com/BatchDrake/usbcan)
+* [awesome-automotive-can-id](https://github.com/iDoka/awesome-automotive-can-id)
+* [jcan](https://github.com/ImArjunJ/jcan)
+
 
 
 
@@ -325,6 +334,7 @@
 * [icestudio](https://github.com/FPGAwars/icestudio)
 * [VHDL-100-Projects](https://github.com/TheChipMaker/VHDL-100-Projects)}
 * [awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware)
+* [awesome-fpga-boards](https://github.com/iDoka/awesome-fpga-boards)
 
 
 
@@ -424,6 +434,7 @@
 * [infra](https://github.com/homeinfra-org/infra)
 * [ExcerciseDiary](https://github.com/aceberg/ExerciseDiary)
 * [calorific](https://github.com/xdpirate/calorific)
+* [LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan)
 
 
 
@@ -789,6 +800,7 @@
 * [open-dronelog](https://github.com/arpanghosh8453/open-dronelog)
 * [freecut](https://github.com/walterlow/freecut)
 * [SpreadPaper](https://github.com/spreadpaper/SpreadPaper)
+* [Blackpants](https://github.com/o7-machinehum/Blackpants)
 
 
 
