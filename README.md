@@ -214,6 +214,7 @@
 * [RoboVerse](https://github.com/RoboVerseOrg/RoboVerse)
 * [Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap)
 * [lumenpnp](https://github.com/opulo-inc/lumenpnp)
+* [RPi_ROS2_Camera_Publisher](https://github.com/jyjblrd/RPi_ROS2_Camera_Publisher)
 
 
 
@@ -307,6 +308,9 @@
 * [usbcan](https://github.com/BatchDrake/usbcan)
 * [awesome-automotive-can-id](https://github.com/iDoka/awesome-automotive-can-id)
 * [jcan](https://github.com/ImArjunJ/jcan)
+* [st-bare-metal](https://github.com/homemcu/stm-bare-metal)
+* [zephyr](https://github.com/zephyrproject-rtos/zephyr)
+* [garage-monitor](https://github.com/o7-machinehum/garage_monitor)
 
 
 
@@ -319,6 +323,8 @@
 * [PS$-ESP32](https://github.com/aed3/PS4-esp32)
 * [cm5-reveng](https://github.com/schlae/cm5-reveng)
 * [cmos-clock](https://github.com/dilshan/cmos-clock)
+* [JTAG_Adapter](https://github.com/o7-machinehum/JTAG_Adapter)
+* [kicad-vault](https://github.com/o7-machinehum/kicad-vault)
 
 
 
@@ -801,6 +807,15 @@
 * [freecut](https://github.com/walterlow/freecut)
 * [SpreadPaper](https://github.com/spreadpaper/SpreadPaper)
 * [Blackpants](https://github.com/o7-machinehum/Blackpants)
+* [wifiwar](https://github.com/o7-machinehum/wifiwart)
+* [3D-Printed-Film-Video-Camera](https://github.com/jyjblrd/3D-Printed-Film-Video-Camera)
+* [RepRapFirmware](https://github.com/Duet3D/RepRapFirmware)
+* [S4_Slicer](https://github.com/jyjblrd/S4_Slicer)
+* [Radial_Non_Planar_Slicer](https://github.com/jyjblrd/Radial_Non_Planar_Slicer)
+* [Core-R-Theta-4-Axis.Printer](https://github.com/jyjblrd/Core-R-Theta-4-Axis-Printer)
+* [diagrams](https://github.com/janosh/diagrams)
+* 
+
 
 
 
@@ -812,6 +827,7 @@
 * [Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)
 * [awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero)
 * [Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects)
+* [flipper-blackhat](https://github.com/o7-machinehum/flipper-blackhat)
 
 
 
