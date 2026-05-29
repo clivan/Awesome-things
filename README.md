@@ -215,6 +215,7 @@
 * [Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap)
 * [lumenpnp](https://github.com/opulo-inc/lumenpnp)
 * [RPi_ROS2_Camera_Publisher](https://github.com/jyjblrd/RPi_ROS2_Camera_Publisher)
+* [Sparks](https://github.com/o7-machinehum/Sparks)
 
 
 
@@ -311,6 +312,9 @@
 * [st-bare-metal](https://github.com/homemcu/stm-bare-metal)
 * [zephyr](https://github.com/zephyrproject-rtos/zephyr)
 * [garage-monitor](https://github.com/o7-machinehum/garage_monitor)
+* [rimage](https://github.com/thesofproject/rimage)
+* [awesome-zephir-rtos](https://github.com/golioth/awesome-zephyr-rtos)
+* 
 
 
 
@@ -522,6 +526,8 @@
 * [book-of-modern-frontend-tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 * [css-animation-101](https://github.com/cssanimation/css-animation-101)
 * [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+* [full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)
 
 
 
@@ -814,7 +820,14 @@
 * [Radial_Non_Planar_Slicer](https://github.com/jyjblrd/Radial_Non_Planar_Slicer)
 * [Core-R-Theta-4-Axis.Printer](https://github.com/jyjblrd/Core-R-Theta-4-Axis-Printer)
 * [diagrams](https://github.com/janosh/diagrams)
-* 
+* [numeric-simulations](https://github.com/janosh/numeric-simulations)
+* [OATFWGUI](https://github.com/OpenAstroTech/OATFWGUI)
+* [Obsidian-CodeSpace](https://github.com/UNLINEARITY/Obsidian-CodeSpace)
+* [pathsim](https://github.com/pathsim/pathsim)
+* [RuView](https://github.com/ruvnet/RuView)
+* [worldmonitor](https://github.com/koala73/worldmonitor)
+* [public-grafana-dashboards](https://github.com/arpanghosh8453/public-grafana-dashboards)
+* [SciBlend](https://github.com/SciBlend/SciBlend)
 
 
 
