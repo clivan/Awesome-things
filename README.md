@@ -216,6 +216,10 @@
 * [lumenpnp](https://github.com/opulo-inc/lumenpnp)
 * [RPi_ROS2_Camera_Publisher](https://github.com/jyjblrd/RPi_ROS2_Camera_Publisher)
 * [Sparks](https://github.com/o7-machinehum/Sparks)
+* [Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization](https://github.com/AntoBrandi/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization)
+* [URDF-Visualizer](https://github.com/UNLINEARITY/URDF-Visualizer)
+* [PAROL6-Desktop-robot-arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm)
+* 
 
 
 
@@ -314,7 +318,10 @@
 * [garage-monitor](https://github.com/o7-machinehum/garage_monitor)
 * [rimage](https://github.com/thesofproject/rimage)
 * [awesome-zephir-rtos](https://github.com/golioth/awesome-zephyr-rtos)
-* 
+* [as](https://github.com/autoas/as)
+* [ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect)
+* [aesome-embedded-software](https://github.com/iDoka/awesome-embedded-software)
+* [ecu](https://github.com/vapor-autos/ecu)
 
 
 
@@ -445,6 +452,8 @@
 * [ExcerciseDiary](https://github.com/aceberg/ExerciseDiary)
 * [calorific](https://github.com/xdpirate/calorific)
 * [LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan)
+* [endurain](https://github.com/endurain-project/endurain)
+* [Piwigo](https://github.com/Piwigo/Piwigo)
 
 
 
@@ -828,6 +837,11 @@
 * [worldmonitor](https://github.com/koala73/worldmonitor)
 * [public-grafana-dashboards](https://github.com/arpanghosh8453/public-grafana-dashboards)
 * [SciBlend](https://github.com/SciBlend/SciBlend)
+* [Proxmox](https://github.com/tteck/Proxmox)
+* [dji-logparser](https://github.com/lvauvillier/dji-log-parser)
+* [zotero-better-notes](https://github.com/windingwind/zotero-better-notes)
+* [Vane](https://github.com/ItzCrazyKns/Vane)
+* [awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware)
 
 
 
