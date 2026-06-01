@@ -219,7 +219,8 @@
 * [Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization](https://github.com/AntoBrandi/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization)
 * [URDF-Visualizer](https://github.com/UNLINEARITY/URDF-Visualizer)
 * [PAROL6-Desktop-robot-arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm)
-* 
+* [ROS.Mobile-Android](https://github.com/ROS-Mobile/ROS-Mobile-Android)
+* [slam-toolbox](https://github.com/SteveMacenski/slam_toolbox)
 
 
 
@@ -322,6 +323,8 @@
 * [ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect)
 * [aesome-embedded-software](https://github.com/iDoka/awesome-embedded-software)
 * [ecu](https://github.com/vapor-autos/ecu)
+* [GPS-Tracker](https://github.com/PCrnjak/GPS-tracker)
+* [cfile](https://github.com/cogu/cfile)
 
 
 
@@ -842,6 +845,7 @@
 * [zotero-better-notes](https://github.com/windingwind/zotero-better-notes)
 * [Vane](https://github.com/ItzCrazyKns/Vane)
 * [awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware)
+* [BetterSerialPlotter](https://github.com/nathandunk/BetterSerialPlotter)
 
 
 
@@ -1025,6 +1029,7 @@
 * [textual](https://github.com/Textualize/textual)
 * [magicmethods](https://github.com/RafeKettler/magicmethods)
 * [awesome-scientific-python](https://github.com/rossant/awesome-scientific-python)
+* [learn-python3](https://github.com/jerry-git/learn-python3)
 
 
 
