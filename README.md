@@ -68,7 +68,8 @@
 * [Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
 * [pytorch_fundamentals](https://github.com/analyticalrohit/pytorch_fundamentals)
 * [wild-gaussian-splatting](https://github.com/nerlfield/wild-gaussian-splatting)
-* 
+* [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
+* [ollama](https://github.com/ollama/ollama)
 
 
 
@@ -89,6 +90,7 @@
 
 ### Tools
 * [tensor.h](https://github.com/apoorvnandan/tensor.h)
+* [Neon-Image-Search](https://github.com/ItzCrazyKns/Neon-Image-Search)
 
 
 
@@ -221,6 +223,10 @@
 * [PAROL6-Desktop-robot-arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm)
 * [ROS.Mobile-Android](https://github.com/ROS-Mobile/ROS-Mobile-Android)
 * [slam-toolbox](https://github.com/SteveMacenski/slam_toolbox)
+* [3D-printed-Hexapod](https://github.com/PCrnjak/3D-printed-Hexapod)
+* [Robotics-and-ROS-Learn-by-Doing-Manipulators](https://github.com/AntoBrandi/Robotics-and-ROS-Learn-by-Doing-Manipulators)
+* [Self-Driving-and-ROS-Learn-by-Doing-Odometry-Control](https://github.com/AntoBrandi/Self-Driving-and-ROS-Learn-by-Doing-Odometry-Control)
+* [Arduino-Bot](https://github.com/AntoBrandi/Arduino-Bot)
 
 
 
@@ -325,6 +331,13 @@
 * [ecu](https://github.com/vapor-autos/ecu)
 * [GPS-Tracker](https://github.com/PCrnjak/GPS-tracker)
 * [cfile](https://github.com/cogu/cfile)
+* [nOS](https://github.com/jimtremblay/nOS)
+* [autosar-demo](https://github.com/cogu/autosar-demo)
+* [apx-docu](https://github.com/cogu/apx-doc)
+* [cpp-apx](https://github.com/cogu/cpp-apx)
+* [amber](https://github.com/cogu/amber)
+* [ESP32ManyRoundScreenTest](https://github.com/thelastoutpostworkshop/ESP32ManyRoundScreenTest)
+* [SpectralMicroROS2](https://github.com/PCrnjak/SpectralMicroROS2)
 
 
 
@@ -339,6 +352,7 @@
 * [cmos-clock](https://github.com/dilshan/cmos-clock)
 * [JTAG_Adapter](https://github.com/o7-machinehum/JTAG_Adapter)
 * [kicad-vault](https://github.com/o7-machinehum/kicad-vault)
+* [eda-scripts](https://github.com/iDoka/eda-scripts)
 
 
 
