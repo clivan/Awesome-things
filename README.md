@@ -84,6 +84,7 @@
 * [DiffusionTransformerfromScratch](https://github.com/MurageKibicho/DiffusionTransformerfromScratch)
 * [GenerativeAI_Examples](https://github.com/NVIDIA/GenerativeAIExamples)
 * [local-llm-examples](https://github.com/ryanmcdermott/local-llm-examples)
+* [ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel)
 
 
 
@@ -227,6 +228,10 @@
 * [Robotics-and-ROS-Learn-by-Doing-Manipulators](https://github.com/AntoBrandi/Robotics-and-ROS-Learn-by-Doing-Manipulators)
 * [Self-Driving-and-ROS-Learn-by-Doing-Odometry-Control](https://github.com/AntoBrandi/Self-Driving-and-ROS-Learn-by-Doing-Odometry-Control)
 * [Arduino-Bot](https://github.com/AntoBrandi/Arduino-Bot)
+* [PAROL6-ROS2-MOVEIT](https://github.com/PCrnjak/PAROL6-ROS2-MOVEIT)
+* [Self-Driving-and-ROS-2-Learn-by-Doing-Odometry-Control](https://github.com/AntoBrandi/Self-Driving-and-ROS-2-Learn-by-Doing-Odometry-Control)
+* [Self-Driving-and-ROS-2-Learn-by-Doing-Plan-Navigation](https://github.com/AntoBrandi/Self-Driving-and-ROS-2-Learn-by-Doing-Plan-Navigation)
+* [Robotics-and-ROS-2-Learn-by-Doing-Manipulators](https://github.com/AntoBrandi/Robotics-and-ROS-2-Learn-by-Doing-Manipulators)
 
 
 
@@ -338,6 +343,12 @@
 * [amber](https://github.com/cogu/amber)
 * [ESP32ManyRoundScreenTest](https://github.com/thelastoutpostworkshop/ESP32ManyRoundScreenTest)
 * [SpectralMicroROS2](https://github.com/PCrnjak/SpectralMicroROS2)
+* [nOS-examples](https://github.com/jimtremblay/nOS-examples)
+* [esp32-task-demo](https://github.com/thelastoutpostworkshop/esp32_task_demo)
+* [CANvas-adapter](http://github.com/PCrnjak/CANvas-adapter)
+* [SpectralMicroArduino](https://github.com/PCrnjak/SpectralMicroArduino)
+* [ESP32LCDRound240x240Eyes](https://github.com/thelastoutpostworkshop/ESP32LCDRound240x240Eyes)
+* [autosar](https://github.com/cogu/autosar) 
 
 
 
@@ -860,6 +871,7 @@
 * [Vane](https://github.com/ItzCrazyKns/Vane)
 * [awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware)
 * [BetterSerialPlotter](https://github.com/nathandunk/BetterSerialPlotter)
+* [overleaf-zotero-sync](https://github.com/windingwind/overleaf-zotero-sync)
 
 
 
