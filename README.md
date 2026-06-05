@@ -105,6 +105,7 @@
 * [Keras-Guide](https://github.com/mikeroyal/Keras-Guide)
 * [Deep-Learning-Guide](https://github.com/mikeroyal/Deep-Learning-Guide)
 * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
+* [awesome-machine-learnin-resources](https://github.com/ZhiningLiu1998/awesome-machine-learning-resources)
 
 
 
@@ -232,6 +233,7 @@
 * [Self-Driving-and-ROS-2-Learn-by-Doing-Odometry-Control](https://github.com/AntoBrandi/Self-Driving-and-ROS-2-Learn-by-Doing-Odometry-Control)
 * [Self-Driving-and-ROS-2-Learn-by-Doing-Plan-Navigation](https://github.com/AntoBrandi/Self-Driving-and-ROS-2-Learn-by-Doing-Plan-Navigation)
 * [Robotics-and-ROS-2-Learn-by-Doing-Manipulators](https://github.com/AntoBrandi/Robotics-and-ROS-2-Learn-by-Doing-Manipulators)
+* [feldfreund_devkit_ros](https://github.com/zauberzeug/feldfreund_devkit_ros)
 
 
 
@@ -348,7 +350,9 @@
 * [CANvas-adapter](http://github.com/PCrnjak/CANvas-adapter)
 * [SpectralMicroArduino](https://github.com/PCrnjak/SpectralMicroArduino)
 * [ESP32LCDRound240x240Eyes](https://github.com/thelastoutpostworkshop/ESP32LCDRound240x240Eyes)
-* [autosar](https://github.com/cogu/autosar) 
+* [autosar](https://github.com/cogu/autosar)
+* [ESP32Partitionbuilder](https://github.com/thelastoutpostworkshop/ESP32PartitionBuilder)
+* [JC4827W543_WifiAnalyzer](https://github.com/thelastoutpostworkshop/JC4827W543_WifiAnalyzer)
 
 
 
@@ -872,6 +876,11 @@
 * [awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware)
 * [BetterSerialPlotter](https://github.com/nathandunk/BetterSerialPlotter)
 * [overleaf-zotero-sync](https://github.com/windingwind/overleaf-zotero-sync)
+* [omniverse](https://github.com/adithya-s-k/omniparse)
+* [flipperone-mcu-firmware](https://github.com/flipperdevices/flipperone-mcu-firmware)
+* [MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+* [map-to-poster](https://github.com/dimartarmizi/map-to-poster)
+* [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
 
 
@@ -914,6 +923,8 @@
 * [docker-androinf](https://github.com/HQarroum/docker-android)
 * [podman-desktop](https://github.com/podman-desktop/podman-desktop)
 * [docker-wine](https://github.com/scottyhardy/docker-wine)
+* [docker-ros2-desktop-vnc](https://github.com/Tiryoh/docker-ros2-desktop-vnc)
+  
 
 
 
