@@ -88,6 +88,8 @@
 * [ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel)
 * [RAG-from-scratch](https://github.com/skandavivek/RAG-From-Scratch)
 * [llama-cookbook](https://github.com/meta-llama/llama-cookbook)
+* [Iris-Flower-Classification](https://github.com/prathimacode-hub/Iris-Flower-Classification)
+* [self-RAG](https://github.com/skandavivek/self-RAG)
 
 
 
@@ -95,6 +97,7 @@
 ### Tools
 * [tensor.h](https://github.com/apoorvnandan/tensor.h)
 * [Neon-Image-Search](https://github.com/ItzCrazyKns/Neon-Image-Search)
+* [llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
 
 
 
@@ -243,6 +246,12 @@
 * [ros2-esp32bot](https://github.com/shirokunet/ros2_esp32bot)
 * [open-vsla,](https://github.com/stella-cv/stella_vslam)
 * [turtlebot3_simulations](https://github.com/ROBOTIS-GIT/turtlebot3_simulations)
+* [jetson-scripts](https://github.com/dusty-nv/jetson-scripts)
+* [openpilot](https://github.com/commaai/openpilot)
+* [ros2_turtlebot3_open_manipulator_ws](https://github.com/shirokunet/ros2_turtlebot3_open_manipulator_ws)
+* [ros2_behavior_tree_ws](https://github.com/shirokunet/ros2_behavior_tree_ws)
+* [ros2ci](https://github.com/mikaelarguedas/ros2ci)
+* [ORB_SLAM2_CUDA](https://github.com/thien94/ORB_SLAM2_CUDA)
 
 
 
@@ -261,6 +270,9 @@
 * [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 * [learnopencv](https://github.com/spmallick/learnopencv)
 * [computer_vision_projects](https://github.com/adithya-s-k/computer_vision_projects)
+* [lane_segmentation](https://github.com/shirokunet/lane_segmentation)
+* [Breast-Cancer-Prediction](https://github.com/prathimacode-hub/Breast-Cancer-Prediction)
+* 
 
 
 
