@@ -75,6 +75,7 @@
 
 
 
+
 ### Tutorials
 * [artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python)
 * [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
@@ -85,6 +86,8 @@
 * [GenerativeAI_Examples](https://github.com/NVIDIA/GenerativeAIExamples)
 * [local-llm-examples](https://github.com/ryanmcdermott/local-llm-examples)
 * [ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel)
+* [RAG-from-scratch](https://github.com/skandavivek/RAG-From-Scratch)
+* [llama-cookbook](https://github.com/meta-llama/llama-cookbook)
 
 
 
@@ -234,6 +237,12 @@
 * [Self-Driving-and-ROS-2-Learn-by-Doing-Plan-Navigation](https://github.com/AntoBrandi/Self-Driving-and-ROS-2-Learn-by-Doing-Plan-Navigation)
 * [Robotics-and-ROS-2-Learn-by-Doing-Manipulators](https://github.com/AntoBrandi/Robotics-and-ROS-2-Learn-by-Doing-Manipulators)
 * [feldfreund_devkit_ros](https://github.com/zauberzeug/feldfreund_devkit_ros)
+* [jetbot_ros](https://github.com/dusty-nv/jetbot_ros)
+* [jetson-container](https://github.com/dusty-nv/jetson-containers)
+* [jetson-utils](https://github.com/dusty-nv/jetson-utils)
+* [ros2-esp32bot](https://github.com/shirokunet/ros2_esp32bot)
+* [open-vsla,](https://github.com/stella-cv/stella_vslam)
+* [turtlebot3_simulations](https://github.com/ROBOTIS-GIT/turtlebot3_simulations)
 
 
 
@@ -250,6 +259,8 @@
 * [Computer-Vision-Guide](https://github.com/mikeroyal/Computer-Vision-Guide)
 * [fpga-vs-cpu-realtime-vision](https://github.com/soheilbh/fpga-vs-cpu-realtime-vision)
 * [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+* [learnopencv](https://github.com/spmallick/learnopencv)
+* [computer_vision_projects](https://github.com/adithya-s-k/computer_vision_projects)
 
 
 
@@ -924,6 +935,8 @@
 * [podman-desktop](https://github.com/podman-desktop/podman-desktop)
 * [docker-wine](https://github.com/scottyhardy/docker-wine)
 * [docker-ros2-desktop-vnc](https://github.com/Tiryoh/docker-ros2-desktop-vnc)
+* [docker-esptool](https://github.com/Tiryoh/docker-esptool)
+* [docker-stm32cubeide](https://github.com/Tiryoh/docker-stm32cubeide)
   
 
 
@@ -1091,6 +1104,7 @@
 * [matt2influxdb](https://github.com/EdJoPaTo/mqtt2influxdb)
 * [mqtt-smarthome](https://github.com/EdJoPaTo/mqtt-smarthome)
 * [pubsubclient](https://github.com/knolleary/pubsubclient)
+* [IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 
 
 
