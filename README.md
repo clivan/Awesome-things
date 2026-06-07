@@ -70,6 +70,7 @@
 * [wild-gaussian-splatting](https://github.com/nerlfield/wild-gaussian-splatting)
 * [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
 * [ollama](https://github.com/ollama/ollama)
+* [NanoLLM](https://github.com/dusty-nv/NanoLLM)
 
 
 
@@ -112,6 +113,7 @@
 * [Deep-Learning-Guide](https://github.com/mikeroyal/Deep-Learning-Guide)
 * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
 * [awesome-machine-learnin-resources](https://github.com/ZhiningLiu1998/awesome-machine-learning-resources)
+* [jetson-ai-lab](https://github.com/NVIDIA-AI-IOT/jetson-ai-lab)
 
 
 
@@ -252,6 +254,10 @@
 * [ros2_behavior_tree_ws](https://github.com/shirokunet/ros2_behavior_tree_ws)
 * [ros2ci](https://github.com/mikaelarguedas/ros2ci)
 * [ORB_SLAM2_CUDA](https://github.com/thien94/ORB_SLAM2_CUDA)
+* [docker_templates](https://github.com/osrf/docker_templates)
+* [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
+* [ros2_esp32car](https://github.com/shirokunet/ros2_esp32car)
+* [nanosaur](https://github.com/rnanosaur/nanosaur)
 
 
 
@@ -376,6 +382,7 @@
 * [autosar](https://github.com/cogu/autosar)
 * [ESP32Partitionbuilder](https://github.com/thelastoutpostworkshop/ESP32PartitionBuilder)
 * [JC4827W543_WifiAnalyzer](https://github.com/thelastoutpostworkshop/JC4827W543_WifiAnalyzer)
+* [RTOS_Training1_CommandLine](https://github.com/thien94/RTOS_Training1_CommandLine)
 
 
 
@@ -904,6 +911,10 @@
 * [MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
 * [map-to-poster](https://github.com/dimartarmizi/map-to-poster)
 * [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+* [termux-packages](https://github.com/termux/termux-packages)
+* [VideoProcessingFramework](https://github.com/NVIDIA/VideoProcessingFramework)
+* [engine-sim](https://github.com/ange-yaghi/engine-sim)
+* [RAG-Doc-Parsers](https://github.com/skandavivek/RAG-Doc-Parsers)
 
 
 
