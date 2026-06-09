@@ -91,6 +91,7 @@
 * [llama-cookbook](https://github.com/meta-llama/llama-cookbook)
 * [Iris-Flower-Classification](https://github.com/prathimacode-hub/Iris-Flower-Classification)
 * [self-RAG](https://github.com/skandavivek/self-RAG)
+* [Basic-RAG](https://github.com/skandavivek/Basic-RAG)
 
 
 
@@ -258,6 +259,12 @@
 * [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
 * [ros2_esp32car](https://github.com/shirokunet/ros2_esp32car)
 * [nanosaur](https://github.com/rnanosaur/nanosaur)
+* [ros-builder-action](https://github.com/ubi-agni/ros-builder-action)
+* [zeroth-bot](https://github.com/zeroth-robotics/zeroth-bot)
+* [l4t-ros2-docker](https://github.com/atinfinity/l4t-ros2-docker)
+* [drivecore](https://github.com/farmbot-ros/drivecore)
+* [trailbalzer](https://github.com/farmbot-ros/trailblazer)
+* [docker-ros](https://github.com/Tiryoh/docker-ros)
 
 
 
@@ -599,6 +606,7 @@
 * [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 * [full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)
+* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
 
 
 
@@ -915,6 +923,13 @@
 * [VideoProcessingFramework](https://github.com/NVIDIA/VideoProcessingFramework)
 * [engine-sim](https://github.com/ange-yaghi/engine-sim)
 * [RAG-Doc-Parsers](https://github.com/skandavivek/RAG-Doc-Parsers)
+* [AE-370-Numerical-Methods](https://github.com/SteveMacenski/AE-370-Numerical-Methods)
+* [AE-483-Decision-Algorithms](https://github.com/SteveMacenski/AE-483-Decision-Algorithms)
+* [AE-353-Aerospace-Conytol-Systems](https://github.com/SteveMacenski/AE-353-Aerospace-Control-Systems)
+* [AE-352-Aerospace-Dynamical-Systems](https://github.com/SteveMacenski/AE-352-Aerospace-Dynamical-Systems)
+* [AE-461-Structures-LAb](https://github.com/SteveMacenski/AE-461-Structures-Lab)
+* [ComputerVision](https://github.com/SteveMacenski/ComputerVision)
+* [BlenderGIS](https://github.com/domlysz/BlenderGIS)
 
 
 
