@@ -265,6 +265,14 @@
 * [drivecore](https://github.com/farmbot-ros/drivecore)
 * [trailbalzer](https://github.com/farmbot-ros/trailblazer)
 * [docker-ros](https://github.com/Tiryoh/docker-ros)
+* [CarND-Advanced-Lane-Lines](https://github.com/atinfinity/CarND-Advanced-Lane-Lines)
+* [CarND-Extended-Kalman-Filter-Project](https://github.com/atinfinity/CarND-Extended-Kalman-Filter-Project)
+* [CarND-Kidnapped-Vehicle-Project](https://github.com/atinfinity/CarND-Kidnapped-Vehicle-Project)
+* [CarND-PID-Control-Project](https://github.com/atinfinity/CarND-PID-Control-Project)
+* [mecanumrover_samples](https://github.com/vstoneofficial/mecanumrover_samples)
+* [se2_navigation](https://github.com/leggedrobotics/se2_navigation)
+* [robot_descriptions.py](https://github.com/robot-descriptions/robot_descriptions.py)
+* [docker-ros2](https://github.com/Tiryoh/docker-ros2)
 
 
 
@@ -390,6 +398,7 @@
 * [ESP32Partitionbuilder](https://github.com/thelastoutpostworkshop/ESP32PartitionBuilder)
 * [JC4827W543_WifiAnalyzer](https://github.com/thelastoutpostworkshop/JC4827W543_WifiAnalyzer)
 * [RTOS_Training1_CommandLine](https://github.com/thien94/RTOS_Training1_CommandLine)
+* [dshare-hid](https://github.com/lockekk/dshare-hid)
 
 
 
@@ -930,6 +939,11 @@
 * [AE-461-Structures-LAb](https://github.com/SteveMacenski/AE-461-Structures-Lab)
 * [ComputerVision](https://github.com/SteveMacenski/ComputerVision)
 * [BlenderGIS](https://github.com/domlysz/BlenderGIS)
+* [OpenSFC](https://github.com/starlightk7/OpenSFC)
+* [VL53L5CX-BNO08X-viewer](https://github.com/ferrolho/VL53L5CX-BNO08X-viewer)
+* [PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
+* [OpenDocs](https://github.com/ioteverythin/OpenDocs)
+* [jetlog](https://github.com/pbogre/jetlog)
 
 
 
