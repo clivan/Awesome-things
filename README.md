@@ -92,6 +92,7 @@
 * [Iris-Flower-Classification](https://github.com/prathimacode-hub/Iris-Flower-Classification)
 * [self-RAG](https://github.com/skandavivek/self-RAG)
 * [Basic-RAG](https://github.com/skandavivek/Basic-RAG)
+* [DataAnalystPortfolioProjects](https://github.com/PriyankaJhaTheDeveloper/DataAnalystPortfolioProjects)
 
 
 
@@ -100,6 +101,7 @@
 * [tensor.h](https://github.com/apoorvnandan/tensor.h)
 * [Neon-Image-Search](https://github.com/ItzCrazyKns/Neon-Image-Search)
 * [llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
+* [skales](https://github.com/skalesapp/skales)
 
 
 
@@ -115,6 +117,7 @@
 * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
 * [awesome-machine-learnin-resources](https://github.com/ZhiningLiu1998/awesome-machine-learning-resources)
 * [jetson-ai-lab](https://github.com/NVIDIA-AI-IOT/jetson-ai-lab)
+* [awesome-ai-agents](https://github.com/jim-schwoebel/awesome_ai_agents)
 
 
 
@@ -273,6 +276,8 @@
 * [se2_navigation](https://github.com/leggedrobotics/se2_navigation)
 * [robot_descriptions.py](https://github.com/robot-descriptions/robot_descriptions.py)
 * [docker-ros2](https://github.com/Tiryoh/docker-ros2)
+* [autoware_vision_pilot](https://github.com/autowarefoundation/autoware_vision_pilot)
+* [vuer](https://github.com/vuer-ai/vuer)
 
 
 
@@ -414,6 +419,7 @@
 * [JTAG_Adapter](https://github.com/o7-machinehum/JTAG_Adapter)
 * [kicad-vault](https://github.com/o7-machinehum/kicad-vault)
 * [eda-scripts](https://github.com/iDoka/eda-scripts)
+* [tscircuit](https://github.com/tscircuit/tscircuit)
 
 
 
@@ -944,6 +950,13 @@
 * [PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
 * [OpenDocs](https://github.com/ioteverythin/OpenDocs)
 * [jetlog](https://github.com/pbogre/jetlog)
+* [OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
+* [StackChan](https://github.com/m5stack/StackChan)
+* [ground-station](https://github.com/sgoudelis/ground-station)
+* [editor](https://github.com/pascalorg/editor)
+* [ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer)
+* [Openstock](https://github.com/Open-Dev-Society/OpenStock)
+
 
 
 
@@ -1157,6 +1170,9 @@
 * [mqtt-smarthome](https://github.com/EdJoPaTo/mqtt-smarthome)
 * [pubsubclient](https://github.com/knolleary/pubsubclient)
 * [IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+* [core](https://github.com/home-assistant/core)
+* [Nif-T](https://github.com/SharKingStudios/Nif-T)
+
 
 
 
