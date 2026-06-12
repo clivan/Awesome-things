@@ -71,6 +71,8 @@
 * [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
 * [ollama](https://github.com/ollama/ollama)
 * [NanoLLM](https://github.com/dusty-nv/NanoLLM)
+* [agentscope](https://github.com/agentscope-ai/agentscope)
+
 
 
 
@@ -93,6 +95,7 @@
 * [self-RAG](https://github.com/skandavivek/self-RAG)
 * [Basic-RAG](https://github.com/skandavivek/Basic-RAG)
 * [DataAnalystPortfolioProjects](https://github.com/PriyankaJhaTheDeveloper/DataAnalystPortfolioProjects)
+* [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
 
 
 
@@ -278,6 +281,9 @@
 * [docker-ros2](https://github.com/Tiryoh/docker-ros2)
 * [autoware_vision_pilot](https://github.com/autowarefoundation/autoware_vision_pilot)
 * [vuer](https://github.com/vuer-ai/vuer)
+* [jetbot](https://github.com/NVIDIA-AI-IOT/jetbot)
+* [ros2-deepstream](https://github.com/NVIDIA-AI-IOT/ros2_deepstream)
+* [isaac_ros_image-pipeline](https://github.com/NVIDIA-AI-IOT/isaac_ros_image_pipeline)
 
 
 
@@ -538,6 +544,7 @@
 * [LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan)
 * [endurain](https://github.com/endurain-project/endurain)
 * [Piwigo](https://github.com/Piwigo/Piwigo)
+* [TREK](https://github.com/mauriceboe/TREK)
 
 
 
@@ -956,6 +963,17 @@
 * [editor](https://github.com/pascalorg/editor)
 * [ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer)
 * [Openstock](https://github.com/Open-Dev-Society/OpenStock)
+* [DeadReckoning](https://github.com/nisargnp/DeadReckoning)
+* [lolra](https://github.com/cnlohr/lolra)
+* [PrismCNC](https://github.com/SharKingStudios/Prism-CNC)
+* [opendronelog-sync](https://github.com/arpanghosh8453/opendronelog-sync)
+* [diy-synths](https://github.com/Atarity/diy-synths)
+* [pi-isp](https://github.com/geerlingguy/pi-isp)
+* [atopile](https://github.com/atopile/atopile)
+* [twenty](https://github.com/twentyhq/twenty)
+* [openclaude](https://github.com/Gitlawb/openclaude)
+* [pretext](https://github.com/chenglou/pretext)
+* [drawdb](https://github.com/drawdb-io/drawdb)
 
 
 
