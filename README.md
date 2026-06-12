@@ -72,6 +72,12 @@
 * [ollama](https://github.com/ollama/ollama)
 * [NanoLLM](https://github.com/dusty-nv/NanoLLM)
 * [agentscope](https://github.com/agentscope-ai/agentscope)
+* [llama2.c](https://github.com/karpathy/llama2.c)
+* [llm.c](https://github.com/karpathy/llm.c)
+* [nanoGPT](https://github.com/karpathy/nanoGPT)
+* [pi-cluster](https://github.com/geerlingguy/pi-cluster)
+* [pi-router](https://github.com/geerlingguy/pi-router)
+* [mcp-server-odoo](https://github.com/ivnvxd/mcp-server-odoo)
 
 
 
@@ -96,6 +102,7 @@
 * [Basic-RAG](https://github.com/skandavivek/Basic-RAG)
 * [DataAnalystPortfolioProjects](https://github.com/PriyankaJhaTheDeveloper/DataAnalystPortfolioProjects)
 * [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
+* [buil-nanogpt](https://github.com/karpathy/build-nanogpt)
 
 
 
@@ -105,6 +112,7 @@
 * [Neon-Image-Search](https://github.com/ItzCrazyKns/Neon-Image-Search)
 * [llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
 * [skales](https://github.com/skalesapp/skales)
+* [personal-ai-assistant](https://github.com/kaymen99/personal-ai-assistant)
 
 
 
@@ -284,6 +292,8 @@
 * [jetbot](https://github.com/NVIDIA-AI-IOT/jetbot)
 * [ros2-deepstream](https://github.com/NVIDIA-AI-IOT/ros2_deepstream)
 * [isaac_ros_image-pipeline](https://github.com/NVIDIA-AI-IOT/isaac_ros_image_pipeline)
+* [Bumper-Bot](https://github.com/AntoBrandi/Bumper-Bot)
+
 
 
 
@@ -565,6 +575,7 @@
 * [DSA-Graph](https://github.com/D4rsh11/DSA-Graph)
 * [Shell](https://github.com/tokenrove/build-your-own-shell)
 * [awesome-german](https://github.com/willianpaixao/awesome-german)
+* [assembly-notes](https://github.com/cnlohr/assembly-notes)
 
 
 
@@ -974,6 +985,11 @@
 * [openclaude](https://github.com/Gitlawb/openclaude)
 * [pretext](https://github.com/chenglou/pretext)
 * [drawdb](https://github.com/drawdb-io/drawdb)
+* [pi4gpu](https://github.com/geerlingguy/pi4gpu)
+* [epaper_projects](https://github.com/cnlohr/epaper_projects)
+* [refugiOS](https://github.com/Ganso/refugiOS)
+* [ncSender](https://github.com/siganberg/ncSender)
+* [foldergram](https://github.com/foldergram/foldergram)
 
 
 
