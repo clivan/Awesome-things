@@ -78,6 +78,9 @@
 * [pi-cluster](https://github.com/geerlingguy/pi-cluster)
 * [pi-router](https://github.com/geerlingguy/pi-router)
 * [mcp-server-odoo](https://github.com/ivnvxd/mcp-server-odoo)
+* [AI-Voice-assistant](https://github.com/kaymen99/AI-Voice-assistant)
+* [ai-web-scraper](https://github.com/kaymen99/ai-web-scraper)
+  
 
 
 
@@ -293,6 +296,8 @@
 * [ros2-deepstream](https://github.com/NVIDIA-AI-IOT/ros2_deepstream)
 * [isaac_ros_image-pipeline](https://github.com/NVIDIA-AI-IOT/isaac_ros_image_pipeline)
 * [Bumper-Bot](https://github.com/AntoBrandi/Bumper-Bot)
+* [XLeRobot](https://github.com/makermods-robotics/MakerMods-XLeRobot)
+* [](https://github.com/shirokunet/RCVehiclePy)
 
 
 
@@ -420,6 +425,8 @@
 * [JC4827W543_WifiAnalyzer](https://github.com/thelastoutpostworkshop/JC4827W543_WifiAnalyzer)
 * [RTOS_Training1_CommandLine](https://github.com/thien94/RTOS_Training1_CommandLine)
 * [dshare-hid](https://github.com/lockekk/dshare-hid)
+* [ESP32-S3_3_16_S7701_movie_player](https://github.com/thelastoutpostworkshop/ESP32-S3_3_16_ST7701_movie_player)
+* [velxio](https://github.com/davidmonterocrespo24/velxio)
 
 
 
@@ -990,6 +997,11 @@
 * [refugiOS](https://github.com/Ganso/refugiOS)
 * [ncSender](https://github.com/siganberg/ncSender)
 * [foldergram](https://github.com/foldergram/foldergram)
+* [open-dronelog-ha-addon](https://github.com/arpanghosh8453/open-dronelog-ha-addon)
+* [TranslateBoksWithLLMs](https://github.com/hydropix/TranslateBooksWithLLMs)
+* [booklogr](https://github.com/Mozzo1000/booklogr)
+* [My-Brain-Is-full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew)
+* [palantir-for-family-trips](https://github.com/andrewjiang/palantir-for-family-trips)
 
 
 
@@ -1036,6 +1048,8 @@
 * [docker-ros2-desktop-vnc](https://github.com/Tiryoh/docker-ros2-desktop-vnc)
 * [docker-esptool](https://github.com/Tiryoh/docker-esptool)
 * [docker-stm32cubeide](https://github.com/Tiryoh/docker-stm32cubeide)
+* [Podroid](https://github.com/ExTV/Podroid)
+
   
 
 
