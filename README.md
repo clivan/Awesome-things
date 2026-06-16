@@ -297,7 +297,8 @@
 * [isaac_ros_image-pipeline](https://github.com/NVIDIA-AI-IOT/isaac_ros_image_pipeline)
 * [Bumper-Bot](https://github.com/AntoBrandi/Bumper-Bot)
 * [XLeRobot](https://github.com/makermods-robotics/MakerMods-XLeRobot)
-* [](https://github.com/shirokunet/RCVehiclePy)
+* [RCVehiclePy](https://github.com/shirokunet/RCVehiclePy)
+* [clover](https://github.com/CopterExpress/clover)
 
 
 
@@ -319,7 +320,7 @@
 * [computer_vision_projects](https://github.com/adithya-s-k/computer_vision_projects)
 * [lane_segmentation](https://github.com/shirokunet/lane_segmentation)
 * [Breast-Cancer-Prediction](https://github.com/prathimacode-hub/Breast-Cancer-Prediction)
-* 
+* [ROSMASTER-PRO](https://github.com/YahboomTechnology/ROSMASTER-M3PRO)
 
 
 
@@ -427,6 +428,8 @@
 * [dshare-hid](https://github.com/lockekk/dshare-hid)
 * [ESP32-S3_3_16_S7701_movie_player](https://github.com/thelastoutpostworkshop/ESP32-S3_3_16_ST7701_movie_player)
 * [velxio](https://github.com/davidmonterocrespo24/velxio)
+* [ESP32-S3_2_inch_240x320_video_player](https://github.com/thelastoutpostworkshop/ESP32-S3_2_inch_240x320_video_player)
+* [DualEye_display](https://github.com/thelastoutpostworkshop/DualEye_display)
 
 
 
@@ -1002,6 +1005,12 @@
 * [booklogr](https://github.com/Mozzo1000/booklogr)
 * [My-Brain-Is-full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew)
 * [palantir-for-family-trips](https://github.com/andrewjiang/palantir-for-family-trips)
+* [ATAK-Maps](https://github.com/joshuafuller/ATAK-Maps)
+* [zero-employee-company-book](https://github.com/AnthonyDavidAdams/zero-employee-company-book)
+* [linux-android](https://github.com/mayukh4/linux-android)
+* [Windows-11-Clipboard-History-For-Linux](https://github.com/gustavosett/Windows-11-Clipboard-History-For-Linux)
+* [ZSWatch](https://github.com/ZSWatch/ZSWatch)
+* [solidtime](https://github.com/solidtime-io/solidtime)
 
 
 
