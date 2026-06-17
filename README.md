@@ -80,6 +80,7 @@
 * [mcp-server-odoo](https://github.com/ivnvxd/mcp-server-odoo)
 * [AI-Voice-assistant](https://github.com/kaymen99/AI-Voice-assistant)
 * [ai-web-scraper](https://github.com/kaymen99/ai-web-scraper)
+* [TinyLLM](https://github.com/jasonacox/TinyLLM)
   
 
 
@@ -132,6 +133,7 @@
 * [awesome-machine-learnin-resources](https://github.com/ZhiningLiu1998/awesome-machine-learning-resources)
 * [jetson-ai-lab](https://github.com/NVIDIA-AI-IOT/jetson-ai-lab)
 * [awesome-ai-agents](https://github.com/jim-schwoebel/awesome_ai_agents)
+* [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)
 
 
 
@@ -299,6 +301,8 @@
 * [XLeRobot](https://github.com/makermods-robotics/MakerMods-XLeRobot)
 * [RCVehiclePy](https://github.com/shirokunet/RCVehiclePy)
 * [clover](https://github.com/CopterExpress/clover)
+* [Mirco-Ros-Car_VM](https://github.com/YahboomTechnology/Mirco-Ros-Car_VM)
+* [MicroROS-Car-Pi5](https://github.com/YahboomTechnology/MicroROS-Car-Pi5)
 
 
 
@@ -321,6 +325,7 @@
 * [lane_segmentation](https://github.com/shirokunet/lane_segmentation)
 * [Breast-Cancer-Prediction](https://github.com/prathimacode-hub/Breast-Cancer-Prediction)
 * [ROSMASTER-PRO](https://github.com/YahboomTechnology/ROSMASTER-M3PRO)
+* 
 
 
 
@@ -430,6 +435,7 @@
 * [velxio](https://github.com/davidmonterocrespo24/velxio)
 * [ESP32-S3_2_inch_240x320_video_player](https://github.com/thelastoutpostworkshop/ESP32-S3_2_inch_240x320_video_player)
 * [DualEye_display](https://github.com/thelastoutpostworkshop/DualEye_display)
+* [CANopenNodeZephyr](https://github.com/zephyrproject-rtos/CANopenNodeZephyr)
 
 
 
@@ -565,6 +571,7 @@
 * [endurain](https://github.com/endurain-project/endurain)
 * [Piwigo](https://github.com/Piwigo/Piwigo)
 * [TREK](https://github.com/mauriceboe/TREK)
+* [traefik](https://github.com/traefik/traefik)
 
 
 
@@ -1011,6 +1018,14 @@
 * [Windows-11-Clipboard-History-For-Linux](https://github.com/gustavosett/Windows-11-Clipboard-History-For-Linux)
 * [ZSWatch](https://github.com/ZSWatch/ZSWatch)
 * [solidtime](https://github.com/solidtime-io/solidtime)
+* [FreeTAKServer-Docker](https://github.com/FreeTAKTeam/FreeTAKServer-Docker)
+* [FreeTAKServer-Installer](https://github.com/lennisthemenace/FreeTAKServer-Installer)
+* [Astro-Tutotials](https://github.com/mayukh4/Astro-Tutorials)
+* [Radio-Astronomy](https://github.com/mayukh4/Radio-Astronomy)
+* [Meshtastic-Tak-Bridge](https://github.com/erichexter/Mestastic-Tak-Bridge)
+* [meshtasTAK](https://github.com/dB-SPL/meshtasTAK)
+* [awesome-drones](https://github.com/janesmae/awesome-drones)
+* [tailscale-tui](https://github.com/bscott/tailscale-tui)
 
 
 
