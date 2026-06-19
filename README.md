@@ -303,6 +303,8 @@
 * [clover](https://github.com/CopterExpress/clover)
 * [Mirco-Ros-Car_VM](https://github.com/YahboomTechnology/Mirco-Ros-Car_VM)
 * [MicroROS-Car-Pi5](https://github.com/YahboomTechnology/MicroROS-Car-Pi5)
+* [awesome-robotics](https://github.com/kiloreux/awesome-robotics)
+* [open-source-rover](https://github.com/nasa-jpl/open-source-rover)
 
 
 
@@ -504,6 +506,7 @@
 * [mayo](https://github.com/fougue/mayo)
 * [sdf](https://github.com/fogleman/sdf)
 * [dune3d](https://github.com/dune3d/dune3d)
+* [FreeCAD](https://github.com/FreeCAD/FreeCAD)
 
 
 
@@ -572,6 +575,7 @@
 * [Piwigo](https://github.com/Piwigo/Piwigo)
 * [TREK](https://github.com/mauriceboe/TREK)
 * [traefik](https://github.com/traefik/traefik)
+* [homelab-2025](https://github.com/roperscrossroads/homelab-2025)
 
 
 
@@ -1026,6 +1030,18 @@
 * [meshtasTAK](https://github.com/dB-SPL/meshtasTAK)
 * [awesome-drones](https://github.com/janesmae/awesome-drones)
 * [tailscale-tui](https://github.com/bscott/tailscale-tui)
+* [boilerplate](https://github.com/janesmae/boilerplate)
+* [ATAK-Maps](https://github.com/joshuafuller/ATAK-Maps)
+* [LANwalkieTalkie](https://github.com/devapro/LANwalkieTalkie)
+* [node-red-meshtastic](https://github.com/wz2b/node-red-meshtastic)
+* [meshsense-docker-arm64](https://github.com/roperscrossroads/meshsense-docker-arm64)
+* [Portable-AI-USB](https://github.com/techjarves/Portable-AI-USB)
+* [manuskript](https://github.com/olivierkes/manuskript)
+* [Lufus](https://github.com/Hogjects/Lufus)
+* [git-city](https://github.com/srizzon/git-city)
+* [python3dp](https://github.com/ianhong95/python3dp)
+* [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
+* 
 
 
 
