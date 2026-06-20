@@ -305,6 +305,7 @@
 * [MicroROS-Car-Pi5](https://github.com/YahboomTechnology/MicroROS-Car-Pi5)
 * [awesome-robotics](https://github.com/kiloreux/awesome-robotics)
 * [open-source-rover](https://github.com/nasa-jpl/open-source-rover)
+* [5dof_robot_arm](https://github.com/ianhong95/5dof_robot_arm)
 
 
 
@@ -327,7 +328,7 @@
 * [lane_segmentation](https://github.com/shirokunet/lane_segmentation)
 * [Breast-Cancer-Prediction](https://github.com/prathimacode-hub/Breast-Cancer-Prediction)
 * [ROSMASTER-PRO](https://github.com/YahboomTechnology/ROSMASTER-M3PRO)
-* 
+* [5DOFRobotArmV2](https://github.com/ianhong95/5DOFRobotArmV2)
 
 
 
@@ -576,6 +577,8 @@
 * [TREK](https://github.com/mauriceboe/TREK)
 * [traefik](https://github.com/traefik/traefik)
 * [homelab-2025](https://github.com/roperscrossroads/homelab-2025)
+* [papra](https://github.com/papra-hq/papra)
+* [investing-algorithm-framework](https://github.com/coding-kitties/investing-algorithm-framework)
 
 
 
@@ -597,6 +600,7 @@
 * [Shell](https://github.com/tokenrove/build-your-own-shell)
 * [awesome-german](https://github.com/willianpaixao/awesome-german)
 * [assembly-notes](https://github.com/cnlohr/assembly-notes)
+* [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
 
 
 
@@ -1041,7 +1045,14 @@
 * [git-city](https://github.com/srizzon/git-city)
 * [python3dp](https://github.com/ianhong95/python3dp)
 * [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
-* 
+* [waveform](https://github.com/andrewrk/waveform)
+* [meshview](https://github.com/armooo/meshview)
+* [Hydro0x01](https://github.com/40rbidd3n/Hydro0x01)
+* [freecad-mcp](https://github.com/neka-nat/freecad-mcp)
+* [OpenMythos](https://github.com/kyegomez/OpenMythos)
+* [egos-2000](https://github.com/yhzhang0128/egos-2000)
+* [Easyduino](https://github.com/Hanqaqa/Easyduino)
+* [ElatoAI](https://github.com/akdeb/ElatoAI)
 
 
 
@@ -1056,6 +1067,7 @@
 * [awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero)
 * [Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects)
 * [flipper-blackhat](https://github.com/o7-machinehum/flipper-blackhat)
+* [open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners)
 
 
 
@@ -1327,6 +1339,7 @@
 * [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 * [tinux](https://github.com/vaibhavpandeyvpz/tinux)
 * [mini-monolithic-kernel](https://github.com/dilshan/mini-monolithic-kernel)
+* [operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)
 
 
 
