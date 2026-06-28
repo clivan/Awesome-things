@@ -81,6 +81,7 @@
 * [AI-Voice-assistant](https://github.com/kaymen99/AI-Voice-assistant)
 * [ai-web-scraper](https://github.com/kaymen99/ai-web-scraper)
 * [TinyLLM](https://github.com/jasonacox/TinyLLM)
+* [ollama-on-k8s](https://github.com/mathisve/ollama-on-k8s)
   
 
 
@@ -579,6 +580,7 @@
 * [homelab-2025](https://github.com/roperscrossroads/homelab-2025)
 * [papra](https://github.com/papra-hq/papra)
 * [investing-algorithm-framework](https://github.com/coding-kitties/investing-algorithm-framework)
+* [Kavita](https://github.com/Kareadita/Kavita)
 
 
 
@@ -625,6 +627,7 @@
 * [OpenAstroTracker](https://github.com/OpenAstroTech/OpenAstroTracker)
 * [OpenAstroFirmware](https://github.com/OpenAstroTech/OpenAstroFirmware)
 * [Milo-v1.5](https://github.com/MillenniumMachines/Milo-v1.5)
+* [hypervisor-in-1000-lines](https://github.com/nuta/hypervisor-in-1000-lines)
 
 
 
@@ -1053,6 +1056,15 @@
 * [egos-2000](https://github.com/yhzhang0128/egos-2000)
 * [Easyduino](https://github.com/Hanqaqa/Easyduino)
 * [ElatoAI](https://github.com/akdeb/ElatoAI)
+* [MeshChat](https://github.com/pablorevilla-meshtastic/MeshChat)
+* [awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic)
+* [StaticHttpFileServer](https://github.com/andrewrk/StaticHttpFileServer)
+* [karakeep](https://github.com/karakeep-app/karakeep)
+* [awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
+* [wanderer](https://github.com/open-wanderer/wanderer)
+* [XLeRobot](https://github.com/Vector-Wangel/XLeRobot)
+* [awesome.quantum.software](https://github.com/qosf/awesome-quantum-software)
+* [faved](https://github.com/denho/faved)
 
 
 
@@ -1113,6 +1125,7 @@
 * [kubewall](https://github.com/kubewall/kubewall)
 * [Kubernets-Guide](https://github.com/mikeroyal/Kubernetes-Guide)
 * [kubernetes-for-ml-engineers](https://github.com/Paulescu/kubernetes-for-ml-engineers)
+* [k8s-on-digitial-ocean](https://github.com/mathisve/k8s-on-digital-ocean)
 
 
 
@@ -1272,6 +1285,7 @@
 * [IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 * [core](https://github.com/home-assistant/core)
 * [Nif-T](https://github.com/SharKingStudios/Nif-T)
+* [100_Days_100_IoT_Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects)
 
 
 
