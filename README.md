@@ -82,6 +82,14 @@
 * [ai-web-scraper](https://github.com/kaymen99/ai-web-scraper)
 * [TinyLLM](https://github.com/jasonacox/TinyLLM)
 * [ollama-on-k8s](https://github.com/mathisve/ollama-on-k8s)
+* [RoboCAT](https://github.com/kyegomez/RoboCAT)
+* [DALLE-3](https://github.com/kyegomez/DALLE-3)
+* [Odin](https://github.com/kyegomez/Odin)
+* [awesome-omni-modal-papers](https://github.com/kyegomez/awesome-omni-modal-papers)
+* [CHATGPT-System-Prompt](https://github.com/kyegomez/CHATGPT-System-Prompt)
+* [Sora](https://github.com/kyegomez/Sora)
+* [VisionLLaMA](https://github.com/kyegomez/VisionLLaMA)
+* [Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM)
   
 
 
@@ -307,6 +315,8 @@
 * [awesome-robotics](https://github.com/kiloreux/awesome-robotics)
 * [open-source-rover](https://github.com/nasa-jpl/open-source-rover)
 * [5dof_robot_arm](https://github.com/ianhong95/5dof_robot_arm)
+* [awesome-robotic-foundation-models](https://github.com/kyegomez/awesome-robotic-foundation-models)
+* 
 
 
 
@@ -1065,6 +1075,9 @@
 * [XLeRobot](https://github.com/Vector-Wangel/XLeRobot)
 * [awesome.quantum.software](https://github.com/qosf/awesome-quantum-software)
 * [faved](https://github.com/denho/faved)
+* [nanoengineer](https://github.com/kanzure/nanoengineer)
+* [clipable](https://github.com/clipable/clipable)
+* [MixTeX-Latex-OCR](https://github.com/RQLuo/MixTeX-Latex-OCR)
 
 
 
@@ -1354,6 +1367,8 @@
 * [tinux](https://github.com/vaibhavpandeyvpz/tinux)
 * [mini-monolithic-kernel](https://github.com/dilshan/mini-monolithic-kernel)
 * [operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)
+* [resea](https://github.com/nuta/resea)
+* [os-tutorial](https://github.com/cfenollosa/os-tutorial)
 
 
 
