@@ -90,6 +90,7 @@
 * [Sora](https://github.com/kyegomez/Sora)
 * [VisionLLaMA](https://github.com/kyegomez/VisionLLaMA)
 * [Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM)
+* [nanochat](https://github.com/karpathy/nanochat)
   
 
 
@@ -316,7 +317,7 @@
 * [open-source-rover](https://github.com/nasa-jpl/open-source-rover)
 * [5dof_robot_arm](https://github.com/ianhong95/5dof_robot_arm)
 * [awesome-robotic-foundation-models](https://github.com/kyegomez/awesome-robotic-foundation-models)
-* 
+* [autoware](https://github.com/autowarefoundation/autoware)
 
 
 
@@ -450,6 +451,8 @@
 * [ESP32-S3_2_inch_240x320_video_player](https://github.com/thelastoutpostworkshop/ESP32-S3_2_inch_240x320_video_player)
 * [DualEye_display](https://github.com/thelastoutpostworkshop/DualEye_display)
 * [CANopenNodeZephyr](https://github.com/zephyrproject-rtos/CANopenNodeZephyr)
+* [KernelUNO](https://github.com/Arc1011/KernelUNO)
+* 
 
 
 
@@ -466,6 +469,7 @@
 * [kicad-vault](https://github.com/o7-machinehum/kicad-vault)
 * [eda-scripts](https://github.com/iDoka/eda-scripts)
 * [tscircuit](https://github.com/tscircuit/tscircuit)
+* [KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server)
 
 
 
@@ -519,6 +523,7 @@
 * [sdf](https://github.com/fogleman/sdf)
 * [dune3d](https://github.com/dune3d/dune3d)
 * [FreeCAD](https://github.com/FreeCAD/FreeCAD)
+* [pyautocad](https://github.com/reclosedev/pyautocad)
 
 
 
@@ -591,6 +596,8 @@
 * [papra](https://github.com/papra-hq/papra)
 * [investing-algorithm-framework](https://github.com/coding-kitties/investing-algorithm-framework)
 * [Kavita](https://github.com/Kareadita/Kavita)
+* [Olares](https://github.com/beclab/Olares)
+* [homelable](https://github.com/Pouzor/homelable)
 
 
 
@@ -1078,6 +1085,13 @@
 * [nanoengineer](https://github.com/kanzure/nanoengineer)
 * [clipable](https://github.com/clipable/clipable)
 * [MixTeX-Latex-OCR](https://github.com/RQLuo/MixTeX-Latex-OCR)
+* [viewer](https://github.com/zetane/viewer)
+* [meshviewlite](https://github.com/pablorevilla-meshtastic/meshviewlite)
+* [Look4Sat](https://github.com/rt-bishop/Look4Sat)
+* [fit-dashboard](https://github.com/arpanghosh8453/fit-dashboard)
+* [Bjorn](https://github.com/infinition/Bjorn)
+* [flipeer-blackhat-app](https://github.com/o7-machinehum/flipper-blackhat-app)
+* [OpenClaude-Portable](https://github.com/techjarves/OpenClaude-Portable)
 
 
 
@@ -1173,6 +1187,7 @@
 * [DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects)
 * [server-survival](https://github.com/pshenok/server-survival)
 * [DevOps-Project-Generator](https://github.com/NotHarshhaa/devops-project-generator)
+* [ministack](https://github.com/ministackorg/ministack)
 
 
 
