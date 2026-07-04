@@ -91,6 +91,7 @@
 * [VisionLLaMA](https://github.com/kyegomez/VisionLLaMA)
 * [Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM)
 * [nanochat](https://github.com/karpathy/nanochat)
+* [LLMRouter](https://github.com/ulab-uiuc/LLMRouter)
   
 
 
@@ -598,7 +599,12 @@
 * [Kavita](https://github.com/Kareadita/Kavita)
 * [Olares](https://github.com/beclab/Olares)
 * [homelable](https://github.com/Pouzor/homelable)
-
+* [DnsServer](https://github.com/TechnitiumSoftware/DnsServer)
+* [OpenClaw-USB-Portable](https://github.com/techjarves/OpenClaw-USB-Portable)
+* [sightline](https://github.com/ni5arga/sightline)
+* [chip8-emualtor](https://github.com/ni5arga/chip8-emulator)
+* [todometer](https://github.com/cassidoo/todometer)
+* [open-dronelog](https://github.com/arpanghosh8453/open-dronelog)
 
 
 
@@ -1092,6 +1098,11 @@
 * [Bjorn](https://github.com/infinition/Bjorn)
 * [flipeer-blackhat-app](https://github.com/o7-machinehum/flipper-blackhat-app)
 * [OpenClaude-Portable](https://github.com/techjarves/OpenClaude-Portable)
+* [stravaweb](https://github.com/reclosedev/stravaweb)
+* [Hydroponic](https://github.com/o7-machinehum/Hydroponic)
+* [wifiwart](https://github.com/o7-machinehum/wifiwart)
+* [ros2_socketcan](https://github.com/autowarefoundation/ros2_socketcan)
+* [meshsense-docker-arm64](https://github.com/roperscrossroads/meshsense-docker-arm64)
 
 
 
@@ -1107,6 +1118,8 @@
 * [Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects)
 * [flipper-blackhat](https://github.com/o7-machinehum/flipper-blackhat)
 * [open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners)
+* [flipper-blackhat](https://github.com/o7-machinehum/flipper-blackhat)
+* [helloesp](https://github.com/Tech1k/helloesp)
 
 
 
