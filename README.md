@@ -319,6 +319,7 @@
 * [5dof_robot_arm](https://github.com/ianhong95/5dof_robot_arm)
 * [awesome-robotic-foundation-models](https://github.com/kyegomez/awesome-robotic-foundation-models)
 * [autoware](https://github.com/autowarefoundation/autoware)
+* [PAROL6-python-API](https://github.com/PCrnjak/PAROL6-python-API)
 
 
 
@@ -453,6 +454,7 @@
 * [DualEye_display](https://github.com/thelastoutpostworkshop/DualEye_display)
 * [CANopenNodeZephyr](https://github.com/zephyrproject-rtos/CANopenNodeZephyr)
 * [KernelUNO](https://github.com/Arc1011/KernelUNO)
+* [SmartRC-CC1101-Driver-Lib](https://github.com/LSatan/SmartRC-CC1101-Driver-Lib)
 * 
 
 
@@ -605,6 +607,8 @@
 * [chip8-emualtor](https://github.com/ni5arga/chip8-emulator)
 * [todometer](https://github.com/cassidoo/todometer)
 * [open-dronelog](https://github.com/arpanghosh8453/open-dronelog)
+* [umbrel](https://github.com/getumbrel/umbrel)
+* [homelab](https://github.com/willianpaixao/homelab)
 
 
 
@@ -1103,6 +1107,13 @@
 * [wifiwart](https://github.com/o7-machinehum/wifiwart)
 * [ros2_socketcan](https://github.com/autowarefoundation/ros2_socketcan)
 * [meshsense-docker-arm64](https://github.com/roperscrossroads/meshsense-docker-arm64)
+* [Spectral-Micro-BLDC-Controller](https://github.com/Source-Robotics/Spectral-Micro-BLDC-controller)
+* [STEPFOC-stepper-controller](https://github.com/Source-Robotics/STEPFOC-stepper-controller)
+* [agent-skills](https://github.com/addyosmani/agent-skills)
+* [DFCD-cyberdeck-files](https://github.com/ArcticEnrichmentCenter/DFCD-cyberdeck-files)
+* [awesome-math](https://github.com/rossant/awesome-math)
+* [garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana)
+* [Spectral-BLDC-Python](https://github.com/Source-Robotics/Spectral-BLDC-Python)
 
 
 
@@ -1120,6 +1131,7 @@
 * [open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners)
 * [flipper-blackhat](https://github.com/o7-machinehum/flipper-blackhat)
 * [helloesp](https://github.com/Tech1k/helloesp)
+* [aweome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal)
 
 
 
