@@ -118,6 +118,7 @@
 * [DataAnalystPortfolioProjects](https://github.com/PriyankaJhaTheDeveloper/DataAnalystPortfolioProjects)
 * [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
 * [buil-nanogpt](https://github.com/karpathy/build-nanogpt)
+* [train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
 
 
 
@@ -320,6 +321,9 @@
 * [awesome-robotic-foundation-models](https://github.com/kyegomez/awesome-robotic-foundation-models)
 * [autoware](https://github.com/autowarefoundation/autoware)
 * [PAROL6-python-API](https://github.com/PCrnjak/PAROL6-python-API)
+* [XLeWiki](https://github.com/Vector-Wangel/XLeKiwi)
+* [Source-Robotics-Toolbox](https://github.com/Source-Robotics/Source-Robotics-Toolbox)
+* [MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)
 
 
 
@@ -1114,6 +1118,14 @@
 * [awesome-math](https://github.com/rossant/awesome-math)
 * [garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana)
 * [Spectral-BLDC-Python](https://github.com/Source-Robotics/Spectral-BLDC-Python)
+* [SendspinZero](https://github.com/RealDeco/SendspinZero)
+* [skills](https://github.com/google/skills)
+* [openui](https://github.com/thesysdev/openui)
+* [obsidian-brain](https://github.com/ruvnet/obsidian-brain)
+* [OpenMythos](https://github.com/kyegomez/OpenMythos)
+* [deadmesh](https://github.com/gnarzilla/deadmesh)
+* [EnergyMe-Home](https://github.com/jibrilsharafi/EnergyMe-Home)
+
 
 
 
