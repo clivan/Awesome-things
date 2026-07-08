@@ -324,6 +324,7 @@
 * [XLeWiki](https://github.com/Vector-Wangel/XLeKiwi)
 * [Source-Robotics-Toolbox](https://github.com/Source-Robotics/Source-Robotics-Toolbox)
 * [MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)
+* [ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone)
 
 
 
@@ -1125,6 +1126,20 @@
 * [OpenMythos](https://github.com/kyegomez/OpenMythos)
 * [deadmesh](https://github.com/gnarzilla/deadmesh)
 * [EnergyMe-Home](https://github.com/jibrilsharafi/EnergyMe-Home)
+* [FloorplanToBlender](https://github.com/grebtsew/FloorplanToBlender3d)
+* [youtube-fetcher-to-markdown](https://github.com/JimmySadek/youtube-fetcher-to-markdown)
+* [claude-code-from-scratch](https://github.com/FareedKhan-dev/claude-code-from-scratch)
+* [second-brain](https://github.com/NicholasSpisak/second-brain)
+* [building-claude-from-scratch](https://github.com/FareedKhan-dev/building-claude-from-scratch)
+* [claude-mythos-architecture](https://github.com/FareedKhan-dev/claude-mythos-architecture)
+* [ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect)
+* [cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio)
+* [qemu](https://github.com/autoas/qemu)
+* [openclaude-skills](https://github.com/Gitlawb/openclaude-skills)
+* [bionic-for-zotero](https://github.com/windingwind/bionic-for-zotero)
+* [zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags)
+* [notebook-navigator](https://github.com/johansan/notebook-navigator)
+* [ArduinoCore-zephyr](https://github.com/zephyrproject-rtos/ArduinoCore-zephyr)
 
 
 
