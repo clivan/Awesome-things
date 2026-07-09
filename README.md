@@ -1140,6 +1140,17 @@
 * [zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags)
 * [notebook-navigator](https://github.com/johansan/notebook-navigator)
 * [ArduinoCore-zephyr](https://github.com/zephyrproject-rtos/ArduinoCore-zephyr)
+* [Realtime-Screen-Object-Detection](https://github.com/grebtsew/Realtime-Screen-Object-Detection)
+* [Overleaf-LaTeX-Compiler](https://github.com/grebtsew/Overleaf-LaTeX-Compiler)
+* [AlbumOrganizer](https://github.com/grebtsew/AlbumOrganizer)
+* [DIY-AirTag](https://github.com/Circuit-Digest/DIY-AirTag)
+* [autoscraper](https://github.com/alirezamika/autoscraper)
+* [arduino-gps-interfacing-tutorial](https://github.com/Circuit-Digest/arduino-gps-interfacing-tutorial)
+* [Basic-ESP32-Tutorials](https://github.com/Circuit-Digest/Basic-ESP32-Tutorials)
+* [line-follower-robot-using-arduino-uno](https://github.com/Circuit-Digest/line-follower-robot-using-arduino-uno)
+* [diy-self-balancing-using-arduino](https://github.com/Circuit-Digest/diy-self-balancing-robot-using-arduino)
+* [Simple-GPS-Tracker-using-ESP32---Visualize-Data-on-Map](https://github.com/Circuit-Digest/Simple-GPS-Tracker-using-ESP32---Visualize-Data-on-Map)
+* [obsidian-pm](https://github.com/StepanKropachev/obsidian-pm)
 
 
 
