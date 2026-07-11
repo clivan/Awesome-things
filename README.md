@@ -614,6 +614,7 @@
 * [open-dronelog](https://github.com/arpanghosh8453/open-dronelog)
 * [umbrel](https://github.com/getumbrel/umbrel)
 * [homelab](https://github.com/willianpaixao/homelab)
+* [immich-places](https://github.com/Majorfi/immich-places)
 
 
 
@@ -1151,6 +1152,18 @@
 * [diy-self-balancing-using-arduino](https://github.com/Circuit-Digest/diy-self-balancing-robot-using-arduino)
 * [Simple-GPS-Tracker-using-ESP32---Visualize-Data-on-Map](https://github.com/Circuit-Digest/Simple-GPS-Tracker-using-ESP32---Visualize-Data-on-Map)
 * [obsidian-pm](https://github.com/StepanKropachev/obsidian-pm)
+* [joypad-os](https://github.com/joypad-ai/joypad-os)
+* [arpanghosh8453](https://github.com/arpanghosh8453/arpanghosh8453)
+* [open-claude-code](https://github.com/ruvnet/open-claude-code)
+* [sof](https://github.com/thesofproject/sof)
+* [notebooklm-py](https://github.com/teng-lin/notebooklm-py)
+* [openclaw](https://github.com/openclaw/openclaw)
+* [turbodbc](https://github.com/vapor-autos/turbodbc)
+* [awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes)
+* [NeoCalculator](https://github.com/El-EnderJ/NeoCalculator)
+* [managarm](https://github.com/managarm/managarm)
+* [n8n-workflows](https://github.com/Zie619/n8n-workflows)
+* [job-ops](https://github.com/DaKheera47/job-ops)
 
 
 
@@ -1170,6 +1183,7 @@
 * [flipper-blackhat](https://github.com/o7-machinehum/flipper-blackhat)
 * [helloesp](https://github.com/Tech1k/helloesp)
 * [aweome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal)
+* [OSINT-Mapping-Tool](https://github.com/anonymousRAID/OSINT-Mapping-Tool)
 
 
 
