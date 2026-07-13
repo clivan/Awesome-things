@@ -325,6 +325,7 @@
 * [Source-Robotics-Toolbox](https://github.com/Source-Robotics/Source-Robotics-Toolbox)
 * [MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)
 * [ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone)
+* [webots](https://github.com/cyberbotics/webots)
 
 
 
@@ -460,7 +461,7 @@
 * [CANopenNodeZephyr](https://github.com/zephyrproject-rtos/CANopenNodeZephyr)
 * [KernelUNO](https://github.com/Arc1011/KernelUNO)
 * [SmartRC-CC1101-Driver-Lib](https://github.com/LSatan/SmartRC-CC1101-Driver-Lib)
-* 
+* [awesome-esp](https://github.com/agucova/awesome-esp)
 
 
 
@@ -615,6 +616,8 @@
 * [umbrel](https://github.com/getumbrel/umbrel)
 * [homelab](https://github.com/willianpaixao/homelab)
 * [immich-places](https://github.com/Majorfi/immich-places)
+* [homepage](https://github.com/gethomepage/homepage)
+* [drivebase](https://github.com/drivebase/drivebase)
 
 
 
@@ -1164,8 +1167,16 @@
 * [managarm](https://github.com/managarm/managarm)
 * [n8n-workflows](https://github.com/Zie619/n8n-workflows)
 * [job-ops](https://github.com/DaKheera47/job-ops)
-
-
+* [immich-auto-stack](https://github.com/tenekev/immich-auto-stack)
+* [HackOS](https://github.com/El-EnderJ/HackOS)
+* [ecu](https://github.com/vapor-autos/ecu)
+* [awesome-easter-eggs](https://github.com/agucova/awesome-easter-eggs)
+* [magic-resume](https://github.com/JOYCEQL/magic-resume)
+* [meshtastic-sniffer](https://github.com/alphafox02/meshtastic-sniffer)
+* [plane](https://github.com/makeplane/plane)
+* [cv-studio](https://github.com/andrewjiang/cv-studio)
+* [server](https://github.com/Sync-in/server)
+* [worldview](https://github.com/nasa-gibs/worldview)
 
 
 
