@@ -1177,6 +1177,18 @@
 * [cv-studio](https://github.com/andrewjiang/cv-studio)
 * [server](https://github.com/Sync-in/server)
 * [worldview](https://github.com/nasa-gibs/worldview)
+* [DroneID](https://github.com/bkerler/DroneID)
+* [knowledge-graph-system](https://github.com/aaronsb/knowledge-graph-system)
+* [USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM)
+* [drawtonomy](https://github.com/kosuke55/drawtonomy)
+* [huginn](https://github.com/huginn/huginn)
+* [obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)
+* [awesome-vla-wam](https://github.com/DravenALG/awesome-vla-wam)
+* [book-to-skill](https://github.com/virgiliojr94/book-to-skill)
+* [forgetn3d](https://github.com/forgent3d/forgent3d)
+* [OpenTAKServer](https://github.com/brian7704/OpenTAKServer)
+* [transport_drivers](https://github.com/ros-drivers/transport_drivers)
+* [LLMs-local](https://github.com/0xSojalSec/LLMs-local)
 
 
 
@@ -1472,6 +1484,7 @@
 * [operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)
 * [resea](https://github.com/nuta/resea)
 * [os-tutorial](https://github.com/cfenollosa/os-tutorial)
+* [ftl](https://github.com/nuta/ftl)
 
 
 
