@@ -159,6 +159,7 @@
 * [awesome-control-theory](https://github.com/A-make/awesome-control-theory)
 * [inverted-pendulum-igital-twin](https://github.com/soheilbh/inverted-pendelum-digital-twin)
 * [seq_kalman_filter](https://github.com/fabriziotappero/seq_kalman_filter)
+* [control-playground](https://github.com/kosuke55/control-playground)
 
 
 
@@ -1189,6 +1190,17 @@
 * [OpenTAKServer](https://github.com/brian7704/OpenTAKServer)
 * [transport_drivers](https://github.com/ros-drivers/transport_drivers)
 * [LLMs-local](https://github.com/0xSojalSec/LLMs-local)
+* [QHexView](https://github.com/Dax89/QHexView)
+* [dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools)
+* [gnss_compass_ros](https://github.com/MapIV/gnss_compass_ros)
+* [TAK_Meshtastic_Gateway](https://github.com/brian7704/TAK_Meshtastic_Gateway)
+* [OpenTAKServer-Intaller](https://github.com/brian7704/OpenTAKServer-Installer)
+* [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
+* [antsdr-dji-droneid](https://github.com/alphafox02/antsdr_dji_droneid)
+* [odoo](https://github.com/odoo/odoo)
+* [runtipi](https://github.com/runtipi/runtipi)
+* [BillionMail](https://github.com/Billionmail/BillionMail)
+
 
 
 
