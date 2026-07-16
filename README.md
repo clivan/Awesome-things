@@ -619,6 +619,8 @@
 * [immich-places](https://github.com/Majorfi/immich-places)
 * [homepage](https://github.com/gethomepage/homepage)
 * [drivebase](https://github.com/drivebase/drivebase)
+* [awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab)
+  
 
 
 
@@ -1200,6 +1202,19 @@
 * [odoo](https://github.com/odoo/odoo)
 * [runtipi](https://github.com/runtipi/runtipi)
 * [BillionMail](https://github.com/Billionmail/BillionMail)
+* [flowsint](https://github.com/reconurge/flowsint)
+* [mcp-toolbox](https://github.com/googleapis/mcp-toolbox)
+* [Digital](https://github.com/hneemann/Digital)
+* [nostr-vpn](https://github.com/mmalmi/nostr-vpn)
+* [waywallen](https://github.com/waywallen/waywallen)
+* [docker-atak-server](https://github.com/pvarki/docker-atak-server)
+* [EveryonesLLM](https://github.com/HayatoHongo/EveryonesLLM)
+* [proxcenter-ui](https://github.com/adminsyspro/proxcenter-ui)
+* [Lora-Wideband-Decoder](https://github.com/persistentcache/Lora-Wideband-Decoder)
+* [osiris](https://github.com/simplifaisoul/osiris)
+* [firmware](https://github.com/meshtastic/firmware)
+* [Hermes-USB-Portable](https://github.com/techjarves/Hermes-USB-Portable)
+* [TeraGPT](https://github.com/kyegomez/TeraGPT)
 
 
 
@@ -1497,6 +1512,7 @@
 * [resea](https://github.com/nuta/resea)
 * [os-tutorial](https://github.com/cfenollosa/os-tutorial)
 * [ftl](https://github.com/nuta/ftl)
+* [operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)
 
 
 
