@@ -620,6 +620,8 @@
 * [homepage](https://github.com/gethomepage/homepage)
 * [drivebase](https://github.com/drivebase/drivebase)
 * [awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab)
+* [ConvertX](https://github.com/C4illin/ConvertX)
+
   
 
 
@@ -1215,6 +1217,19 @@
 * [firmware](https://github.com/meshtastic/firmware)
 * [Hermes-USB-Portable](https://github.com/techjarves/Hermes-USB-Portable)
 * [TeraGPT](https://github.com/kyegomez/TeraGPT)
+* [3d-printer-quoter](https://github.com/simplifaisoul/3d-print-quoter)
+* [sms](https://github.com/markuman/sms)
+* [Prometheus](https://github.com/kyegomez/Prometheus)
+* [markitdow](https://github.com/microsoft/markitdown)
+* [librepods](https://github.com/librepods-org/librepods)
+* [latex-action](https://github.com/xu-cheng/latex-action)
+* [FUXA](https://github.com/frangoteam/FUXA)
+* [meshview](https://github.com/armooo/meshview)
+* [OpenTAKServer-UI](https://github.com/brian7704/OpenTAKServer-UI)
+* [CNNGPT](https://github.com/kyegomez/CNNGPT)
+* [GPT4o](https://github.com/kyegomez/GPT4o)
+* [obsidian-wiki](https://github.com/Ar9av/obsidian-wiki)
+* [ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate)
 
 
 
